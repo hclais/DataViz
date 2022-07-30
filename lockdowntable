@@ -1,0 +1,4039 @@
+<noinclude>
+{{Use Oxford spelling|date=April 2020}}
+{{Use dmy dates|date=August 2020}}
+{{current|template|date=March 2020}}
+{{VEFriendly}}
+{{#ifexpr:({{CURRENTTIMESTAMP}}-{{REVISIONTIMESTAMP}})>86000|{{Update}}}}
+{{About|quarantines outside Mainland China|coronavirus quarantines originated in Mainland China|Template:COVID-19 pandemic lockdowns in mainland China}}
+</noinclude><!--- Tables must be merged, sources reviewed. Help welcome. --->
+
+<!--- me
+***************
+PLEASE DO NOT INSERT ANY DATES WITHOUT REFERENCES OR CITATION. UNSOURCED DATE WILL BE REMOVED UNDER WP:NOR
+If using a source multiple please change the <ref name= ""> parameter into any manually created name (remove the automatically created name). Keeping the automatically created name will create errors in the article where this template is inserted.
+Example: ref name=":1" -into- ref name=":ontario1"
+***************
+THIS LIST IS ONLY FOR COUNTRIES/TERRITORIES WHICH HAVE OFFICIALLY DECLARED LOCKDOWNS IN ALL OR SOME PARTS OF THE COUNTRY. 
+******DO NOT PLACE ANY COUNTRIES/TERRITORIES HERE IF THE WORDS "LOCKDOWN/SHUTDOWN/QUARANTINE" WERE NOT USED IN ANNOUNCEMENTS.
+******DO NOT PLACE ANY COUNTRIES/TERRITORIES HERE IF ONLY LIMITED SOCIAL RESTRICTIONS/BORDER CLOSURES WERE DECLARED. 
+COUNTRIES/TERRITORIES WITH LIMITED RESTRICTIONS ARE TO BE PLACED IN ANOTHER LIST ON THE ARTICLE "Curfews and lockdowns related to the 2019–20 coronavirus pandemic".
+***************--->
+
+<div style="height: 50em; overflow: auto;">
+{| class="wikitable sortable mw-collapsible" style="margin-left:15px; text-align:center; font-size:85%;"
+|+
+|-
+! colspan="29" |{{Navbar-collapsible|{{resize|85%|COVID-19 pandemic lockdowns}}|Template:COVID-19 pandemic lockdowns}}
+|-
+! rowspan="2" |Country / territory
+! rowspan="2" |Place
+! colspan="3" |First lockdown
+! colspan="3" |Second lockdown
+! colspan="3" |Third lockdown
+! colspan="3" |Fourth lockdown
+! colspan="3" |Fifth lockdown
+! colspan="3" |Sixth lockdown
+! colspan="3" |Seventh lockdown
+! colspan="3" |Eighth lockdown
+! rowspan="2" |Total length (days)
+! rowspan="2" |Level
+|-
+!{{nowrap|Start date}}
+!End date
+!Length (days)
+!Start date
+!End date
+!Length (days)
+!Start date
+!End date
+!Length (days)
+!Start date
+!End date
+!Length (days)
+!Start date
+!End date
+!Length (days)
+!Start date
+!End date
+!Length (days)
+!Start date
+!End date
+!Length (days)
+!Start date
+!End date
+!Length (days)
+|-
+| colspan="2" style="text-align:left;" |[[File:Flag of Albania.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Albania|Albania]]
+|2020-03-13<ref>{{#invoke:cite web||url=https://www.reuters.com/article/us-health-coronavirus-albania/albania-extends-lockdown-till-end-of-coronavirus-outbreak-idUSKBN21J6AZ/|title=Albania extends lockdown till end of coronavirus outbreak|work=[[National Post]]|date=1 April 2020|access-date=4 April 2020}}</ref>
+|2020-06-01<ref>{{#invoke:cite web||url=https://www.garda.com/crisis24/news-alerts/347436/albania-covid-19-lockdown-measures-eased-from-june-1-update-12/|title=Albania: COVID-19 lockdown measures eased from June 1 /update 12|work=[[National Post]]|date=2 June 2020|access-date=2 June 2020}}</ref>
+|80
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|80
+|National
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Algeria.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Algeria|Algeria]]
+| style="text-align:left" |[[Algiers]]
+| rowspan="2" |2020-03-23<ref name="Algeria23">{{#invoke:cite web||url=https://www.garda.com/crisis24/news-alerts/325896/algeria-government-implements-lockdown-and-curfew-in-blida-and-algiers-march-23-update-7|title=Algeria: Government implements lockdown and curfew in Blida and Algiers March 23 /update 7 | date=23 March 2020|website=garda.com|access-date=30 March 2020}}</ref>
+| rowspan="2" |2020-05-14<ref>{{#invoke:cite web||title=Algeria: Authorities extend movement restrictions until May 14 /update 14|url=https://www.garda.com/crisis24/news-alerts/336886/algeria-authorities-extend-movement-restrictions-until-may-14-update-14|date=27 April 2020|publisher=GardaWorld|access-date=11 May 2020}}</ref>
+| rowspan="2" |52
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+| rowspan="2" |52
+| rowspan="2" |City
+|-
+| style="text-align:left" |[[Blida]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+| || || 
+| || ||
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Argentina.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Argentina|Argentina]]
+| style="text-align:left" |[[Greater Buenos Aires]]
+|2020-03-19<ref name="exceptional">{{#invoke:cite news||url=https://www.bloomberg.com/news/articles/2020-03-20/argentina-orders-exceptional-lockdown-in-bid-to-contain-virus|title=Argentina Orders 'Exceptional' Lockdown in Bid to Contain Virus|date=20 March 2020|work=Bloomberg.com|access-date=20 March 2020|language=en}}</ref>
+|2020-11-08<ref>{{#invoke:cite news||title=AMBA moves from 'isolation' to 'distancing'; Fernández talks up vaccine hopes|url=https://www.batimes.com.ar/news/argentina/amba-moves-from-isolation-to-distancing-as-fernandez-talks-up-vaccine-hopes.phtml|work=Buenos Aires Times ([[Perfil]])|date=6 November 2020}}</ref>
+|{{DATEDIFF2|2020-03-19|2020-11-08}}
+|2021-05-22<ref name="auto27">{{Cite web|url=https://www.batimes.com.ar/news/argentina/argentina-enters-strict-nine-day-lockdown-as-covid-cases-soar.phtml|title=Buenos Aires Times &#124; Argentina enters strict nine-day lockdown as Covid cases soar|website=www.batimes.com.ar}}</ref>
+|2021-05-30
+|9
+|2021-06-05<ref name="auto20">{{Cite web|url=https://www.garda.com/crisis24/news-alerts/485626/argentina-authorities-ease-some-covid-19-restrictions-until-june-11-strict-measures-in-place-june-5-6-update-35|title=Argentina: Authorities ease some COVID-19 restrictions until June 11; strict measures in place June 5-6 /update 35|website=GardaWorld}}</ref>
+|2021-06-06
+|2
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|245
+|Metropolitan area
+|-
+| style="text-align:left" |Rest of the country
+|2020-03-19<ref name="exceptional" />
+|2020-05-10<ref>{{#invoke:cite web||title=Argentina extends mandatory lockdown in Buenos Aires and metropolitan area|url=https://en.mercopress.com/2020/05/09/argentina-extends-mandatory-lockdown-in-buenos-aires-and-metropolitan-area|access-date=2020-10-25|website=MercoPress|language=en}}</ref>
+|{{DATEDIFF2|2020-03-19|2020-05-10}}
+|2021-05-22<ref name="auto27"/>
+|2021-05-30
+|9
+|2021-06-05<ref name="auto20"/>
+|2021-06-06
+|2
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|63
+|National
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Armenia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Armenia|Armenia]]
+|2020-03-24<ref>{{#invoke:cite news|
+| date         = 31 March 2020
+| title        = Armenia Extends Coronavirus Lockdown
+| url          = https://www.azatutyun.am/a/30520272.html
+| work         = [[Radio Free Europe/Radio Liberty]]
+| access-date  = 13 April 2020
+}}</ref>
+|2020-05-04<ref>{{#invoke:cite news|
+| last         = Mejlumyan
+| first        = Ani
+| date         = 4 May 2020
+| title        = Armenia ends lockdown even as COVID cases spiking
+| url          = https://eurasianet.org/armenia-ends-lockdown-even-as-covid-cases-spiking
+| work         = [[Eurasianet]]
+| location     = China
+| access-date  = 12 May 2020
+}}</ref>
+|41
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|41
+|National
+|-
+| rowspan="52" style="text-align:left" |[[File:Flag of Australia (converted).svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Australia|Australia]]
+| style="text-align:left" |[[Melbourne]] 
+|2020-03-31<ref>{{Cite web|date=2020-03-29|title=Victoria moves to 'stage 3' shutdown as aged care worker tests positive|url=https://www.abc.net.au/news/2020-03-30/victoria-stage-3-coronavirus-restrictions-as-cases-rise/12101632|access-date=2021-08-14|website=www.abc.net.au|language=en-AU}}</ref>
+|2020-05-12<ref name=":6">{{Cite web|date=2020-05-11|title=Statement From The Premier|url=https://www.premier.vic.gov.au/statement-premier-65|access-date=2020-09-12|website=www.premier.vic.gov.au|language=en-AU}}</ref>{{Efn|Restrictions were further eased on the 1st of June 2021, however during the time between then and the 12th of May 2021, "Stay at home orders" were not active and hence this period didn't constitute what is internationally considered a "lockdown".}}
+|43
+|2020-07-09{{efn|name=efn-Melb-2nd|Stage 3 lockdown imposed on 8 July; Stage 4 lockdown imposed on 2 August 2020}}<ref>{{#invoke:cite web||date=6 September 2020|title=Melbourne lockdown extended by two weeks|url=https://www.bbc.co.uk/news/world-australia-54045102|access-date=6 September 2020|work=BBC News}}</ref><ref name="VictoriaLockdown">{{#invoke:cite web||date=3 August 2020|title=Regional Victoria stage 3 Covid-19 restrictions and lockdown rules explained|url=https://www.theguardian.com/australia-news/2020/aug/03/coronavirus-victoria-stage-3-restrictions-lockdown-victorian-regional-vic-covid-19-rules-stage-three-explained-what-you-need-to-know|access-date=3 August 2020|publisher=[[The Guardian]]}}</ref>
+|2020-10-27<ref>{{#invoke:cite web||date=26 October 2020|title=Melbourne's coronavirus restrictions ease as Victorian Premier Daniel Andrews announces end to lockdown|url=https://www.abc.net.au/news/2020-10-26/melbourne-coronavirus-restrictions-daniel-andrews-lockdown/12812858|access-date=26 October 2020|publisher=[[Australian Broadcasting Corporation]]}}</ref>
+|111
+|2021-02-13<ref name=":2">{{#invoke:cite web||title=Victoria to enter five-day 'circuit breaker' lockdown from tonight|url=https://www.9news.com.au/national/coronavirus-melbourne-holiday-inn-cluster-grows-fears-of-another-lockdown-third-wave/76487987-e76d-4868-9949-71345bf083bf|access-date=2021-02-13|website=www.9news.com.au}}</ref>
+|2021-02-17<ref name=":2"/>
+|5
+|2021-05-28<ref>{{cite web|url=https://www.abc.net.au/news/2021-05-27/victoria-covid-cases-melbourne-outbreak-lockdown-restrictions/100169172|title=Victoria enters COVID-19 lockdown as cases from Melbourne outbreak grow|date=27 May 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-06-10<ref>{{cite web|url=https://www.abc.net.au/news/2021-06-10/covid-restrictions-for-regional-victoria-and-melbourne/100200590|title=Here are the new COVID restrictions for regional Victoria and Melbourne|date=10 June 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|14
+|2021-07-16<ref name="vic5">{{cite web|url=https://www.abc.net.au/news/2021-07-15/melbourne-lockdown-response-to-covid-outbreak/100296220|title=Victoria to enter five-day snap lockdown as more COVID-19 cases recorded|date=15 July 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-07-27<ref name="vic5extended">{{cite web|url=https://www.abc.net.au/news/2021-07-20/victoria-covid-cases-ahead-of-lockdown-extension/100306232|title=Victoria's lockdown extended by a week, rules tightened for residents returning from red zones|date=20 July 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|12
+|2021-08-05<ref name="vic6">{{cite web|url=https://www.abc.net.au/news/2021-08-05/victoria-covid-19-lockdown-restrictions-tightened/100352444|title=Victoria to enter sixth lockdown in response to new mystery COVID-19 cases|date=5 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-10-21<ref>{{Cite web|last=Knowlton|first=Cassidy|title=Call your mates! You can finally go to the pub on this date|url=https://www.timeout.com/melbourne/news/victorian-lockdown-will-end-at-11-59pm-on-october-21-101721|access-date=2021-10-17|website=Time Out Melbourne|language=en-AU}}</ref>
+|78
+| || || 
+| || ||
+|263
+|Metropolitan area
+|-
+| style="text-align:left" |[[Greater Shepparton]]
+|2020-03-31
+|2020-05-12<ref name=":6" />
+|43
+|2020-08-06<ref name="VictoriaLockdown" />
+|2020-09-16<ref name="VictoriaLockdown" />
+|41
+|2021-02-13<ref name=":2" />
+|2021-02-17<ref name=":2" />
+|5
+|2021-05-28
+|2021-06-03
+|7
+|2021-07-16<ref name="vic5"/>
+|2021-07-27<ref name="vic5extended"/>
+|12
+|2021-08-05<ref name="vic6"/>
+|2021-08-09
+|5
+|2021-08-21<ref name="vic7">{{cite web|url=https://www.abc.net.au/news/2021-08-21/victoria-records-61-new-cases-of-covid/100396036 |title=All of Victoria now in lockdown after more than 61 new COVID-19 cases, Shepparton outbreak grows |date=2021-08-21 |website=abc.net.au |accessdate=2021-08-25}}</ref>
+|2021-09-15<ref name="vic7-end:1">{{cite web|url=https://www.abc.net.au/news/2021-09-01/regional-victoria-expected-to-leave-lockdown-next-week/100425462 |title=Premier flags regional lockdown reprieve, but warns some restrictions will remain |date=2021-09-01 |website=abc.net.au |accessdate=2021-09-01}}</ref><ref name="vic7-end:2">{{cite web|url= https://www.abc.net.au/news/2021-09-08/regional-victoria-new-rules-once-covid-19restrictions-ease/100443524|title=Regional Victoria is about to leave COVID-19 lockdown. Here's what's changing|date=2021-09-08 |website=abc.net.au}}</ref>
+|25
+|2021-10-02<ref>{{cite web|url=https://www.abc.net.au/news/2021-10-01/shepparton-to-enter-seven-day-lockdown-from-tonight/100509044|title=Greater Shepparton to enter snap, seven-day COVID-19 lockdown |date=2021-10-01 |website=abc.net.au |accessdate=2021-10-02}}</ref>
+|2021-10-09<ref>{{cite web|url=https://www.abc.net.au/news/2021-10-08/mildura-covid-lockdown-shepparton-moorabool-ease/100526008|title=Mildura enters COVID-19 lockdown as regional Victorian regions of Shepparton and Moorabool exit |date=2021-10-08 |website=abc.net.au |accessdate=2021-10-09}}</ref>
+|7
+|145
+|rowspan="6" |[[Local government areas of Victoria|Local government area]]
+|-
+| style="text-align:left" |[[City of Ballarat|Ballarat]]
+|2020-03-31
+|2020-05-12<ref name=":6" />
+|43
+|2020-08-06<ref name="VictoriaLockdown" />
+|2020-09-16<ref name="VictoriaLockdown" />
+|41
+|2021-02-13<ref name=":2" />
+|2021-02-17<ref name=":2" />
+|5
+|2021-05-28
+|2021-06-03
+|7
+|2021-07-16<ref name="vic5"/>
+|2021-07-27<ref name="vic5extended"/>
+|12
+|2021-08-05<ref name="vic6"/>
+|2021-08-09
+|5
+|2021-08-21<ref name="vic7" />
+|2021-09-09<ref name="vic7-end:1"/><ref name="vic7-end:2"/>
+|20 
+|2021-09-16<ref name="vic8">{{cite web|url=https://www.abc.net.au/news/2021-09-15/ballarat-enters-week-long-lockdown-from-tonight/100463764 |title=Ballarat to enter week-long lockdown as regional city records four cases|date=2021-09-15 |website=abc.net.au |accessdate=2021-09-15}}</ref>
+|2021-09-22{{Efn|End-date of lockdown is subject to the vaccine rollout. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref>{{cite web|url=https://www.abc.net.au/news/2021-09-16/victoria-covid-cases-deaths-vaccination-restrictions/100465744|title=Modest easing of Victoria's COVID lockdown rules to kick in from Friday night as state records 514 new COVID cases|date=16 September 2021|website=[[ABC News (Australia)|ABC News]]}}</ref><ref>{{cite web|url=https://www.abc.net.au/news/2021-09-22/ballarat-lockdown-to-end-amid-hamilton-exposure-sites/100482322|title=Ballarat to be released from COVID-19 lockdown as western Victoria sees first exposure sites in months|date=22 September 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|7
+|140
+|-
+| style="text-align:left" |[[Greater Geelong]]
+|2020-03-31
+|2020-05-12<ref name=":6" />
+|43
+|2020-08-06<ref name="VictoriaLockdown" />
+|2020-09-16<ref name="VictoriaLockdown" />
+|41
+|2021-02-13<ref name=":2" />
+|2021-02-17<ref name=":2" />
+|5
+|2021-05-28
+|2021-06-03
+|7
+|2021-07-16<ref name="vic5"/>
+|2021-07-27<ref name="vic5extended"/>
+|12
+|2021-08-05<ref name="vic6"/>
+|2021-08-09
+|5
+|2021-08-21<ref name="vic7"/>
+|2021-09-09<ref name="vic7-end:1"/><ref name="vic7-end:2"/>
+|20
+|2021-09-20<ref name="geelong8">{{cite web|url=https://www.9news.com.au/national/coronavirus-victoria-updates-greater-geelong-mitchell-shire-and-surf-coast-to-go-into-seven-day-lockdown/14289328-6f85-429e-b09d-07a2e34a5d11 |title=Greater Geelong, Surf Coast Shire and Mitchell Shire plunged into seven-day snap lockdown|date=2021-09-19 |website=9news.com.au |accessdate=2021-09-19}}</ref>
+|2021-09-26<ref name="auto4b">{{cite web|url=https://www.abc.net.au/news/2021-09-27/victoria-new-covid-cases-geelong-melbourne-lockdown/100493364 |title=Victoria records 705 new COVID-19 cases as Geelong and Surf Coast leave lockdown|date=2021-09-27 |website=[[ABC News (Australia)|ABC News]] |accessdate=2021-09-27}}</ref>
+|7
+|140
+|-
+| style="text-align:left" |[[Surf Coast Shire|Surf Coast Shire]]
+|2020-03-31
+|2020-05-12<ref name=":6" />
+|43
+|2020-08-06<ref name="VictoriaLockdown" />
+|2020-09-16<ref name="VictoriaLockdown" />
+|41
+|2021-02-13<ref name=":2" />
+|2021-02-17<ref name=":2" />
+|5
+|2021-05-28
+|2021-06-03
+|7
+|2021-07-16<ref name="vic5"/>
+|2021-07-27<ref name="vic5extended"/>
+|12
+|2021-08-05<ref name="vic6"/>
+|2021-08-09
+|5
+|2021-08-21<ref name="vic7"/>
+|2021-09-09<ref name="vic7-end:1"/><ref name="vic7-end:2"/>
+|20 
+|2021-09-20<ref name="geelong8"/>
+|2021-09-26<ref name="auto4b"/>
+|7
+|140
+|-
+| style="text-align:left" |[[Shire of Mitchell|Mitchell Shire]]
+|2020-03-31
+|2020-05-12<ref name=":6" />
+|43
+|2020-07-09{{efn|name=efn-Melb-2nd}}<ref>{{cite news |title=Victoria reimposes coronavirus stage 3 lockdown on metropolitan Melbourne and Mitchell Shire after record rise in cases |url=https://www.abc.net.au/news/2020-07-07/victoria-reimposes-lockdown-as-coronavirus-cases-rise/12429990 |access-date=20 September 2021 |work=[[ABC News (Australia)|ABC News]] |date=7 July 2020 |archive-url=https://web.archive.org/web/20210830134554/https://www.abc.net.au/news/2020-07-07/victoria-reimposes-lockdown-as-coronavirus-cases-rise/12429990 |archive-date=30 August 2021 |url-status=live |language=en-AU}}</ref>
+|2020-09-16<ref name="VictoriaLockdown" />
+|70
+|2021-02-13<ref name=":2" />
+|2021-02-17<ref name=":2" />
+|5
+|2021-05-28
+|2021-06-03
+|7
+|2021-07-16<ref name="vic5"/>
+|2021-07-27<ref name="vic5extended"/>
+|12
+|2021-08-05<ref name="vic6"/>
+|2021-08-09
+|5
+|2021-08-21<ref name="vic7"/>
+|2021-09-09<ref name="vic7-end:1"/><ref name="vic7-end:2"/>
+|20 
+|2021-09-20<ref name="geelong8"/>
+|2021-10-13{{Efn|End-date of lockdown is subject to the vaccine rollout. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref>{{cite news |title=Mitchell Shire in regional Victoria to exit lockdown at 11.59pm on Wednesday|url=https://7news.com.au/lifestyle/health-wellbeing/mitchell-shire-in-regional-victoria-to-exit-lockdown-at-1159pm-on-wednesday-c-4223306|access-date=15 October 2021 |website=7news.com.au |date=13 October 2021}}</ref>
+|24
+|186
+|-
+| style="text-align:left" |[[Rural City of Mildura|Mildura]]
+|2020-03-31
+|2020-05-12<ref name=":6" />
+|43
+|2020-08-06<ref name="VictoriaLockdown" />
+|2020-09-16<ref name="VictoriaLockdown" />
+|41
+|2021-02-13<ref name=":2" />
+|2021-02-17<ref name=":2" />
+|5
+|2021-05-28
+|2021-06-03
+|7
+|2021-07-16<ref name="vic5"/>
+|2021-07-27<ref name="vic5extended"/>
+|12
+|2021-08-05<ref name="vic6"/>
+|2021-08-09
+|5
+|2021-08-21<ref name="vic7"/>
+|2021-09-09<ref name="vic7-end:1"/><ref name="vic7-end:2"/>
+|20 
+|2021-10-09<ref>{{cite news |title=Mildura enters COVID-19 lockdown as regional Victorian regions of Shepparton and Moorabool exit |url=https://www.abc.net.au/news/2021-10-08/mildura-covid-lockdown-shepparton-moorabool-ease/100526008|access-date=9 October 2021 |work=[[ABC News (Australia)|ABC News]] |date=8 October 2021}}</ref>
+|2021-10-22<ref>{{cite news |title=Mildura lockdown extended by a week|url=https://www.sunraysiadaily.com.au/coronavirus-covid-19/5426504/mildura-lockdown-extended-by-a-week|access-date=15 October 2021 |website=sunraysiadaily.com.au |date=15 October 2021}}</ref>
+|14
+|147
+|-
+| style="text-align:left" |[[Latrobe Valley]]
+|2020-03-31
+|2020-05-12<ref name=":6" />
+|43
+|2020-08-06<ref name="VictoriaLockdown" />
+|2020-09-16<ref name="VictoriaLockdown" />
+|41
+|2021-02-13<ref name=":2" />
+|2021-02-17<ref name=":2" />
+|5
+|2021-05-28
+|2021-06-03
+|7
+|2021-07-16<ref name="vic5"/>
+|2021-07-27<ref name="vic5extended"/>
+|12
+|2021-08-05<ref name="vic6"/>
+|2021-08-09
+|5
+|2021-08-21<ref name="vic7"/>
+|2021-09-09<ref name="vic7-end:1"/><ref name="vic7-end:2"/>
+|20 
+|2021-09-29<ref>{{cite web|url=https://www.abc.net.au/news/2021-09-28/city-of-latrobe-to-enter-seven-day-lockdown-from-midnight/100498820 |title=Latrobe Valley to enter seven-day COVID-19 lockdown from midnight|date=2021-09-28 |website=[[ABC News (Australia)|ABC News]] |accessdate=2021-09-28}}</ref>
+|2021-10-06<ref>{{cite web|url=https://www.abc.net.au/news/2021-10-05/lockdown-to-end-in-victoria-latrobe-valley/100513822|title=Latrobe Valley lockdown to end at midnight tonight|date=2021-10-05 |website=[[ABC News (Australia)|ABC News]] |accessdate=2021-10-06}}</ref>
+|7
+|140
+|Region
+|-
+| style="text-align:left" |Rest of regional [[Victoria (Australia)|Victoria]]{{efn|All of Victoria except Melbourne, Greater Shepparton, Ballarat, Greater Geelong, Surf Coast Shire and Mitchell Shire}}
+|2020-03-31
+|2020-05-12<ref name=":6" />
+|43
+|2020-08-06<ref name="VictoriaLockdown" />
+|2020-09-16<ref name="VictoriaLockdown" />
+|41
+|2021-02-13<ref name=":2" />
+|2021-02-17<ref name=":2" />
+|5
+|2021-05-28
+|2021-06-03
+|7
+|2021-07-16<ref name="vic5"/>
+|2021-07-27<ref name="vic5extended"/>
+|12
+|2021-08-05<ref name="vic6"/>
+|2021-08-09
+|5
+|2021-08-21<ref name="vic7"/>
+|2021-09-09<ref name="vic7-end:1"/><ref name="vic7-end:2"/>
+|20 
+| || ||
+|133
+|rowspan="3"|[[States and territories of Australia|State]]
+|-
+| style="text-align:left" |[[South Australia]]
+|
+|
+|
+|2020-11-19<ref name="SALockdown">[https://www.abc.net.au/news/2020-11-18/sa-ordered-into-major-lockdowns-amid-coronavirus-outbreak/12894666 South Australia ordered into six-day lockdown amid coronavirus outbreak] 18 November 2020 ''Australian Broadcasting Corporation'', accessed 18 November 2020</ref>
+|2020-11-22<ref>[https://www.theguardian.com/australia-news/2020/nov/20/south-australia-to-end-covid-lockdown-early-as-premier-fuming-over-pizza-lie South Australia to end Covid lockdown early as premier 'fuming' over pizza lie] 20 November 2020 ''The Guardian'', accessed 20 November 2020</ref>
+|3
+|2021-07-21<ref>{{Cite web|date=2021-07-20|title=South Australia 'moves into lockdown' after five COVID cases associated with Modbury Hospital cluster|url=https://www.abc.net.au/news/2021-07-20/south-australia-moves-into-lockdown/100306696|access-date=2021-07-21|website=www.abc.net.au|language=en-AU}}</ref>
+|2021-07-27
+|7
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|62
+|-
+| style="text-align:left" |[[Tasmania|Southern Tasmania]]
+|
+|
+|
+|2021-10-16<ref>{{Cite web|date=2021-10-15|title=Hobart region enters three-day lockdown after COVID hotel quarantine breach|url=https://www.abc.net.au/news/2021-10-15/hobart-three-day-lockdown-after-covid-hotel-breach/100542270|website=www.abc.net.au|language=en-AU}}</ref>
+|2021-10-19
+|3
+| || ||
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|55
+|-
+| style="text-align:left" |[[Northern Beaches|Northern Beaches (NSW)]]
+|
+|
+|
+|2020-12-19<ref>{{#invoke:cite web||url=https://www.abc.net.au/news/2020-12-20/sydney-northern-beaches-enters-day-one-of-coronavirus-lockdown/13000648|title=Sydney's Northern Beaches enter day one of lockdown as NSW Premier Gladys Berejiklian flags higher daily COVID-19 cases|date=20 December 2020|publisher=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-01-10<ref>{{#invoke:cite web||url=https://www.abc.net.au/news/2021-01-10/northern-beaches-reopen-after-three-week-covid-lockdown/13045954|title=Three-week coronavirus lockdown lifts in northern zone of Sydney's northern beaches|date=10 January 2020|publisher=[[ABC News (Australia)|ABC News]]}}</ref>
+|{{DATEDIFF2|2020-12-19|2021-01-10}}
+|2021-06-26
+|2021-10-11{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="newrestrictions">{{Cite web|date=2021-08-20|title=Here are the new NSW COVID restrictions including a Sydney curfew, work permits and exercise limits|url=https://www.abc.net.au/news/2021-08-20/nsw-new-covid-restrictions-and-lockdown-explained/100393204|access-date=2021-08-20|website=www.abc.net.au|language=en-AU}}</ref>
+|107
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|''181''
+| [[Local government areas of New South Wales|Local government area]]
+|-
+| style="text-align:left" |[[Brisbane]]
+|
+|
+|
+|2021-01-08<ref name="LockdownTemplate_Brisbane">{{#invoke:cite web||url=https://www.bbc.co.uk/news/world-australia-55582836 |title=Covid: Brisbane to enter three-day lockdown over single infection |website=bbc.co.uk |date=2021-01-08 |language=en}}</ref>
+|2021-01-11<ref name="LockdownTemplate_Brisbane" />
+|3
+|2021-03-29<ref>{{#invoke:cite web||url=https://www.abc.net.au/news/2021-03-29/qld-coronavirus-outbreak-contact-tracing-lockdown/100034850|title=Greater Brisbane will go into a three-day lockdown after recording 10 new cases of coronavirus, four in the community|date=29 March 2021|publisher=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-04-01<ref>{{#invoke:cite web||url=https://www.abc.net.au/news/2021-04-01/qld-covid-brisbane-easter-lockdown-lifts-community-transmission/100035948|title=Brisbane's lockdown now lifted after only one case of community transmission|date=1 April 2021|publisher=[[ABC News (Australia)|ABC News]]}}</ref>
+|3
+|2021-06-29<ref name=":1">{{cite web|url=https://www.abc.net.au/news/2021-06-29/queensland-coronavirus-delta-palaszczuk-lockdown/100249626|title=Queenslanders heading for three-day lockdown after unvaccinated hospital worker tests positive to COVID-19|date=29 June 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-07-03
+|4
+|2021-07-31<ref>{{cite web|url=https://www.abc.net.au/news/2021-08-01/covid-lockdown-queensland-what-can-you-do/100340036|title=South-east Queensland enters three-day COVID lockdown as businesses and residents scramble to adhere to restrictions|date=1 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-08-08<ref>{{cite web|url=https://www.abc.net.au/news/2021-08-05/covid-qld-latest-cases-coronavirus-delta-outbreak-lockdown/100343074|title=Queensland records 16 new community cases of COVID-19, 11 detected in ship off Gladstone coast|date=5 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|8
+| || || 
+| || || 
+| || ||
+|67
+|Metropolitan area
+|-
+| style="text-align:left" |[[Perth]]
+|
+|
+|
+|2021-01-31<ref name="perth">{{#invoke:cite news||date=2021-01-31|title=Covid: Australian city of Perth goes into snap lockdown after guard tests positive|language=en-GB|work=BBC News|url=https://www.bbc.com/news/world-australia-55877150|access-date=2021-01-31}}</ref>
+|2021-02-05<ref name="perth" />
+|{{DATEDIFF2|2021-01-31|2021-02-05}}
+|2021-04-23<ref name=":5">{{#invoke:cite web||date=2021-04-23|title=Perth enters snap three-day lockdown after Covid spreads from hotel quarantine into community|url=http://www.theguardian.com/australia-news/2021/apr/23/perth-to-enter-snap-three-day-lockdown-after-covid-spreads-from-hotel-quarantine-into-community|access-date=2021-04-24|website=The Guardian|language=en}}</ref>
+|2021-04-26<ref name=":5" />
+|3
+|2021-06-28<ref name="PerthPeel3">{{cite web|url=https://www.abc.net.au/news/2021-06-28/wa-coronavirus-perth-peel-hard-lockdown/100250920|title=Perth and Peel plunged into lockdown after another local coronavirus case detected|date=28 June 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-07-02<ref name="PerthPeel3" />
+|4
+| || || 
+| || || 
+| || || 
+| || ||
+|61
+|Metropolitan area
+|-
+| style="text-align:left" |[[Peel (Western Australia)|Peel]]
+|
+|
+|
+|2021-01-31<ref name="perth" />
+|2021-02-05<ref name="perth" />
+|{{DATEDIFF2|2021-01-31|2021-02-05}}
+|2021-04-23<ref name=":5" />
+|2021-04-26<ref name=":5" />
+|3
+|2021-06-28
+|2021-07-02
+|4
+| || || 
+| || || 
+| || || 
+| || ||
+|61
+| rowspan="3" |Region
+|-
+| style="text-align:left" |[[South West, Western Australia|South West]]
+|
+|
+|
+|2021-01-31<ref name="perth" />
+|2021-02-05<ref name="perth" />
+|{{DATEDIFF2|2021-01-31|2021-02-05}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|57
+|-
+| style="text-align:left" |[[Illawarra]]
+|
+|
+|
+|2021-06-26<ref name="auto5b">{{cite web|url=https://www.abc.net.au/news/2021-06-26/nsw-covid-lockdown-expanded/100246622|title=COVID-19 lockdown expanded to cover Greater Sydney, Blue Mountains, Wollongong and Central Coast|date=26 June 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-10-11{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="bigchanges">{{Cite web|date=2021-07-28|title=Big changes for shopping, schools and singles as NSW records 177 new COVID-19 cases|url=https://www.abc.net.au/news/2021-07-28/nsw-177-new-covid-19-cases/100329076|access-date=2021-07-28|website=www.abc.net.au|language=en-AU}}</ref><ref name="sydneyextended">{{Cite web|date=2021-08-20|title=Sydney lockdown extended for one month as NSW records 644 COVID-19 cases, four deaths|url=https://www.abc.net.au/news/2021-08-20/nsw-records-644-covid-19-cases-and-four-deaths/100392702|access-date=2021-08-20|website=www.abc.net.au|language=en-AU}}</ref><ref name="newrestrictions"/>
+|{{DATEDIFF2|2021-06-26|2021-10-11}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|''159''
+|-
+| style="text-align:left" |[[Greater Sydney]]
+|
+|
+|
+|2021-06-26<ref name="auto5b"/>
+|2021-10-11{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="bigchanges"/><ref name="sydneyextended"/><ref name="newrestrictions"/>
+|{{DATEDIFF2|2021-06-26|2021-10-11}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|''159''
+|Metropolitan area
+|-
+| style="text-align:left" |[[Darwin, Northern Territory|Darwin]]
+|
+|
+|
+|2021-06-27<ref>{{cite web|url=https://www.abc.net.au/news/2021-06-27/darwin-into-snap-lockdown-nt-four-coronavirus-cases/100247354|title=Darwin region sent into snap lockdown with five new Granites mine COVID-19 cases, fears more to come|date=27 June 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-07-02<ref>{{cite web|url=https://www.abc.net.au/news/2021-06-28/nt-records-one-new-covid-19-case-as-lockdown-extended/100248942|title=Greater Darwin lockdown extended by 72 hours as NT records one new case of COVID-19|date=28 June 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|{{DATEDIFF2|2021-06-27|2021-07-02}}
+|2021-08-16
+|2021-08-19
+|3
+| || ||
+| || || 
+| || || 
+| || || 
+| || ||
+|57
+|Metropolitan area
+|-
+| style="text-align:left" |[[South East Queensland]]
+|
+|
+|
+|2021-06-29<ref name=":1" />
+|2021-07-02
+|3
+|2021-07-31
+|2021-08-08
+|8
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|63
+|Region
+|-
+| style="text-align:left" |[[Townsville]]
+|
+|
+|
+|2021-06-29<ref name=":1" />
+|2021-07-02
+|3
+|2021-07-31
+|2021-08-08
+|8
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|63
+|Metropolitan area
+|-
+| style="text-align:left" |[[Alice Springs]]
+|
+|
+|
+|2021-06-30 <ref>{{Cite web|date=2021-06-30|title=Alice Springs airport exposure sites listed as town enters 'critical' lockdown|url=https://www.abc.net.au/news/2021-06-30/nt-covid-update-alice-springs-lockdown-following-airport-case/100254702|access-date=2021-06-30|website=www.abc.net.au|language=en-AU}}</ref>
+|2021-07-03
+|3
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|55
+|Metropolitan area
+|-
+| style="text-align:left" |[[Central West (New South Wales)|Central West]]
+|
+|
+|
+|2021-07-20<ref name="cenwest">{{cite web|url=https://www.abc.net.au/news/2021-07-27/nsw-central-west-covid-19-lockdown-set-to-end-as-planned/100322798|title=NSW Central West lockdown to end as planned as testing blitz pays off|date=27 July 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-07-27<ref name="cenwest"/>
+|7
+|2021-08-14
+|2021-10-11{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="tinderbox">{{cite web|url=https://www.abc.net.au/news/2021-08-26/nsw-regional-lockdown-extended-again/100408690|title=COVID sewage detection a concern as 'tinder box' NSW regions stay in lockdown|date=26 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|58
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|117
+| rowspan="3" |Region
+|-
+| style="text-align:left" |[[Hunter Region]]
+|
+|
+|
+|2021-08-05<ref name="auto19">{{cite web|url=https://www.abc.net.au/news/2021-08-05/hunter-lockdown-as-schools-close/100352262|title=Newcastle, Hunter in snap lockdown as COVID cases grow|date=5 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref><ref>{{cite web|url=https://www.abc.net.au/news/2021-08-12/nsw-records-345-covid-19-cases/100370274|title=NSW records 345 cases of locally acquired COVID-19, two deaths|date=12 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-10-11{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="tinderbox"/>
+|67
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|119
+|-
+| style="text-align:left" |Upper Hunter
+|
+|
+|
+|2021-08-05<ref name="auto19"/>
+|2021-09-16{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="tinderbox"/><ref name="auto7">{{cite web|url=https://www.abc.net.au/news/2021-09-16/nsw-records-1351-covid-cases-and-12-deaths/100465866|title=NSW records 1,351 COVID-19 cases and 12 deaths; Lismore and Albury LGAs go back into lockdown|date=16 September 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|42
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|94
+|-
+| style="text-align:left" |[[Muswellbrook Shire|Muswellbrook]]
+|
+|
+|
+|2021-08-05<ref name="auto19"/>
+|2021-09-16{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="tinderbox"/><ref name="auto7"/>
+|42
+|2021-09-28<ref name="auto28">{{cite web|url=https://www.abc.net.au/news/2021-09-28/port-macquarie-goes-into-snap-lockdown/100498002|title=Port Macquarie-Hastings, Muswellbrook under snap lockdown for seven days|date=28 September 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-10-11{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}
+|13
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|107
+| rowspan="2" |Local government area
+|-
+| style="text-align:left" |[[Armidale]]
+|
+|
+|
+|2021-08-07<ref>{{cite web|url=https://www.abc.net.au/news/2021-08-07/nsw-records-new-covid-19-cases319/100358360|title=NSW COVID crisis deepens after record 319 new cases found, Armidale plunged into lockdown|date=7 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-09-10<ref name="regionalnsw">{{cite web|url=https://www.abc.net.au/news/2021-09-09/nsw-lockdown-restrictions-lifted-/100446248|title=Lockdown lifted for parts of regional NSW, but freedom comes with a warning|date=9 September 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|34
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|87
+|-
+| style="text-align:left" |[[Cairns Region]]
+|
+|
+|
+|2021-08-08<ref name="cairnsyarrabah">{{cite web|url=https://www.abc.net.au/news/2021-08-09/qld-covid-cairns-three-day-lockdown-restrictions-taxi-driver/100360202|title=Cairns and Yarrabah enter three-day lockdown as tests reveal taxi driver case linked to reef pilot COVID case|date=9 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-08-11<ref name="cairnsend">{{cite web|url=https://www.abc.net.au/news/2021-08-11/queensland-coronavirus-cases-update-cairns-lockdown-testing/100360958|title=Cairns lockdown to lift as Queensland records four COVID-19 cases linked to school cluster|date=11 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|3
+| || ||
+| || ||
+| || ||
+| || ||
+| || || 
+| || ||
+|55
+| Region
+|-
+| style="text-align:left" |[[Aboriginal Shire of Yarrabah|Yarrabah]]
+|
+|
+|
+|2021-08-08<ref name="cairnsyarrabah"/>
+|2021-08-11<ref name="cairnsend"/>
+|3
+| || ||
+| || ||
+| || ||
+| || ||
+| || || 
+| || ||
+|55
+| rowspan="7" |Local government area
+|-
+| style="text-align:left" |[[Richmond Valley Council|Richmond Valley]]
+|
+|
+|
+|2021-08-09<ref name="auto21">{{cite web|url=https://www.abc.net.au/news/2021-08-09/nsw-covid-byron-bay-into-lockdown/100362954|title=Byron Bay, Richmond Valley, Ballina, Lismore in lockdown after COVID-19 case in region|date=9 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-09-10<ref name="tinderbox"/><ref name="auto22">{{cite web|url=https://www.abc.net.au/news/2021-09-08/parts-of-regional-nsw-to-come-out-of-covid-19-lockdown/100445316|title=Parts of regional NSW to come out of COVID-19 lockdown midnight Friday, ABC understands|date=8 September 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|32
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|84
+|-
+| style="text-align:left" |[[City of Lismore|Lismore]]
+|
+|
+|
+|2021-08-09<ref name="auto21"/>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/>
+|32
+|2021-09-16<ref name="auto7"/>
+|2021-09-23
+|7
+|2021-10-03<ref>{{cite web|url=https://www.health.nsw.gov.au/news/Pages/20211003_02.aspx|title=Stay-at-home order introduced for Lismore|date=3 October 2021|website=health.nsw.gov.au}}</ref>
+|2021-10-11
+|8
+| || || 
+| || || 
+| || || 
+| || ||
+|99
+|-
+| style="text-align:left" |[[Byron Shire]]
+|
+|
+|
+|2021-08-09<ref name="auto21"/>
+|2021-09-10<ref name="tinderbox"/><ref name="auto22"/>
+|32
+|2021-09-21<ref>{{cite web|url=https://www.abc.net.au/news/2021-09-21/new-covid-case-for-northern-rivers-tweed-ballina-byron-lismore/100478498|title=Tweed Heads, Byron Bay and Kempsey under lockdown for seven days|date=21 September 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-09-28
+|7
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|91
+|-
+| style="text-align:left" |[[Ballina Shire|Ballina]]
+|
+|
+|
+|2021-08-09<ref name="auto21"/>
+|2021-09-10<ref name="tinderbox"/><ref name="auto22"/>
+|32
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|84
+|-
+| style="text-align:left" |[[Tamworth, New South Wales|Tamworth]]
+|
+|
+|
+|2021-08-09<ref>{{cite web|url=https://www.abc.net.au/news/2021-08-09/nsw-records-283-new-covid19-cases-on-monday/100361158|title=NSW records 283 new COVID-19 cases and another death|date=9 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-09-10<ref name="tinderbox"/><ref name="auto22"/><ref name="regionalnsw"/>
+|32
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|84
+|-
+| style="text-align:left" |[[City of Dubbo|Dubbo]]
+|
+|
+|
+|2021-08-11<ref>{{cite web|url=https://www.abc.net.au/news/2021-08-11/dubbo-lockdown-announced-as-second-covid-case-confirmed/100366842|title=Dubbo in lockdown, child's COVID-19 infection confirmed|date=11 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-10-11{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="tinderbox"/><ref name="regionalnsw"/>
+|61
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|113
+|-
+| style="text-align:left" |[[Australian Capital Territory]]
+|
+|
+|
+|2021-08-12<ref>{{cite web|url=https://www.abc.net.au/news/2021-08-12/canberra-records-new-case-of-covid-19-sending-act-into-lockdown/100370616|title=ACT to enter lockdown for 7 days from 5:00pm as one new case of COVID-19 recorded|date=12 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-10-15<ref>{{cite web|url=https://www.abc.net.au/news/2021-10-15/covid19-lockdown-has-ended-in-the-act-what-you-can-do/100536278|title=The COVID-19 lockdown has ended in the ACT — here's what you can and can't do|date=15 October 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|61
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|114
+| Territory
+|-
+| style="text-align:left" |[[New South Wales|Regional NSW]]{{efn|Applies for all others Regional NSW outside Greater Sydney, Hunter Region, Dubbo, [[Central West (New South Wales)|Central West]], [[South Coast (New South Wales)|South Coast]], Goulburn, Queanbeyan-Palerang and Snowy Monaro}}
+|
+|
+|
+|2021-08-14<ref name="auto18">{{cite web|url=https://www.abc.net.au/news/2021-08-14/regional-nsw-in-covid-19-lockdown-joins-the-rest-of-the-state/100377702|title=Regional NSW in COVID-19 lockdown, joins the rest of the state|date=14 August 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/>
+|28
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|81
+| Region
+|-
+| style="text-align:left" |[[Mid-Coast Council|Mid-Coast]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/><ref>{{cite web|url=https://www.manningrivertimes.com.au/story/7425899/mid-coast-lockdown-lifted-from-midnight-tonight/|title=MidCoast local government area COVID lockdown lifted at midnight|date=10 September 2021|website=}}</ref>
+|28
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|81
+|Local government area
+|-
+| style="text-align:left" |[[South Coast (New South Wales)|South Coast]]{{efn|Applies for all [[South Coast (New South Wales)|South Coast]] except [[Bega Valley Shire|Bega Valley]] after 16/09/2021}}
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-10-11{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="tinderbox"/><ref name="regionalnsw"/>
+|57
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|109
+| Region
+|-
+| style="text-align:left" |[[Bega Valley Shire|Bega Valley]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-16{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="tinderbox"/><ref name="regionalnsw"/><ref name="auto">{{cite web|url=https://www.nsw.gov.au/media-releases/changes-to-stay-at-home-orders-for-regional-nsw-local-government-areas|title=Changes to stay-at-home orders for Regional NSW Local Government Areas|date=16 September 2021|website=www.nsw.gov.au}}</ref>
+|33
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|85
+|rowspan="11" |Local government area
+|-
+| style="text-align:left" |[[Goulburn Mulwaree Council|Goulburn–Mulwaree]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-10-11{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="tinderbox"/><ref name="regionalnsw"/>
+|57
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|109
+|-
+| style="text-align:left" |[[Snowy Monaro Regional Council|Snowy Monaro]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-16{{Efn|End-date of lockdown is subject to the vaccine rollout or 0 cases for 14 days. Restrictions are set to be eased when 70% of the eligible population has been vaccinated}}<ref name="tinderbox"/><ref name="regionalnsw"/><ref name="auto"/>
+|33
+|2021-09-30<ref>{{cite web|url=https://www.abc.net.au/news/2021-09-30/snowy-monaro-lockdown-expected-as-case-numbers-grow/100502666|title=Snowy Monaro snapped into lockdown today as case numbers grow|date=30 September 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-10-11<ref name="auto23">{{cite press release|title=Changes to stay-at-home orders for regional NSW local government areas |url=https://www.health.nsw.gov.au/news/Pages/20211006_01.aspx |website=www.health.nsw.gov.au |publisher=NSW Health |access-date=6 October 2021 |date=6 October 2021}}</ref>
+|11
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|96
+|-
+| style="text-align:left" |[[Yass Valley Council|Yass Valley]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-10<ref name="regionalnsw"/>
+|28
+|2021-09-14<ref name="nsw-health-yass-lckdwn-13sept'21">{{cite press release |title=Stay-at-home order for Yass Valley Council |url=https://www.health.nsw.gov.au/news/Pages/20210913_01.aspx |website=www.health.nsw.gov.au |publisher=NSW Health |access-date=14 September 2021 |date=13 September 2021}}</ref>
+|2021-09-27
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|94
+|-
+| style="text-align:left" |[[City of Albury|Albury (NSW)]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/>
+|28
+|2021-09-16<ref name="auto7"/>
+|2021-09-23
+|7
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|87
+|-
+| style="text-align:left" |[[Cowra Shire|Cowra]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/>
+|28
+|2021-09-20<ref>{{cite web|url=https://www.abc.net.au/news/2021-09-20/western-nsw-town-returns-to-lockdown/100475826|title=Cowra records case number one of COVID-19 and will return to lockdown orders from today|date=20 September 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-10-05<ref>{{cite web|url=https://www.cowraguardian.com.au/story/7447379/cowras-lockdown-extended-for-further-seven-days/?cs=593|title=Cowra's lockdown extended for further seven days|date=27 September 2021|website=}}</ref>
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|94
+|-
+| style="text-align:left" |[[Glen Innes Severn|Glen Innes Severn (NSW)]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/>
+|28
+|2021-09-17<ref name="auto25">{{cite web|url=https://www.abc.net.au/news/2021-09-17/covid-live-blog-vaccine-blitz-over-60s-pfizer-jabs-pop-clinics/100469408|title=COVID live updates: NSW to trial shorter quarantine periods for fully vaccinated arrivals, Glen Innes and Hilltops into lockdown|date=17 September 2021|website=[[ABC News (Australia)|ABC News]]}}</ref>
+|2021-09-24
+|7
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|87
+|-
+| style="text-align:left" |[[Hilltops Council|Hilltops (NSW)]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/>
+|28
+|2021-09-17<ref name="auto25"/>
+|2021-10-01<ref>{{cite web|url=https://www.youngwitness.com.au/story/7442373/hilltops-lockdown-extended-for-a-further-seven-days/|title=Hilltops lockdown extended for a further seven days|date=23 September 2021|website=youngwitness.com.au}}</ref>
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|94
+|-
+| style="text-align:left" |[[Port Macquarie-Hastings Council|Port Macquarie-Hastings]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/>
+|28
+|2021-09-28<ref name="auto28"/>
+|2021-10-05
+|7
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|87
+|-
+| style="text-align:left" |[[Oberon Council|Oberon]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/>
+|28
+|2021-09-29<ref>{{cite web|url=https://www.health.nsw.gov.au/news/Pages/20210929_01.aspx|title=Stay-at-home orders introduced for Oberon|date=29 September 2021|website=health.nsw.gov.au}}</ref>
+|2021-10-11<ref name="auto23"/>
+|12
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|92
+|-
+| style="text-align:left" |[[Gunnedah Shire|Gunnedah]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/>
+|28
+|2021-10-05<ref>{{cite web|url=https://www.health.nsw.gov.au/news/Pages/20211004_01.aspx|title=Changes to stay-at-home orders for regional NSW local government areas|date=4 October 2021|website=health.nsw.gov.au}}</ref>
+|2021-10-11
+|6
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|86
+|-
+| style="text-align:left" |[[Casino, New South Wales|Casino]]
+|
+|
+|
+|2021-08-14<ref name="auto18"/>
+|2021-09-10<ref name="tinderbox"/><ref name="regionalnsw"/>
+|28
+|2021-10-02<ref>{{cite web|url=https://www.health.nsw.gov.au/news/Pages/20211001_02.aspx|title=Stay-at-home order introduced for Casino|date=1 October 2021|website=health.nsw.gov.au}}</ref>
+|2021-10-11
+|9
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|89
+|Town
+|-
+| style="text-align:left" |Rest of the country{{efn|Applies for further measures in each [[States and territories of Australia|Australian state and territory]]}}
+|2020-03-23<ref>{{#invoke:cite web||url=https://www.straitstimes.com/asia/australianz/australia-starts-lockdown-measures-as-coronavirus-cases-jump|title=Australia starts lockdown measures as coronavirus cases jump|work=[[The Straits Times]]|date=23 March 2020|access-date=23 March 2020}}</ref>
+|2020-05-15<ref>{{#invoke:cite web||url=https://www.reuters.com/article/us-health-coronavirus-australia-idUSKBN22M01U|title=Australia's biggest state to ease coronavirus lockdown from May 15}} 10 May 2020 ''uk.reuters.com'', accessed 31 October 2020</ref>
+|52
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+|52
+| rowspan="10" |National
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Austria.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Austria|Austria]]
+|2020-03-16<ref name="orf20200316">{{#invoke:cite web||url=https://orf.at/stories/3158055/|title=Ausgangsbeschränkungen: Was nun erlaubt ist und was nicht|last=red|first=ORF at/Agenturen|date=16 March 2020|website=news.ORF.at|language=de|access-date=20 March 2020}}</ref>
+|2020-04-13<ref>{{#invoke:cite news|
+| author       = [[Agence France-Presse|AFP]]
+| date         = 20 March 2020
+| title        = Austria extends confinement measures until April 13
+| url          = https://www.thelocal.at/20200320/austria-extends-confinement-measures-until-april-13
+| work         = [[The Local]]
+| access-date  = 21 March 2020
+}}</ref>
+|28
+|2020-11-03<ref name="agi4">[https://pendect.com/categories/regional/europe/austria/austria-goes-into-4-week-partial-lockdown-starting-tuesday-imposes-curfew-and-restrictions-on-private-gatherings Austria goes into 4-week partial lockdown starting Tuesday, imposes curfew and restrictions on private gatherings] ''pendect.com'', accessed 2 November 2020</ref>
+|2020-11-30<ref name="agi4" />
+|27
+|2020-12-26<ref name="auto51">{{#invoke:cite web||url=https://apa.az/en/europe/Austria-to-introduce-new-lockdown-until-January-18-338231|title=Austria to introduce new lockdown until January 18|date=Dec 18, 2020|website=apa.az|access-date=Jan 6, 2021}}</ref>
+|2021-02-07<ref>{{Cite web|url=https://www.thelocal.at/20210117/austria-extends-coronavirus-lockdown-until-february-7th/|title=Austria extends coronavirus lockdown until February 7th|date=January 18, 2021}}</ref>
+|43
+|2021-11-22<ref>https://www.bbc.com/news/world-europe-59343650</ref>
+|2021-12-11<ref>https://www.bbc.com/news/world-europe-59343650</ref>
+|20
+| || || 
+| || ||
+|
+|
+|
+|
+|
+|
+|118
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Azerbaijan.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Azerbaijan|Azerbaijan]]
+|2020-03-31<ref name="AZERILockdown">{{#invoke:cite web| |url=https://nk.gov.az/az/document/4599/ |title=Azərbaycan Respublikasının ərazisində xüsusi karantin rejiminin müddətinin uzadılması barədə |language=az |trans-title= On the Extension of the Special Quarantine Regime on the Territory of the Republic of Azerbaijan|publisher=[[Cabinet of Azerbaijan]]|date=17 July 2020|access-date=17 July 2020}}</ref>
+|2020-08-30<ref name="AZERILockdown" />
+|152
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|152
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Bangladesh.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Bangladesh|Bangladesh]]
+|2020-03-26<ref>{{#invoke:cite web||url=https://www.dhakatribune.com/bangladesh/2020/03/23/govt-offices-to-remain-closed-till-april-4|title=Coronavirus: Bangladesh declares public holiday from March 26 to April 4|publisher=[[Dhaka Tribune]]|date=23 March 2020|access-date=11 April 2020}}</ref>
+|2020-05-16<ref>{{#invoke:cite web||url=https://www.usnews.com/news/world/articles/2020-05-04/bangladesh-coronavirus-cases-above-10-000-health-ministry|title=Bangladesh Eases Some Restrictions, Extends Lockdown to May 16|publisher=[[US News]]|date=4 May 2020|access-date=12 May 2020}}</ref>
+|51
+|2021-04-05<ref>{{Cite web|url=https://www.tribuneindia.com/news/world/bangladesh-to-impose-1-week-lockdown-234126|title=Bangladesh to impose 1-week lockdown from Monday|first=Tribune News|last=Service|website=Tribuneindia News Service}}</ref>
+|2021-07-14<ref>{{Cite web|url=https://www.business-standard.com/article/current-affairs/bangladesh-extends-strict-nationwide-covid-19-lockdown-till-july-14-121070600075_1.html|title=Bangladesh extends 'strict' nationwide Covid-19 lockdown till July 14|date=July 6, 2021|via=Business Standard}}</ref>
+|100
+|2021-07-23<ref>{{Cite web|url=https://www.aljazeera.com/news/2021/7/23/bangladesh-covid-lockdown-two-weeks|title=Bangladesh reimposes COVID lockdown for two weeks|website=www.aljazeera.com}}</ref>
+|2021-08-10<ref>{{Cite web|url=https://www.dhakatribune.com/bangladesh/2021/08/03/strict-lockdown-extended-till-august-10|title=Bangladesh extends strict lockdown by five days to August 10|date=August 3, 2021|website=Dhaka Tribune}}</ref>
+|18
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|169
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Barbados.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Barbados|Barbados]]
+|2020-03-28<ref name="BarbadosLockdown">{{#invoke:cite news||url=https://www.nationnews.com/nationnews/news/244948/curfew-extended|title=Curfew extended|date=11 April 2020|work=nationnews.com|access-date=23 April 2020}}</ref>
+|2020-05-03<ref name="BarbadosLockdown" />
+|36
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|36
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Belgium (civil).svg <!-- Not the official flag of Belgium, but see talk page for objections to using the state flag as the default -->|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Belgium|Belgium]]
+|2020-03-18<ref>{{#invoke:cite web||url=https://www.theguardian.com/world/gallery/2020/mar/18/belgium-enters-lockdown-over-coronavirus-crisis-in-pictures|title=Belgium enters lockdown over coronavirus crisis – in pictures|work=[[The Guardian]]|date=18 March 2020|access-date=20 March 2020}}</ref>
+|2020-05-04 <ref>{{#invoke:cite web| |last1=Brzozowski |first1=Alexandra |title=Belgian government to relax lockdown measures in three phases, starting 4 May |url=https://www.euractiv.com/section/coronavirus/news/belgian-government-to-relax-lockdown-measures-in-three-phases-starting-4-may/ |website=www.euractiv.com |access-date=15 May 2020 |date=24 April 2020}}</ref>
+|47
+|2020-11-02<ref name="lbcBelgium">[https://www.lbc.co.uk/world-news/belgium-announces-six-week-lockdown-in-covid-19-crackdown/ Belgium announces six-week lockdown in Covid-19 crackdown] 30 October 2020 ''www.lbc.co.uk'', accessed 31 October 2020</ref>
+|2020-12-14<ref name="lbcBelgium" />
+|42
+|2021-03-27<ref>{{Cite web|url=https://www.euractiv.com/section/politics/news/belgium-enters-new-four-week-easter-lockdown/|title=Belgium enters new four-week Easter lockdown|first=Alexandra|last=Brzozowski|date=March 25, 2021|website=www.euractiv.com}}</ref>
+|2021-04-26<ref>{{Cite web|url=https://www.politico.eu/article/belgium-easing-lockdown-monday-including-travel-schools-terraces/|title=Belgium to start easing lockdown Monday, including for travel, schools|date=April 14, 2021|website=POLITICO}}</ref>
+|30
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|119
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Bermuda.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Bermuda|Bermuda]]
+|2020-04-04<ref name="BarbadosLockdown" />
+|2020-05-02<ref>{{#invoke:cite news||url=http://www.jamaicaobserver.com/latestnews/Fifth_person_dies_as_Bermuda_extends_lockdown_to_May_2?profile=1228|title=Fifth person dies as Bermuda extends lockdown to May 2|date=15 April 2020|work=jamaicaobserver.com|access-date=23 April 2020}}</ref>
+|28
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|28
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Bhutan.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Bhutan|Bhutan]]
+|2020-08-11<ref name="BhutanLockdown">{{#invoke:cite news||url=https://www.business-standard.com/article/current-affairs/bhutan-govt-imposes-nationwide-lockdown-to-curb-coronavirus-spread-120081100437_1.html|title=Bhutan govt imposes nationwide lockdown to curb coronavirus spread|date=11 August 2020|work=Business Standard|access-date=11 August 2020}}</ref>
+|2020-09-01<ref>[http://www.xinhuanet.com/english/2020-09/01/c_139334305.htm Bhutan eases nationwide lockdown in phases] 2020-09-01, ''www.xinhuanet.com'', accessed 6 November 2020</ref>
+|{{DATEDIFF2|2020-08-11|2020-09-01}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|21
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Bolivia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Bolivia|Bolivia]]
+|2020-03-22<ref name="BoliviaLockdown">{{#invoke:cite news||url=http://www.royalgazette.com/health/article/20200402/under-siege-island-braces-for-24-hour-lockdown|title=Under siege: island braces for 24-hour lockdown|date=2 April 2020|work=royalgazette.com|access-date=23 April 2020}}</ref>
+|2020-07-31<ref>{{#invoke:cite web||url=https://www.efe.com/efe/america/sociedad/bolivia-amplia-un-mes-mas-la-cuarentena-ante-el-aumento-de-casos-covid-19/20000013-4282742|title=Bolivia amplía un mes más la cuarentena ante el aumento de casos de COVID-19|website=www.efe.com}}</ref>
+|131
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|131
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Botswana.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Botswana|Botswana]]
+|2020-04-02<ref name="BotswanaLockdown">{{#invoke:cite news|
+| last         = Ngatane
+| first        = Nthakoana
+| date         = 31 March 2020
+| title        = Botswana declares state of emergency, lockdown in wake of COVID-19 cases
+| url          = https://www.msn.com/en-za/news/africa/botswana-declares-state-of-emergency-lockdown-in-wake-of-covid-19-cases/ar-BB11X4lP?li=BBqfWMJ
+| work         = [[Eyewitness News (South Africa)|Eyewitness News]]
+| access-date  = 3 April 2020
+}}</ref>
+|2020-04-30<ref name="BotswanaLockdown" />
+|28
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|28
+|-
+| rowspan="2" style="text-align:left;" |[[File:Flag of Brazil.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Brazil|Brazil]]
+| style="text-align:left" |[[Santa Catarina (state)|Santa Catarina]]
+|2020-03-17<ref name="SantaCatarinaLockdown">{{#invoke:cite web||url=https://g1.globo.com/sc/santa-catarina/noticia/2020/03/29/casos-de-pacientes-com-coronavirus-sobe-para-197-em-sc-e-governo-prorroga-quarentena.ghtml |title=Casos de pacientes com coronavírus sobe para 197 em SC e governo prorroga quarentena &#124; Santa Catarina &#124; G1 |publisher=G1.globo.com |date=18 March 2020 |access-date=1 April 2020}}</ref>
+|2020-04-07<ref name="SantaCatarinaLockdown" />
+|21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|21
+| rowspan="2" |[[States of Brazil|State]]
+|-
+| style="text-align:left" |[[São Paulo (state)|São Paulo]]
+|2020-03-24<ref>{{#invoke:cite web||title=Quarentena começa a valer nesta terça-feira em todo o estado de SP|url=https://agora.folha.uol.com.br/sao-paulo/2020/03/quarentena-comeca-a-valer-nesta-terca-feira-em-todo-o-estado-de-sp.shtml|last=Soares|first=Regiane|date=24 March 2020|access-date=6 May 2020}}</ref>
+|2020-05-10<ref name="SaoPauloLockdown">{{#invoke:cite web||title=Doria prorroga quarentena no estado de SP até 10 de maio devido a pandemia de coronavírus|url=https://g1.globo.com/sp/sao-paulo/noticia/2020/04/17/doria-prorroga-quarentena-no-estado-de-sp-ate-10-de-maio-devido-a-pandemia-de-coronavirus.ghtml|last=Santiago|first=Tatiana|date=17 April 2020|website=G1|language=pt-br|access-date=6 May 2020}}</ref>
+|47
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|47
+|-
+| colspan="2" style="text-align:left;" |[[File:Flag of Bulgaria.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Bulgaria|Bulgaria]]
+|2020-03-13{{efn|Initially to last until 13 April 2020, included closures of universities, schools, restaurants and other establishments, a ban on mass gatherings, suspension of sports competitions for more than two months, certain temporary restrictions on the free movement of citizens, but no strict "Stay at home order".<ref>{{#invoke:cite web||url=https://www.euractiv.com/section/health-consumers/short_news/bulgaria-update-covid-19/|title=Bulgaria extends ‘epidemic emergency’ and mulls tightening COVID-19 restrictions|work=euractiv.com|author=Nikolov, Krassen|date=9 July 2020|access-date=26 August 2020}}</ref> A number of lockdown measures were already eased or lifted in April<ref>{{#invoke:cite web||url=https://www.vesti.bg/temi-v-razvitie/tema-koronavirus/borisov-bylgariia-oblekchi-5-merki-ot-vchera-i-dnes-6108516|title=Борисов: България облекчи 5 мерки от вчера и днес|work=vesti.bg|author=Kirov, Nikolay|language=Bulgarian|date=21 April 2020|access-date=8 October 2020}}</ref> and May 2020.<ref>{{#invoke:cite web||url=https://btvnovinite.bg/bulgaria/oblekchavane-na-merkite.html|title=Облекчаване на мерките: разрешават се посещения на кина и концерти|work=btvnovinite.bg|language=Bulgarian|date=11 May 2020|access-date=8 October 2020}}</ref>}}<ref>{{#invoke:cite web||url=https://www.usnews.com/news/world/articles/2020-03-13/bulgaria-declares-state-of-emergency-over-coronavirus|title=Bulgaria Closes Schools, Restricts Travel Over Coronavirus|work=usnews.com|date=13 March 2020|access-date=26 August 2020}}</ref><ref>{{#invoke:cite web||url=https://www.reuters.com/article/us-health-coronavirus-bulgaria/easing-lockdown-measures-bulgaria-to-allow-movement-outside-local-communities-idUSKBN22F0HI|title=Easing lockdown measures, Bulgaria to allow movement outside local communities|author=Krasimirov, Angel|work=reuters.com|date=3 May 2020|access-date=26 August 2020}}</ref>
+|2020-06-15{{efn|Depending on the strictness of the definition for a lockdown; some sources such as [[Politico Europe]] consider it to have ended by 9 May, with a total duration of 57 days.<ref>{{#invoke:cite web||url=https://www.politico.eu/article/europe-coronavirus-post-lockdown-rules-compared-face-mask-travel/|title=Europe’s post-lockdown rules compared|access-date=28 March 2021|date=21 June 2020|language=en|author=Hirsch, Cornelius| publisher=politico.eu}}</ref>}}<ref>{{#invoke:cite web||url=https://sofiaglobe.com/2020/06/03/covid-19-in-bulgaria-all-but-social-measures-fall-away-on-june-15-pm-says/|title=Covid-19 in Bulgaria: All but social measures fall away on June 15, PM says|work=sofiaglobe.com|date=3 June 2020|access-date=26 August 2020}}</ref><ref>{{#invoke:cite web||url=https://www.svobodnaevropa.bg/a/30668488.html|title=След разпореждане на премиера Борисов дискотеките ще отворят още на 15 юни|work=svobodnaevropa.bg|language=Bulgarian|date=13 June 2020|access-date=26 August 2020}}</ref> 
+|94
+|2020-11-28 (de facto){{efn|Closures of all educational institutions, restaurants and other establishments, a ban on most cultural events, all excursions and forms of group tourism, children forbidden to participate in organized sports events, no "Stay at home order", described as a "soft" or "partial" lockdown and officially entered into force at 23:30 on 27 November.<ref>{{#invoke:cite web||url=https://www.economic.bg/bg/a/view/borisov-e-odobril-chastichnijat-lokdaun-predlojen-ot-zdravnija-ministyr|title=Борисов одобри частичния локдаун, предложен от здравния министър|access-date=1 December 2020|date=25 November 2020|language=bg|publisher=economic.bg}}</ref>}}<ref name="secondlockdownBulgaria2020">{{#invoke:cite news||url=https://www.mediapool.bg/bulgaria-v-mek-lokdaun-do-koleda-kakvo-zatvarya-i-kakvo-ne-news314939.html|title=България в мек локдаун до Коледa: Какво затваря и какво не|access-date=1 December 2020|date=25 November 2020|language=bg|publisher=mediapool.bg}}</ref>
+|2021-01-31{{efn|The lockdown was initially to end on 21 December 2020, but was subsequently extended until 31 January 2021, though with a few of the restrictions relaxed, such as children in kindergartens and in grades 1-4 being able to attend in-person classes from January 2021.}}<ref name="secondlockdownBulgaria2020" /><ref name="secondlockdownextensionBulgaria2021">{{#invoke:cite news||url=https://www.economic.bg/bg/a/view/chastichnijat-lokdaun-oficialno-se-udyljava-do-31-januari|title=Частичният локдаун официално се удължава до 31 януари|access-date=21 December 2020|date=18 December 2020|language=bg|publisher=economic.bg}}</ref> 
+|65
+|2021-03-22{{efn|Preceded by some measures on the regional level, no "Stay at home order".<ref>{{#invoke:cite web||url=https://www.mediapool.bg/zavedeniyata-za-lokdauna-vsichko-ili-nishto-news319488.html|title=Заведенията за локдауна: Всичко или нищо|access-date=22 March 2021|date=17 March 2021|language=bg|publisher=mediapool.bg}}</ref>}}<ref name="thirdlockdownBulgaria2020">{{#invoke:cite news||url=https://www.mediapool.bg/bulgaria-vliza-v-10-dneven-lokdaun-ot-ponedelnik-news319515.html|title=България влиза в 10-дневен локдаун от понеделник|access-date=22 March 2021|date=18 March 2021|language=bg|author=Bozukova, Martina|publisher=mediapool.bg}}</ref>
+|2021-03-31 
+|10
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|169
+| National
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Cambodia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Cambodia|Cambodia]]
+| style="text-align:left" |[[Phnom Penh]]
+| rowspan="2"| 2021-04-15<ref>{{#invoke:cite web||url=https://m.phnompenhpost.com/national/phnom-penh-takmao-lockdown-extended-another-week|title=Phnom Penh, Takmao lockdown extended for another week|website=Phnom Penh Post|access-date=26 April 2021|first=Dara|last=Voun}}</ref>
+| rowspan="2" |2021-05-05<ref>{{#invoke:cite web||url=https://ips-cambodia.com/two-week-lockdown-in-phnom-penh-who-can-leave-their-homes-in-this-time/|title=Government imposes two-week lockdown in Phnom Penh and Takhmao in Kandal province|website=IPS Cambodia|access-date=15 April 2021|first=Darlyn Ann|last=Balagot}}</ref>
+| rowspan="2" |21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| rowspan="2" |21
+| rowspan="2" |Municipality
+|-
+| style="text-align:left" |[[Ta Khmau]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+| rowspan="5" style="text-align:left" |[[File:Flag of Canada.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Canada|Canada]] 
+| style="text-align:left" |[[COVID-19 pandemic in British Columbia|British Columbia]]
+|2020-03-18<ref>{{#invoke:cite web||url=https://globalnews.ca/news/6697149/public-safety-minister-update-coronavirus/|archive-url=http://archive.today/20200319004241/https://globalnews.ca/news/6697149/public-safety-minister-update-coronavirus/|url-status=dead|title=B.C. declares state of emergency in response to coronavirus pandemic|website=Global News|access-date=Jan 6, 2021|archive-date=19 March 2020}}</ref>
+|2020-05-18<ref>{{#invoke:cite web||url=https://www2.gov.bc.ca/gov/content/safety/emergency-preparedness-response-recovery/covid-19-provincial-support/phase-1|title=Phase 1&#124; BC's Restart Plan|first=Government Communications and Public|last=Engagement|website=www2.gov.bc.ca|access-date=Jan 6, 2021}}</ref>
+|61
+|2020-11-07<ref name="auto1">{{#invoke:cite web||url=https://globalnews.ca/news/7506329/bc-covid-restrictions-update/|title=B.C. extends ban on social gatherings until Jan. 8, restricting Christmas and New Year’s events|website=Global News|access-date=Jan 6, 2021}}</ref>
+|2021-01-08<ref name="auto1"/>
+|62
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|123
+| rowspan="2" |Province
+|-
+| style="text-align:left" |[[COVID-19 pandemic in Ontario|Ontario]]
+|2020-03-17<ref>{{#invoke:cite web||last=Rodrigues|first=Gabby|date=March 17, 2020|title=Ontario government declares state of emergency amid coronavirus pandemic|url=https://globalnews.ca/news/6688074/ontario-doug-ford-coronavirus-covid-19-march-17/|url-status=|archive-url=|archive-date=|access-date=Jan 6, 2021|website=Global News}}</ref><ref>{{#invoke:cite web||url=https://www.thestar.com/news/canada/2020/07/17/coronavirus-covid-19-updates-toronto-ontario-gta-canada-july-17-2020.html|title=Today’s coronavirus news: Parts of Ontario now in Stage 3 report slow start to reopening; province takes over another LTC home; masks will be mandatory on GO Transit|date=Jul 17, 2020|website=thestar.com|access-date=Jan 6, 2021}}</ref>
+|2020-05-14
+|58
+| || || 
+|2021-04-03<ref>{{Cite web|url=https://toronto.ctvnews.ca/ontario-to-enter-four-week-provincewide-covid-19-shutdown-on-saturday-1.5371041|title=Ontario to enter four-week, provincewide COVID-19 shutdown on Saturday|date=April 1, 2021|website=Toronto}}</ref>
+|2021-05-01
+|28
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|86
+|-
+|[[Southern Ontario|Ontario - South]]
+| || || 
+|2020-12-26<ref name=":ontario1">{{#invoke:cite news||title=Ontario to implement provincewide lockdown on Christmas Eve, sources say {{!}} CBC News|language=en-US|work=CBC|url=https://www.cbc.ca/news/canada/toronto/ontario-covid-19-update-december-20-1.5849274|access-date=2020-12-21}}</ref>
+|2021-01-23<ref name=":ontario1" />
+|28
+|2021-04-08<ref name=":ontarioca1>{{#invoke:cite news||title=COVID-19: enhanced public health and workplace safety measures {{!}} Ontario.ca |language=en-US|work=Ontario.ca|url=https://web.archive.org/web/20210526191301/https://www.ontario.ca/page/enhancing-public-health-and-workplace-safety-measures-provincewide-shutdown|access-date=2021-04-26}}</ref>
+|2021-06-02<ref name=":ontarioca1" />
+|55
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|83
+| rowspan="2" |Region
+|-
+|[[Northern Ontario|Ontario - North]]
+| || || 
+|2020-12-26<ref name=":ontario1" />
+|2021-01-09<ref name=":ontario1" />
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|14
+|-
+| style="text-align:left" |[[COVID-19 pandemic in Quebec|Quebec]]
+| 2020-03-18|| 2020-05-04|| 47
+|2020-12-25<ref name="auto41">{{#invoke:cite web||url=https://montreal.ctvnews.ca/quebec-heads-into-18-day-lockdown-non-essential-businesses-to-close-from-dec-25-to-jan-11-1.5231341|title=Quebec heads into 18-day lockdown; non-essential businesses to close from Dec. 25 to Jan. 11|date=Dec 14, 2020|website=Montreal|access-date=Jan 6, 2021}}</ref>
+|2021-01-11<ref name="auto41"/>
+|18<ref name="auto41"/>
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|65
+|Province
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Colombia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Colombia|Colombia]]
+|2020-03-25<ref>{{#invoke:cite news|
+| last         = Gamba
+| first        = Laura
+| date         = 21 March 2020
+| title        = Colombia announces lockdown as coronavirus cases surge
+| url          = https://www.aa.com.tr/en/americas/colombia-announces-lockdown-as-coronavirus-cases-surge/1773775
+| work         = aa.com.tr
+| access-date  = 7 April 2020
+}}</ref>
+|2020-06-30<ref>{{#invoke:cite web||url=https://www.elespectador.com/noticias/politica/gobierno-amplia-aislamiento-obligatorio-hasta-el-1-de-julio-articulo-921622|title=Gobierno amplía aislamiento obligatorio hasta el 1 de julio|work=El Espectador |date=28 May 2020}}</ref>
+|97
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|97
+| rowspan="10" |National
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of the Republic of the Congo.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in the Republic of the Congo|Congo]]
+|2020-03-31<ref name="ROTClockdown">{{#invoke:cite news|
+| date         = 1 April 2020
+| title        = COVID-19: Lagos, Brazzaville lockdown begins
+| url          = https://www.msn.com/en-xl/news/other/covid-19-lagos-brazzaville-lockdown-begins/ar-BB11ZAhn
+| work         = [[Africanews]]
+| access-date  = 3 April 2020
+}}</ref>
+|2020-04-20<ref name="ROTClockdown" />
+|20
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|20
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Costa Rica (state).svg|23x15px|border|alt=|link=]] [[Costa Rica]]
+|2020-03-23<ref>{{#invoke:cite news||url=https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1582-gobierno-endurece-medidas-sanitarias-para-impedir-contagio-de-covid-19|title=The government tightens sanitary measures to avoid contagion.Closed beaches and quarantine nationwide|date=23 March 2020|work=Ministry of Health|access-date=23 March 2020|language=en}}</ref>
+|2020-05-01<ref>[https://ticotimes.net/2020/04/27/costa-rica-begins-easing-some-coronavirus-measures Costa Rica begins easing some coronavirus measures] Alejandro Zúñiga 27 April 2020 ''ticotimes.net'', accessed 31 October 2020</ref>
+|{{DATEDIFF2|2020-03-23|2020-05-01}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|39
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Croatia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Croatia|Croatia]]
+|2020-03-18<ref>{{#invoke:cite news|
+| last         = Simmonds
+| first        = Lauren
+| date         = 18 March 2020
+| title        = Croatia COVID-19 Lockdown: Bars, Restaurants etc to Close Midnight March 18, 2020
+| url          = https://www.total-croatia-news.com/news/42223-covid-19
+| work         = Total Croatia News
+| access-date  = 7 April 2020
+}}</ref>
+|2020-05-11
+|32
+|2020-12-22<ref name="auto6">{{#invoke:cite web||url=https://www.thedubrovniktimes.com/news/croatia/item/10492-county-lockdown-across-croatia-from-december-22-as-covid-19-measures-tighten|title=County lockdown across Croatia from December 22 as Covid-19 measures tighten - The Dubrovnik Times|first=Mark|last=Thomas|website=www.thedubrovniktimes.com|access-date=Jan 6, 2021}}</ref>
+|2020-12-29<ref>{{#invoke:cite web||date=2020-12-29|title=Ukidaju se propusnice za cijelu Hrvatsku|url=https://www.rijeka.hr/ukidaju-se-propusnice-za-cijelu-hrvatsku/|access-date=2021-04-12|website=Grad Rijeka|language=hr}}</ref>
+|7
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|39
+|-
+| colspan="2" style="text-align:left"|[[File:Flag of Cyprus.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Cyprus|Cyprus]]
+|2020-03-24<ref name="LockdownTemplate_Cyprus">[https://www.bloomberg.com/news/articles/2020-03-23/cyprus-to-impose-lockdown-to-contain-spread-of-coronavirus]</ref>
+|2020-04-13<ref name="LockdownTemplate_Cyprus" />
+|20
+|2021-01-10<ref name="LockdownTemplate_CyprusNew">{{Cite web|url=https://www.reuters.com/article/us-health-coronavirus-cyprus-idUSKBN29D1FJ|title=Cyprus goes into new lockdown from January 10 as COVID surges|date=January 8, 2021|via=www.reuters.com}}</ref>
+|2021-01-31<ref name="LockdownTemplate_CyprusNew" />
+|21
+|2021-04-26<ref name="auto16">{{Cite web|url=https://www.financialmirror.com/2021/04/26/covid19-cyprus-enters-two-week-national-lockdown/|title=COVID19: Cyprus enters two-week national lockdown|date=April 26, 2021|website=Financial Mirror}}</ref>
+|2021-05-09<ref name="auto16"/>
+|13
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|54
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of the Czech Republic.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in the Czech Republic|Czech Republic]]
+|2020-03-16<ref name="orf20200316" />
+|2020-04-12<ref>{{#invoke:cite web||url=https://aplikace.mvcr.cz/sbirka-zakonu/ViewFile.aspx?type=c&id=38829|title=Ministry of the Interior, Czech Republic|access-date=Jan 6, 2021}}</ref>
+|27
+|2020-10-22<ref name="Czech2ndLockdown">{{#invoke:cite news|| title=Czechs enter 2nd lockdown to avoid health system collapse| url=https://apnews.com/article/virus-outbreak-czech-republic-prague-andrej-babis-8c1a05d3280ae8b6cd773b8e9fc952f3| author=Janicek, Karel|publisher=Associated Press| date=22 October 2020 | access-date=22 October 2020}}</ref>
+|2021-03-28<ref name="Czech2ndLockdown" />
+|174
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|201
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Denmark.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Denmark|Denmark]]
+|2020-03-12<ref>{{#invoke:cite web||url=http://www.themayor.eu/en/denmark-goes-on-lockdown|title=Denmark goes on lockdown|website=www.themayor.eu|access-date=Jan 6, 2021}}</ref>
+|2020-04-13<ref>{{#invoke:cite web||url=https://www.garda.com/crisis24/news-alerts/325961/denmark-lockdown-extended-until-april-13-due-to-covid-19-update-6|title=Denmark: Lockdown extended until April 13 due to COVID-19 /update 6|website=GardaWorld|access-date=Jan 6, 2021}}</ref>
+|33
+|2020-12-25<ref>{{Cite web|url=https://www.thelocal.dk/20201216/new-denmark-announces-national-lockdown-from-christmas-day/|title=Denmark announces national Covid-19 lockdown from Christmas Day|date=December 16, 2020}}</ref>
+|2021-03-01<ref>{{Cite web|url=https://www.eureporter.co/world/denmark/2021/02/25/denmark-to-ease-some-covid-19-restrictions-from-1-march/|title=Denmark to ease some COVID-19 restrictions from 1 March|date=February 25, 2021}}</ref>
+|66
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|99
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Ecuador.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Ecuador|Ecuador]]
+|2020-03-16<ref name="EcuadorLockdown">{{#invoke:cite news|| title=Ecuador shrimp, tuna processors endure despite lockdown, curfew | url=https://www.undercurrentnews.com/2020/03/25/ecuador-shrimp-tuna-processors-endure-despite-lockdown-curfew/ | website=undercurrentnews.com | date=25 March 2020 | access-date=30 March 2020}}</ref>
+|2020-03-31<ref name="EcuadorLockdown" />
+|15
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|15
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of El Salvador.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in El Salvador|El Salvador]]
+|2020-03-12<ref name="ELSLockdown">{{#invoke:cite news|
+| author       = [[Reuters]]
+| date         = 12 March 2020
+| title        = El Salvador bans mass gatherings as virus spreads – as it happened
+| url          = https://www.theguardian.com/world/live/2020/mar/11/coronavirus-update-live-news-uk-health-minister-italy-lockdown-australia-us-china-stock-markets-outbreak-latest-updates?page=with:block-5e6971ab8f085f0b8d946d20#block-5e6971ab8f085f0b8d946d20
+| work         = [[The Guardian]]
+}}</ref>
+|2020-04-02<ref name="ELSLockdown" />
+|21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|21
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Eritrea.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Eritrea|Eritrea]]
+|2020-04-02<ref name="EritreaLockdown">{{#invoke:cite news||url=http://www.xinhuanet.com/english/2020-04/02/c_138941459.htm|title=Eritrea enforces 21-day lockdown to contain spread of COVID-19|date=2 April 2020|publisher=[[Xinhua News Agency]]|access-date=4 April 2020}}</ref>
+|2020-04-23<ref name="EritreaLockdown" />
+|21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|21
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Estonia.svg|alt=|border|23x23px]] [[COVID-19 pandemic in Estonia|Estonia]]
+|2021-03-11<ref name="auto17">{{#invoke:cite web| |title=Prime minister unveils plan for lockdown from March 11 |url=https://news.err.ee/1608134893/prime-minister-unveils-plan-for-lockdown-from-march-11 |access-date=9 March 2021}}</ref>
+|2021-04-11<ref name="auto17"/>
+|31 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|31
+|National
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Fiji.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Fiji|Fiji]]
+| style="text-align:left" |[[Lautoka]]
+|2020-03-20<ref name=":100">{{#invoke:cite news||url=https://www.channelnewsasia.com/news/world/fiji-city-sealed-off-as-first-covid-19-case-confirmed-12555438|title=Fiji city sealed off as first COVID-19 case confirmed|date=19 March 2020|access-date=19 March 2020}}</ref>
+|2020-04-07<ref>{{#invoke:cite news|
+| last         = Vacala
+| first        = Kelly
+| date         = 7 April 2020
+| title        = Part of Kashmir in Lautoka under lockdown
+| url          = https://www.fbcnews.com.fj/news/covid-19/part-of-kashmir-in-lautoka-under-lockdown/
+| work         = [[Fijian Broadcasting Corporation]]
+| access-date  = 7 April 2020
+}}</ref>
+|18
+|2021-04-19
+|
+|
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+| || || 
+|18
+| rowspan="2" |City
+|-
+| style="text-align:left" |[[Suva]]
+|2020-04-03<ref name="Suva">{{#invoke:cite news||url=https://www.rnz.co.nz/international/pacific-news/413281/fiji-confirms-two-new-covid-19-cases-suva-will-go-into-lockdown|title=Fiji confirms two new Covid-19 cases, Suva will go into lockdown|publisher=[[Radio New Zealand]]|author=Tahana, Jamie|date=2 April 2020|access-date=2 April 2020}}</ref>
+|2020-04-17<ref>{{#invoke:cite news|
+| last         = Susu
+| first        = Aqela
+| date         = 2 April 2020
+| title        = COVID-19: Suva to go on lockdown from tomorrow
+| url          = https://www.fijitimes.com/covid-19-suva-to-go-on-lockdown-from-tomorrow/
+| work         = [[The Fiji Times]]
+| access-date  = 7 April 2020
+}}</ref>
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|14
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of France.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in France|France]]
+|Nationwide 
+|2020-03-17<ref>{{#invoke:cite web||url=https://www.independent.co.uk/news/world/europe/coronavirus-france-lockdown-cases-update-covid-19-macron-a9405136.html|title=France imposes 15-day lockdown and mobilises 100,000 police to enforce coronavirus restrictions|date=16 March 2020|website=The Independent|language=en|access-date=20 March 2020}}</ref>
+|2020-05-11<ref>{{#invoke:cite news|
+| last         = Cuthbertson
+| first        = Anthony
+| date         = 13 April 2020
+| title        = Coronavirus: France extends lockdown until 11 May
+| url          = https://www.independent.co.uk/news/world/europe/coronavirus-france-lockdown-macron-a9458386.html
+| work         = [[The Independent]]
+| access-date  = 14 April 2020
+}}</ref>
+| rowspan="2" |55
+|2020-10-30<ref>[https://www.bbc.com/news/world-europe-54716993 Coronavirus: Macron declares second national lockdown in France] 29 October 2020, ''www.bbc.com'', accessed 31 October 2020</ref>
+|2020-12-15<ref>[https://www.france24.com/en/video/20201215-coronavirus-pandemic-france-eases-some-restrictions-while-imposing-new-curfew Coronavirus: France lifts second lockdown and imposes new curfew] ''www.france24.com/'', accessed 18 December 2020</ref>
+| rowspan="2" |46
+|2021-04-04<ref name="auto13">{{Cite web|url=https://operawire.com/france-enters-third-nationwide-lockdown/|title=France Enters Third Nationwide Lockdown|date=March 31, 2021|website=Opera Wire}}</ref>
+|2021-05-03<ref name="auto13"/>
+|29
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|130
+|National
+|-
+|[[Paris]]
+|
+| || || 
+|2021-03-19<ref>{{Cite web|url=https://www.northumberlandgazette.co.uk/read-this/paris-begins-month-long-lockdown-as-france-faces-a-third-wave-of-covid-19-3171569|title=Paris begins month-long lockdown as France faces a third wave of Covid-19|website=www.northumberlandgazette.co.uk}}</ref>
+|2021-04-18
+|30
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|131
+|[[Regions of France|Region]]
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Finland.svg|alt=|border|23x23px]] [[COVID-19 pandemic in Finland|Finland]]
+|2021-03-08<ref name=":4">{{#invoke:cite web||title=Finland announces March shutdown|url=https://yle.fi/uutiset/osasto/news/finland_announces_march_shutdown/11808835|access-date=2021-02-25|website=Yle Uutiset|language=en}}</ref>
+|2021-03-28<ref name=":4" />
+|20
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|20
+| rowspan="3" |National
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Georgia (country).svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Georgia (country)|Georgia]]
+|2020-03-31<ref name="GeorgiaCountryLockdown">{{#invoke:cite news|
+| date         = 30 March 2020
+| title        = COVID-19: Georgia Announces Nationwide Lockdown, Partial Curfew
+| url          = https://civil.ge/archives/344761
+| work         = [[Civil Georgia]]
+| access-date  = 13 April 2020
+}}</ref>
+|2020-04-21<ref name="GeorgiaCountryLockdown" />
+|21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|21
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Germany.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Germany|Germany]]
+| style="text-align:left" |different regionally
+|2020-03-16{{efn|Lockdown was started in [[Freiburg]], [[Baden-Württemberg]] and [[Bavaria]] on 20 March 2020. Two days later, it was expanded to the whole of Germany<ref>[https://pbs.twimg.com/media/ETjc738WoAI5zAt?format=jpg&name=large Bayerische Staatregierung] ''pbs.twimg.com'', accessed 31 October 2020</ref>}}<ref>{{#invoke:cite web||url=https://www.france24.com/en/20200406-germany-outlines-plan-for-scaling-back-coronavirus-lockdown|title=Germany outlines plan for scaling back coronavirus lockdown}}</ref>
+|2020-05-30<ref>{{#invoke:cite web||url=https://www.dw.com/en/germany-wont-lift-coronavirus-restrictions-before-april-20-chancellory/a-52947201|title=Germany won't lift coronavirus restrictions before April 20: Chancellory}}</ref><ref>{{#invoke:cite web||url=https://www.bbc.co.uk/news/world-europe-52352443|title=Coronavirus: Germany relaxes shop closures}}</ref><br />to 2020-05-11<ref>{{#invoke:cite web||url=https://www.reuters.com/article/us-health-coronavirus-germany-braun-idUSKBN22C1C1|title=German social distancing will be extended to May 10: Merkel aide}}</ref>
+| rowspan="2" |76
+|2020-11-02<ref name="SkyFrDe">[https://news.sky.com/story/coronavirus-germany-to-enter-four-week-lockdown-from-november-chancellor-merkel-confirms-12117056 Coronavirus: France and Germany have announced second national lockdowns] 28 October 2020, ''news.sky.com'' accessed 31 October 2020</ref>
+|2021-03-01 to 2021-06-11<ref>{{#invoke:cite web| |title=Coronavirus: Germany extends lockdown with plan to relax restrictions |url=https://www.dw.com/en/coronavirus-germany-extends-lockdown-with-plan-to-relax-restrictions/a-56763824}}</ref><ref>{{#invoke:cite web||url=https://www.bbc.com/news/world-europe-56513366|title=Coronavirus: Germany's Merkel reverses plans for Easter lockdown}}</ref>
+|119 to 222
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|179 to 298
+|-
+| style="text-align:left" |[[Berchtesgadener Land]]
+|
+|
+|2020-10-20<ref>{{#invoke:cite web||url=https://www.tagesspiegel.de/politik/ausgangsbeschraenkungen-schulschliessungen-lockdown-ist-in-kraft-diese-regeln-gelten-im-berchtesgadener-land/26288358.html|title=Lockdown ist in Kraft - diese Regeln gelten im Berchtesgadener Land|date=20 October 2020|publisher=Der Tagesspiegel|access-date=20 October 2020}}</ref>
+|2020-11-03<ref>{{#invoke:cite web||url=https://www.bbc.com/news/world-europe-54618827|title=Coronavirus: German Alpine region goes into lockdown|date=20 October 2020|publisher=BBC News|access-date=20 October 2020}}</ref>
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|43 to 64
+|[[Districts of Germany|District]]
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Ghana.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Ghana|Ghana]]
+| style="text-align:left" |[[Accra]]
+| rowspan="2" |2020-03-30<ref name="Ghana28">{{#invoke:cite web||url=https://qz.com/africa/1827789/coronavirus-ghana-senegal-burkina-faso-shut-down/|title=West African countries are trying to shut down to contain the coronavirus spread | date=28 March 2020|website=qz.com|access-date=30 March 2020}}</ref>
+| rowspan="2" |2020-04-12<ref>{{#invoke:cite news|
+| last         = Nyabor
+| first        = Jonas
+| date         = 5 April 2020
+| title        = We'll decide on extension of lockdown this week – Akufo-Addo
+| url          = https://citinewsroom.com/2020/04/well-decide-on-extension-of-lockdown-this-week-akufo-addo/
+| work         = Citi Newsroom
+| access-date  = 7 April 2020
+}}</ref>
+| rowspan="2" |13
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| rowspan="2" |13
+| rowspan="2" |Metropolitan area
+|-
+| style="text-align:left" |[[Kumasi]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+| rowspan="3" style="text-align:left" |[[File:Flag of Greece.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Greece|Greece]]
+| style="text-align:left" |Nationwide
+|2020-03-23<ref>{{#invoke:cite web||url=https://www.reuters.com/article/us-health-coronavirus-greece-curfew/greece-imposes-lockdown-after-coronavirus-infections-jump-idUSKBN2190Z1|title=Greece imposes lockdown after coronavirus infections jump|publisher=Greece|date=22 March 2020|access-date=23 March 2020}}</ref>
+|2020-05-04<ref>{{#invoke:cite web||url=https://www.ekathimerini.com/251945/article/ekathimerini/news/greece-extends-lockdown-until-may-4|title=Greece extends lockdown until May 4{{!}}ΕΛΛΑΔΑ|last=Kathimerini|date=23 April 2020|website=kathimerini.gr|language=el|access-date=30 April 2020}}</ref>
+| rowspan="3" |42
+|2020-11-07<ref>{{#invoke:cite web| |title=Greece tightens COVID-19 lockdown, shuts primary schools |url=https://www.reuters.com/article/us-health-coronavirus-greece-schools-idUSKBN27U0CI |website=www.reuters.com |access-date=2020-12-10}}</ref>
+| rowspan="3" |2021-03-22<ref>{{#invoke:cite web||url=https://www.reuters.com/article/us-health-coronavirus-greece-idUSKBN2BB22Y|title=Greece lifts some COVID-19 restrictions to relieve lockdown fatigue|date=20 March 2021|publisher=[[Reuters]]}}</ref>
+|{{DATEDIFF2|2020-11-07|2021-03-22}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|177
+|National
+|-
+| style="text-align:left" |[[Thessaloniki]]
+|
+|
+| rowspan="2" |2020-11-03<ref name="Thessaloniki">[https://medicalxpress.com/news/2020-11-greece-imposes-lockdown-largest-city.html Greece imposes lockdown on second largest city] 2 November 2020 ''medicalxpress.com'', accessed 3 November 2020</ref>
+| rowspan="2" |{{DATEDIFF2|2020-11-03|2021-03-22}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| rowspan="2" |181
+| rowspan="2" |[[Regional units of Greece|Regional unit]]
+|-
+| style="text-align:left" |[[Serres]]
+|
+|
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Guernsey.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Guernsey|Guernsey]]
+|2020-03-25<ref>{{#invoke:cite news| |title='Strict' lockdown measures from midnight |url=https://www.bbc.co.uk/news/live/world-europe-guernsey-51999470?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=5e7a5199276ca90663acc23d%26%27Strict%27%20lockdown%20measures%20from%20midnight%262020-03-24T19%3A00%3A54.329Z&ns_fee=0&pinned_post_locator=urn:asset:b2bb241b-8081-4dda-906a-73efd8e36889&pinned_post_asset_id=5e7a5199276ca90663acc23d&pinned_post_type=share |access-date=24 March 2020 |work=bbc.co.uk |agency=BBC |publisher=BBC News |date=24 March 2020}}</ref>
+|2020-06-20<ref>{{#invoke:cite news||date=2020-06-11|title=Coronavirus: Guernsey to lift nearly all lockdown restrictions|language=en-GB|work=BBC News|url=https://www.bbc.com/news/world-europe-guernsey-52996988|access-date=2020-10-25}}</ref>
+|{{DATEDIFF2|2020-03-25|2020-06-20}}
+|2021-01-23<ref>{{Cite web|url=https://www.itv.com/news/channel/2021-01-24/guernsey-lockdown-what-you-need-to-know|title=Guernsey lockdown: What you need to know|date=January 24, 2021|website=ITV News}}</ref>
+|2021-02-22<ref>{{Cite web|url=https://covid19.gov.gg/guidance/bailiwickblueprint|title=Bailiwick Blueprint &#124; States of Guernsey - COVID-19|website=covid19.gov.gg}}</ref>
+|30
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|117
+| rowspan="4" |National
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Honduras.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Honduras|Honduras]]
+|2020-03-20<ref name="HondurasLockdownStart">{{#invoke:cite web||url=https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais|title=Absolute Curfew for the entire country|date=20 March 2020|website=COVID-19 Honduras|publisher=Secretaria de Seguridad|language=es|access-date=10 April 2020}}</ref>
+|2020-05-17<ref name="HondurasLockdownUpt">{{#invoke:cite web||title=Se extiende toque de queda absoluto hasta el 17 de mayo y se restringe circulación a un dígito por día|url=https://covid19honduras.org/?q=node/361|date=3 May 2020|publisher=Secretaría de Seguridad|language=es|trans-title=Curfew has been extended to 17 May and circulation restricted to one digit per day|access-date=3 May 2020}}</ref>
+|58
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|58
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Hungary.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Hungary|Hungary]]
+|2020-03-28<ref name="ReutersHungary">{{#invoke:cite web||url=https://www.reuters.com/article/us-health-coronavirus-hungary-restrictio/hungary-pm-imposes-lockdown-sees-coronavirus-peak-by-july-idUSKBN21E0Q2|title=Hungary PM imposes lockdown, sees coronavirus peak by July|publisher=Reuters|date=27 March 2020|access-date=27 March 2020}}</ref>
+|2020-04-10<ref name="ReutersHungary" />
+|13
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|13
+|-
+| rowspan="8" style="text-align:left" |[[File:Flag of India.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in India|India]]
+|Nationwide 
+|[[COVID-19 pandemic lockdown in India|2020-03-25]]<ref>{{#invoke:cite web||url=https://www.indiatoday.in/india/story/novel-coronavirus-covid19-latest-news-update-india-lockdown-confirmed-positive-cases-deaths-uk-usa-italy-iran-china-1658922-2020-03-24|title=Coronavirus in India LIVE Updates: PM Modi announces 21-day national lockdown, says extremely necessary to take this step|date=24 March 2020|website=India Today|language=en|access-date=24 March 2020}}</ref>
+|2020-06-07<ref>{{#invoke:cite web||title=Lockdown 5.0 Guidelines in India (state-wise): New Lockdown Extension rules announced; night curfew relaxed|url=https://www.financialexpress.com/lifestyle/health/lockdown-5-0-guidelines-state-wise-lockdown-extension-5-0-rules-latest-updates/1975135/|date=29 May 2020|website=The Financial Express|language=en-US|access-date=31 May 2020}}</ref>
+|74
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|74
+|-
+|[[Bengaluru]]
+| || || 
+|2021-04-27<ref>{{Cite web|url=https://www.easterneye.biz/india-reports-352991-new-covid-19-infections-bengaluru-enters-lockdown/|title=India reports 352,991 new Covid-19 infections; Bengaluru enters lockdown|date=April 26, 2021}}</ref>
+|2021-05-09
+|12
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|12
+|[[Regions of India|Region]]
+|-
+|[[Delhi]]
+| || || 
+|2021-04-19<ref>{{Cite web|url=https://www.reuters.com/world/india/indias-delhi-lock-down-six-days-covid-19-outbreak-worsens-2021-04-19/|title=India's Delhi to lock down for six days as COVID-19 outbreak worsens|date=April 19, 2021|via=www.reuters.com}}</ref>
+|2021-05-31<ref>{{Cite web|url=https://www.thehindu.com/news/cities/Delhi/delhi-lockdown-extended-till-may-31/article34625962.ece|title=Delhi lockdown extended till May 31|date=May 23, 2021|via=www.thehindu.com}}</ref>
+|42
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|42
+|[[Regions of India|Region]]
+|-
+|[[Haryana]]
+| || || 
+|2021-05-03<ref>{{Cite web|url=https://www.businesstoday.in/latest/economy-politics/story/complete-lockdown-in-haryana-from-may-3-for-7-days-294842-2021-05-02|title=Complete lockdown in Haryana from May 3 for 7 days|website=Business Today}}</ref>
+|2021-05-10
+|7
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|7
+|[[State of India|State]]
+|-
+|[[Maharashtra]]
+| || || 
+|2021-04-14<ref>{{Cite web|url=https://www.financialexpress.com/photos/business-gallery/2232717/maharashtra-enters-into-lockdown-like-restrictions-on-public-movement-over-next-15-days-see-photos/|title=Maharashtra enters into ‘lockdown-like’ restrictions on public movement over next 15 days – See photos|date=April 14, 2021}}</ref>
+|2021-06-15<ref>{{Cite web|url=https://indianexpress.com/article/india/maharashtra-lockdown-guidelines-covid-19-7338023/|title=Covid-19: Maharashtra extends lockdown till June 15, but allows certain relaxations|date=May 31, 2021}}</ref>
+|62
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|62
+|[[State of India|State]]
+|-
+|[[Odisha]]
+| || || 
+|2021-05-05<ref>{{Cite web|url=https://www.livemint.com/news/india/odisha-govt-announces-a-14-day-lockdown-from-5th-may-to-19th-may-check-details-11619932442502.html|title=Odisha govt announces a 14-day lockdown from 5th to 19th May. Check details|first=Staff|last=Writer|date=May 2, 2021|website=mint}}</ref>
+|2021-05-19
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|14
+|[[State of India|State]]
+|-
+|[[Rajasthan]]
+| || || 
+|2021-05-10<ref>{{Cite web|url=https://www.indiatoday.in/coronavirus-outbreak/story/coronavirus-in-india-live-updates-coronavirus-news-covid19-cases-covid-vaccine-news-1799339-2021-05-06|title=Coronavirus in India May 6, 2021: Lockdown in Rajasthan from May 10 till May 24|date=May 6, 2021|website=India Today}}</ref>
+|2021-06-08<ref>{{Cite web|url=https://www.indiatoday.in/coronavirus-outbreak/story/lockdown-in-rajasthan-extended-till-june-8-1806049-2021-05-23|title=Lockdown in Rajasthan extended till June 8|first=Sharat|last=Kumar|date=May 23, 2021|website=India Today}}</ref>
+|29
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|29
+|[[State of India|State]]
+|-
+|[[Uttar Pradesh]]
+| || || 
+|2021-04-30<ref>{{Cite web|url=https://www.businesstoday.in/coronavirus/story/yogi-govt-imposes-full-lockdown-in-up-from-april-30-check-out-details-294650-2021-04-29|title=Yogi govt imposes full lockdown in UP from April 30; check out details|website=Business Today}}</ref>
+|2021-05-10<ref>{{Cite web|url=https://timesofindia.indiatimes.com/city/lucknow/covid-19-lockdown-in-uttar-pradesh-extended-till-may-10/articleshow/82401988.cms|title=UP Lockdown news: Lockdown in Uttar Pradesh extended till May 10 &#124; Lucknow News - Times of India|website=The Times of India}}</ref>
+|10
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|10
+|[[State of India|State]]
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Iran.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Iran|Iran]]
+|2020-03-14<ref>{{#invoke:cite news||url=https://www.garda.com/crisis24/news-alerts/322811/iran-natiowide-lockdown-implemented-as-over-11300-covid-19-cases-confirmed-march-13-update-12|title=Iran: Natiowide lockdown implemented as over 11,300 COVID-19 cases confirmed March 13 /update 12|date=14 March 2020|website=garda.com|access-date=10 May 2020}}</ref>
+|2020-04-20<ref>{{#invoke:cite news||url=https://foreignpolicy.com/2020/05/05/why-hassan-rouhani-ended-irans-lockdown|title=Why Hassan Rouhani Ended Iran's Lockdown|date=5 May 2020|website=foreignpolicy.com|access-date=10 May 2020}}</ref>
+|37
+|2021-04-14<ref>{{Cite web|url=https://www.reuters.com/world/middle-east/iran-orders-10-day-shutdown-amid-4th-wave-coronavirus-pandemic-2021-04-10/|title=Iran orders 10-day shutdown amid 4th wave of coronavirus pandemic|date=April 10, 2021|via=www.reuters.com}}</ref>
+|2021-04-24
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|47
+| rowspan="3" |National 
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Iraq.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Iraq|Iraq]]
+|2020-03-22<ref>{{#invoke:cite news||url=https://www.thestar.com.my/news/regional/2020/03/22/iraq-on-total-lockdown-until-march-28-over-virus-fears|title=Iraq on total lockdown until March 28 over virus fears|date=22 March 2020|website=thestar.com.my|access-date=30 March 2020}}</ref>
+|2020-04-11<ref>{{#invoke:cite news||url=https://english.alarabiya.net/en/News/middle-east/2020/03/26/Iraq-extends-coronavirus-lockdown-until-mid-April-|title=Iraq extends coronavirus lockdown until mid-April|date=26 March 2020|website=alarabiya.net|access-date=30 March 2020}}</ref>
+|20
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|20
+|-
+| rowspan="4" style="text-align:left" |[[File:Flag of Ireland.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in the Republic of Ireland|Ireland]]
+| style="text-align:left" |All 26 [[Counties of Ireland|counties]]
+|2020-03-12{{efn|A national [[stay-at-home order]] was officially declared on 27 March}}<ref name="IrelandLockdown">{{#invoke:cite news|
+|url=https://www.irishtimes.com/news/health/coronavirus-schools-colleges-and-childcare-facilities-in-ireland-to-shut-1.4200977|title=Coronavirus: Schools, colleges and childcare facilities in Ireland to shut|work=[[The Irish Times]]|language=en|first1=Pat|last1=Leahy|first2=Paul|last2=Cullen|first3=Suzanne|last3=Lynch|first4=Fiach|last4=Kelly|date=12 March 2020|access-date=1 June 2020}}</ref><ref>{{#invoke:cite news||url=https://www.theguardian.com/world/2020/mar/27/stay-home-varadkar-urges-irish-in-drastic-lockdown|title='Stay home': Varadkar announces sweeping two-week lockdown|publisher=[[The Guardian (newspaper)|The Guardian]]|first=Rory|last=Carroll|date=27 March 2020|access-date=27 March 2020}}</ref>
+|2020-05-18<ref>{{#invoke:cite news||url=https://www.theguardian.com/world/2020/may/02/ireland-extends-covid-19-lockdown-to-18-may-before-phased-exit|title=Ireland extends Covid-19 lockdown to 18 May before phased exit|publisher=[[The Guardian (newspaper)|The Guardian]]|date=2 May 2020|access-date=2 May 2020}}</ref>
+|67
+|2020-10-21<ref>{{#invoke:cite news||url=https://www.bbc.co.uk/news/world-europe-54596783|title=Coronavirus: Republic of Ireland to move to highest restrictions|publisher=[[BBC News]]|date=19 October 2020|access-date=20 October 2020}}</ref>
+|2020-12-01<ref>{{#invoke:cite news||url=https://www.rte.ie/news/coronavirus/2020/1127/1180803-coronavirus-ireland/|title=Country moves to Level 3 'with modifications' on Tuesday|publisher=[[RTÉ News and Current Affairs]]|first=Mícheál|last=Lehane|date=27 November 2020|access-date=27 November 2020}}</ref>
+|41
+|2020-12-24{{efn|A full third lockdown was declared from 30 December and was repeatedly extended.}}<ref>{{#invoke:cite news||url=https://www.independent.ie/irish-news/ireland-to-return-to-level-5-restrictions-from-christmas-eve-amid-projections-of-up-to-2000-cases-per-day-by-new-years-eve-39891319.html|title=Ireland to return to Level 5 restrictions from Christmas Eve amid projections of up to 2,000 cases per day by New Year's Eve|publisher=[[Irish Independent]]|first1=Eoghan|last1=Moloney|first2=Cormac|last2=McQuinn|first3=Kathy|last3=Armstrong|date=22 December 2020|access-date=22 December 2020}} {{#invoke:cite news||url=https://www.gov.ie/en/press-release/a1f21-ireland-placed-on-level-5-restrictions-of-the-plan-for-living-with-covid-19-with-a-number-of-specific-adjustments/|title=Ireland placed on Level 5 Restrictions of the Plan for Living with COVID-19 - with a number of specific adjustments|publisher=[[Department of the Taoiseach]]|website=gov.ie|date=22 December 2020|access-date=22 December 2020}}</ref>
+|2021-04-12<ref>{{#invoke:cite news||url=https://www.irishtimes.com/news/politics/we-are-on-the-final-stretch-of-this-terrible-journey-insists-taoiseach-as-he-announces-phased-changes-to-covid-19-restrictions-1.4523777|title=‘We are on the final stretch of this terrible journey’ insists Taoiseach as he announces phased changes to Covid-19 restrictions|publisher=[[The Irish Times]]|first1=Jennifer|last1=Bray|first2=Jack|last2=Horgan-Jones|first3=Harry|last3=McGee|first4=Marie|last4=O'Halloran|first5=Simon|last5=Carswell|first6=Vivienne|last6=Clarke|date=30 March 2021|accessdate=30 March 2021}}</ref>
+|119
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|227
+|-
+| style="text-align:left" |[[County Kildare|Kildare]]
+| rowspan="3" |2020-08-07<ref name="irishlockdown">{{#invoke:cite news||url=https://www.rte.ie/news/2020/0807/1157957-govt-statement-covid/|title=Taoiseach makes address as local restrictions announced|publisher=[[RTÉ News and Current Affairs]]|first=Aisling|last=Kenny|date=7 August 2020|access-date=7 August 2020}}</ref><ref>{{#invoke:cite news||url=https://www.irishexaminer.com/news/arid-40029179.html|title=Kildare, Offaly and Laois residents not permitted to travel outside their counties|publisher=[[Irish Examiner]]|first1=Paul|last1=Hosford|first2=Steve|last2=Neville|date=7 August 2020|access-date=7 August 2020}}</ref>
+| rowspan="1" |2020-08-31<ref>{{#invoke:cite news||url=https://www.rte.ie/news/coronavirus/2020/0831/1162302-coronavirus-ireland/|title=Kildare Covid-19 restrictions lifted with immediate effect|publisher=[[RTÉ News and Current Affairs]]|first=Sandra|last=Hurley|date=31 August 2020|access-date=31 August 2020}}</ref>
+|24
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|24
+| rowspan="3" |Regional
+|-
+| style="text-align:left" |[[County Laois|Laois]]
+| rowspan="2" |2020-08-21<ref>{{#invoke:cite news||url=https://www.rte.ie/news/2020/0821/1160419-midlands-restrictions-lifted/|title=Kildare restrictions extended as cases remain high|publisher=[[RTÉ News and Current Affairs]]|first=Conor|last=Kane|date=21 August 2020|access-date=28 August 2020}}</ref>
+| rowspan="2" |14
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| rowspan="2" |14
+|-
+| style="text-align:left" |[[County Offaly|Offaly]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Israel.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Israel|Israel]]
+| style="text-align:left" |[[Bnei Brak]]
+|2020-04-02<ref>{{#invoke:cite news|
+| author       = [[The Times of Israel]]
+| date         = 2 April 2020
+| title        = Government declares virus-hit city of Bnei Brak a 'restricted zone'
+| url          = https://www.timesofisrael.com/liveblog-april-2-2020/
+| access-date  = 2 April 2020
+}}</ref>
+|2020-04-16<ref>{{#invoke:cite news|
+| author       = [[The Times of Israel]]
+| date         = 16 April 2020
+| title        = Cabinet eases Bnei Brak lockdown, extends Jerusalem neighborhoods closure
+| url          = https://www.timesofisrael.com/cabinet-eases-bnei-brak-lockdown-extends-jerusalem-neighborhoods-closure/
+}}</ref>
+|14
+|
+|
+| rowspan="2" |30
+|
+|
+| rowspan="2" |42
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|86
+|City
+|-
+|Nationwide
+| || || 
+|2020-09-18<ref>{{#invoke:cite news||title=Israelis brace for unpopular second Covid lockdown|url=https://www.theguardian.com/world/2020/sep/18/israelis-brace-for-unpopular-second-lockdown-coronavirus|access-date=18 September 2020}}</ref>
+|2020-10-18<ref>[https://www.haaretz.com/israel-news/.premium-covid19-israel-lockdown-to-end-within-week-save-for-14-red-towns-1.9225149 Israeli Experts Plan to Ease Lockdown Within Week Save for 14 ‘Red’ Towns] ''www.haaretz.com'', accessed 31 October 2020</ref>
+|2020-12-27<ref>{{#invoke:cite web||last=staff|first=T. O. I.|title=Israel enters 3rd lockdown; commercial activity shuts down, schools remain open|url=https://www.timesofisrael.com/israel-enters-third-lockdown-commercial-activity-shut-down-schools-remain-open/|access-date=Jan 6, 2021|website=www.timesofisrael.com}}</ref>
+|2021-02-07<ref>{{#invoke:cite web||last=staff|first=T. O. I.|title=Israel's Third Lockdown To Ease Sunday Morning As Death Toll Climbs To 5057|url=https://www.timesofisrael.com/israels-third-lockdown-to-ease-sunday-morning-as-death-toll-climbs-to-5057|access-date=Feb 7, 2021|website=www.timesofisrael.com}}</ref>
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|72
+|National
+|-
+| rowspan="7" style="text-align:left" |[[File:Flag of Italy.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Italy|Italy]]
+| style="text-align:left" |Nationwide
+|[[COVID-19 pandemic lockdown in Italy|2020-03-09]]{{efn|Lockdown was first started in [[Northern Italy]] on 8 March 2020, then expanded to the rest of Italy the following day}}<ref>{{#invoke:cite news||last=Legorano|first=Eric Sylvers and Giovanni|url=https://www.wsj.com/articles/italy-bolsters-quarantine-checks-after-initial-lockdown-confusion-11583756737|title=As Virus Spreads, Italy Locks Down Country|date=9 March 2020|work=Wall Street Journal|access-date=20 March 2020|language=en-US|issn=0099-9660}}</ref>
+|2020-05-18<ref>{{#invoke:cite web||url=https://www.theguardian.com/world/live/2020/may/18/coronavirus-live-news-record-daily-cases-in-south-africa-as-india-extends-lockdown|title=Italy begins reopening bars and cafes as rate of deaths and new infections falls again – as it happened|work=[[The Guardian]]|date=19 May 2020|access-date=22 May 2020}}</ref>
+| rowspan="7" |70
+|2020-12-24<ref name="auto8">{{#invoke:cite web||url=https://www.bbc.com/news/world-europe-55372491|title=Covid: Italy latest European country to order Christmas lockdown|date=Dec 19, 2020|access-date=Jan 6, 2021|via=www.bbc.co.uk}}</ref>{{Efn|The lockdown was suspended on 28, 29, 30 December 2020 and 4 January 2021|name=|group=}}
+|2021-01-06<ref name="auto8"/>
+|13
+|2021-03-15<ref>{{#invoke:cite web||title=Covid, Italia verso lockdown fino a maggio: solo zone rosse e arancioni|url=https://www.ilgiorno.it/cronaca/nuovo-decreto-1.6178909|access-date=2021-03-27|language=it}}</ref>
+|2021-04-30
+|{{DATEDIFF2|2021-03-15|2021-04-30}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|129
+|National
+|-
+| style="text-align:left" |[[Lombardy]]
+|
+|
+|2020-11-06<ref name="Regionallockdown" />
+|2020-12-03<ref name="ANSA" />
+| rowspan="4" |27
+|2021-01-17 <ref name="LockdownsTemplateItaly" />
+|2021-01-30
+|13
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|110
+| rowspan="5" |[[Regions of Italy|Region]]
+|-
+| style="text-align:left" |[[Piedmont]]
+|
+|
+|2020-11-06<ref name="Regionallockdown">[https://www.corriere.it/cronache/20_novembre_04/dpcm-lockdown-lombardia-piemonte-calabria-valle-d-aosta-ecco-regioni-zona-rossa-arancione-cosa-si-puo-fare-be0dae60-1eba-11eb-9970-42ca5768e0fd.shtml Dpcm, lockdown in Lombardia, Piemonte, Calabria e Valle d’Aosta. Ecco le regioni in zona rossa e arancione e cosa si può fare] 4 November 2020 ''Corriere della Sera'', accessed 6 November 2020</ref>
+|2020-12-03<ref name="ANSA">[https://www.ansa.it/english/news/politics/2020/11/05/calabria-lombardy-piedmont-val-daosta-declared-red-zones_d72d7234-3ac2-4147-bd15-2b6d7b7bd8eb.html Calabria, Lombardy, Piedmont, Val d'Aosta declared COVID red zones] 5 November 2020 ''www.ansa.it'', accessed 6 November 2020</ref>
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| rowspan="3" |97
+|-
+| style="text-align:left" |[[Aosta Valley]]
+|
+|
+|2020-11-06<ref name="Regionallockdown" />
+|2020-12-03<ref name="ANSA" />
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+| style="text-align:left" |[[Calabria]]
+|
+|
+|2020-11-06<ref name="Regionallockdown" />
+|2020-12-03<ref name="ANSA" />
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+|style="text-align:left" |[[Sicily]]
+|
+|
+| || || 
+|2021-01-17<ref name="LockdownsTemplateItaly" />
+|2021-01-30
+| rowspan="2" |13
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| rowspan="2" |83
+|-
+|style="text-align:left" |[[Province of bolzano|Province of Bolzano]]
+|
+|
+| || || 
+|2021-01-17 <ref name="LockdownsTemplateItaly">{{#invoke:cite web||date=2021-01-15|title=Regioni in zona arancione e rossa, la nuova mappa dell’Italia: ‘lockdown’ per Lombardia, Sicilia e Bolzano|url=https://www.ilriformista.it/regioni-in-zona-arancione-e-rossa-quali-sono-a-rischio-da-domenica-in-15-fuori-dalla-gialla-188994/|language=it |trans-title=Regions in the orange and red zone, the new map of Italy: 'lockdown' for Lombardy, Sicily and Bolzano |work=[[Il Riformista]]}}</ref>
+|2021-01-30
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|[[Provinces of Italy|Province]]
+|-
+| style="text-align:left" |[[File:Flag of Jamaica.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Jamaica|Jamaica]]
+| style="text-align:left" |[[Saint Catherine Parish|Saint Catherine]]
+|2020-04-15<ref name="Jamaicalockdown">{{#invoke:cite news||url=https://jis.gov.jm/st-catherine-covid-19-lockdown/|title=St. Catherine COVID-19 Lockdown|date=15 April 2020|work=jis.gov.jm|access-date=23 April 2020}}</ref>
+|2020-04-22<ref name="Jamaicalockdown" />
+|7
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|7
+|[[Parishes of Jamaica|Parish]]
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Jordan.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Jordan|Jordan]]
+|2020-03-18<ref>{{#invoke:cite news| |last1=Sharif |first1=Osama Al |title=Jordan announces lockdown in effort to contain coronavirus |url=https://www.al-monitor.com/pulse/originals/2020/03/jordan-state-of-emergency-coronavirus-public-economy.html |work=Al-Monitor |date=19 March 2020 |language=en}}</ref>
+|2020-04-30<ref>{{#invoke:cite web||title=Jordan extends coronavirus lockdown to end of April|url=https://www.thenational.ae/world/mena/jordan-extends-coronavirus-lockdown-to-end-of-april-1.1005218|date=13 April 2020|website=The National|access-date=2 May 2020}}</ref>
+|43
+|2020-11-10<ref name="JATIL">[https://www.garda.com/crisis24/news-alerts/398061/jordan-authorities-to-impose-lockdown-from-november-10-15-update-47 Jordan: Authorities to impose lockdown from November 10-15 /update 47] 10 November 2020 ''www.garda.com'', accessed 19 November 2020</ref>
+|2020-11-15<ref name="JATIL" />
+|5
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|48
+| rowspan="6" |National
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Kosovo.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Kosovo|Kosovo]]
+|2020-03-14<ref name="KosovoLockdown">{{#invoke:cite news||url=https://telegrafi.com/qeveria-shpall-gjendje-emergjente/|title=The government declares a state of emergency public health|date=15 March 2020|website=telegrafi.com|access-date=30 March 2020}}</ref>
+|2020-05-04 <ref name="KosovoLockdown2">{{#invoke:cite news||url=https://indeksonline.net/masat-e-reja-te-qeverise-vlejne-deri-me-4-maj-1/|title=The new government measures are valid until May 4!|date=13 March 2020|website=indeksonline.net|access-date=30 March 2020}}</ref>
+|51
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|51
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Kuwait.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Kuwait|Kuwait]]
+|2020-05-10<ref name="KuwaitLockdown">{{#invoke:cite news||url=https://english.alarabiya.net/en/coronavirus/2020/05/08/Coronavirus-Kuwait-to-impose-20-day-total-curfew-from-May-10 |title=Coronavirus: Kuwait to impose full lockdown, curfew for 20 days starting May 10 |date=10 May 2020|access-date=30 October 2020}}</ref>
+|2020-05-31<ref name="KuwaitLockdown" />
+|21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|21
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Lebanon.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Lebanon|Lebanon]]
+|2020-03-15<ref name="LebanonLockdown">{{#invoke:cite news|
+| author       = [[Agence France-Presse|AFP]] 
+| date         = 15 March 2020
+| title        = Lebanon announces two-week lockdown over coronavirus
+| url          = https://www.france24.com/en/20200315-lebanon-announces-two-week-lockdown-over-coronavirus
+| work         = [[France 24]]
+| access-date  = 21 March 2020
+}}</ref>
+|2020-03-28<ref name="LebanonLockdown" />
+|13
+|2020-11-14<ref>{{#invoke:cite news||url=https://www.bbc.com/news/world-middle-east-54889537|title=Coronavirus:Lebanon to impose new lockdown despite economic cost|date=10 November 2020|access-date= 13 November 2020}}</ref>
+|2020-11-28
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|27
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Libya.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Libya|Libya]]
+|2020-03-22<ref>{{#invoke:cite news||url=https://www.libyanexpress.com/libya-on-lockdown-from-6-00-pm-to-6-00-am-amid-coronavirus-preventive-measures/|title=Libya on lockdown from 6.00 PM to 6.00 AM amid Coronavirus preventive measures|date=22 March 2020|website=libyanexpress.com|access-date=31 March 2020}}</ref>
+|2020-06-27<ref>{{Cite web|url=https://www.garda.com/crisis24/news-alerts/351771/libya-gna-authorities-extend-lockdown-until-june-27-update-8|title=Libya: GNA authorities extend lockdown until June 27 /update 8|website=GardaWorld}}</ref>
+|{{DATEDIFF2|2020-03-22|2020-06-27}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|97
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Lithuania.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Lithuania|Lithuania]]
+|2020-03-16<ref>{{#invoke:cite web||url=https://www.15min.lt/naujiena/aktualu/lietuva/vyriausybeje-susauktas-pasitarimas-del-koronaviruso-skelbs-tolimesniu-veiksmu-plana-56-1289458|title=Karantinas kol kas – pusei mėnesio: ką nuo pirmadienio uždraudė Vyriausybė? |website=15min.lt|language=lt|access-date=24 March 2020}}</ref>
+|2020-06-18<ref>{{cn|date=July 2020}}</ref>
+|94
+|2020-11-07<ref>[https://ca.reuters.com/article/idINKBN27K1RD Lithuania to enter three-week COVID lockdown on Saturday] 4 November 2020 ''ca.reuters.com'', accessed 19 November 2020</ref>
+|2020-11-28
+|21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|115
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Madagascar.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Madagascar|Madagascar]]
+| style="text-align:left" |[[Antananarivo]]
+| rowspan="2" |2020-03-23<ref name="Madgascar23">{{#invoke:cite web||url=https://www.news24.com/Africa/News/everyone-stay-at-home-madagascar-orders-lockdown-of-two-main-cities-in-virus-fight-20200323|title='Everyone stay at home' - Madagascar orders lockdown of two main cities in virus fight | date=23 March 2020|website=news24.com|access-date=30 March 2020}}</ref>
+| rowspan="2" |2020-04-20<ref>{{#invoke:cite news|
+| author      = [[Agence France-Presse|AFP]]
+| date         = 20 April 2020
+| title        = Lockdown in 3 Madagascar cities set to ease
+| url          = https://medicalxpress.com/news/2020-04-lockdown-madagascar-cities-ease.html
+| work         = Medicalxpress
+| access-date  = 12 May 2020
+}}</ref>
+| rowspan="2" |28
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| rowspan="2" |28
+| rowspan="2" |City
+|-
+| style="text-align:left" |[[Toamasina]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Malaysia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Malaysia|Malaysia]]
+|[[2020 Malaysia movement control order|2020-03-18]]<ref name="MCO contents">{{#invoke:cite web||url=https://www.nst.com.my/news/nation/2020/03/575177/covid-19-movement-control-order-imposed-only-essential-sectors-operating|title=Covid-19: Movement Control Order imposed with only essential sectors operating|date=16 March 2020|work=New Straits Times|url-status=live|archive-url=https://web.archive.org/web/20200316224520/https://www.nst.com.my/news/nation/2020/03/575177/covid-19-movement-control-order-imposed-only-essential-sectors-operating|archive-date=16 March 2020|access-date=16 March 2020}}</ref>
+|2020-06-09<ref>{{#invoke:cite web||title=Conditional MCO extended for another four weeks to June 9|url=https://www.thestar.com.my/news/nation/2020/05/10/conditional-mco-extended-for-another-four-weeks-to-june-9|date=10 May 2020|website=The Star|access-date=10 May 2020}}</ref>
+|83
+|2021-01-13
+|2021-02-10
+|28
+|2021-06-01<ref>{{Cite web|url=https://www.nst.com.my/news/nation/2021/05/694006/malaysia-goes-under-full-lockdown-again-tuesday|title=Malaysia goes under full lockdown again from Tuesday &#124; New Straits Times|first=Veena|last=Babulal|date=May 28, 2021|website=NST Online}}</ref>
+|2021-08-16<ref>{{Cite web|url=https://www.malaymail.com/news/malaysia/2021/08/15/pm-barbers-hair-salons-among-11-types-of-businesses-allowed-to-re-open-in-p/1997767|title=PM Muhyiddin: Barbers, hair salons among 11 types of businesses allowed to re-open in Phase One states from tomorrow for fully vaccinated individuals &#124; Malay Mail|first=Emmanuel Santa Maria|last=Chin|website=www.malaymail.com}}</ref>
+|76
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|187
+| rowspan="2" |National
+|-
+| rowspan="8" style="text-align:left" |[[File:Flag of Mexico.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Mexico|Mexico]]
+|Nationwide
+|2020-03-23<ref name="mexico">[https://www.washingtonpost.com/world/the_americas/mexico-coronavirus-lockdown-quarantine-lopez-obrador/2020/06/01/76240584-a37e-11ea-898e-b21b9a83f792_story.html Mexico begins to lift coronavirus lockdown] Washington Post.</ref>
+|2020-06-01<ref name="mexico" />
+| rowspan="8" |70
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|70
+|-
+|[[Chihuahua (state)|Chihuahua]]
+|
+|
+|2020-10-23<ref>{{#invoke:cite web||last=News|first=A. B. C.|title=Mexican border state of Chihuahua returns to lockdown|url=https://abcnews.go.com/International/wireStory/mexican-border-state-chihuahua-returns-lockdown-73799062|access-date=2020-12-23|website=ABC News|language=en}}</ref>
+|2020-12-06
+|{{DATEDIFF2|2020-10-23|2020-12-06}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|114
+| rowspan="7" |[[List of states of Mexico|State]]
+|-
+|[[Durango]]
+|
+|
+|2020-11-03<ref>{{#invoke:cite web||date=2020-11-03|title=2nd Mexican state goes to highest COVID-19 alert, lockdown|url=https://apnews.com/article/virus-outbreak-state-governments-mexico-46ba42ae5871b20eba7b9de49eb0d3da|access-date=2020-12-23|website=AP NEWS}}</ref>
+|2020-12-06
+|{{DATEDIFF2|2020-11-03|2020-12-06}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|103
+|-
+|[[Baja California]]
+|
+|
+|2020-12-07
+|
+|
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|70
+|-
+|[[Mexico City]]
+|
+|
+|2020-12-19<ref name=":222">{{#invoke:cite web||date=2020-12-18|title=Mexico City, suburbs return to partial coronavirus lockdown|url=https://apnews.com/article/suburbs-coronavirus-pandemic-mexico-city-mexico-12d94be9131725387c230181037354e2|access-date=2020-12-23|website=AP NEWS}}</ref>
+|
+|
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|70
+|-
+|[[State of Mexico]]
+|
+|
+|2020-12-19<ref name=":222" />
+|
+|
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|70
+|-
+|[[Morelos]]
+|
+|
+|2021-01-04
+|
+|
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|70
+|-
+|[[Guanajuato]]
+|
+|
+|2021-01-04
+|
+|
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|70
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Mongolia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Mongolia|Mongolia]]
+|2020-03-10<ref name="mongolia">{{#invoke:cite web||url=https://www.garda.com/crisis24/news-alerts/321181/mongolia-government-places-ulaanbaatar-and-other-cities-on-lockdown-due-to-covid-19-march-10-update-7|title=Mongolia: Government places Ulaanbaatar and other cities on lockdown due to COVID-19 March 10 /update 7|website=garda.com|language=en|access-date=3 May 2020}}</ref>
+|2020-03-16<ref name="mongolia" />
+|6
+|2020-11-17<ref>{{#invoke:cite web||url=https://www.garda.com/crisis24/news-alerts/399891/mongolia-authorities-extend-nationwide-lockdown-until-december-1-update-17|title=Mongolia: Authorities extend nationwide lockdown until December 1 /update 17|date=15 November 2020|access-date=19 November 2020}}</ref>
+|2020-12-01
+|15
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|21
+|National
+|-
+| style="text-align:left" |[[File:Flag of Montenegro.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Montenegro|Montenegro]]
+| style="text-align:left" |[[Tuzi]]
+|2020-03-24<ref>{{#invoke:cite news||url=https://balkaninsight.com/2020/03/25/montenegro-places-first-town-under-total-quarantine/|title=Montenegro Places First Town under Total Quarantine|date=25 March 2020|access-date=25 March 2020}}</ref>
+|2020-05-05<ref>[https://balkaninsight.com/2020/05/05/montenegrins-return-to-streets-as-coronavirus-restrictions-eased/ Montenegrins Return to Streets as Coronavirus Restrictions Eased] ''balkaninsight.com'', accessed 2 November 2020</ref>
+|{{DATEDIFF2|2020-03-24|2020-05-05}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|42
+|Municipality
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Morocco.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Morocco|Morocco]]
+|2020-03-19<ref>{{#invoke:cite web||url=https://www.h24info.ma/maroc/urgent-le-maroc-declare-letat-durgence-sanitaire/|title=URGENT. Le Maroc déclare l'état d'urgence sanitaire|last=H24info|website=H24info|language=fr-FR|access-date=20 March 2020}}</ref>
+|2020-06-10<ref>{{#invoke:cite news|
+| last         = Eljechtimi
+| first        = Ahmed 
+| date         = 18 May 2020
+| title        = Morocco extends coronavirus lockdown to June 10
+| url          = https://www.reuters.com/article/us-health-coronavirus-morocco/morocco-extends-coronavirus-lockdown-to-june-10-idUSKBN22U22M
+| work         = Reuters
+| access-date  = 23 May 2020
+}}</ref>
+|83
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|83
+|National
+|-
+|[[File:Flag_of_Myanmar.svg|left|23x23px]][[COVID-19 pandemic in Myanmar|Myanmar]]
+|[[Yangon]]
+|2020-04-18<ref>{{Cite web|date=2020-04-27|title=In photos: Life under lockdown|url=https://www.frontiermyanmar.net/en/in-photos-life-under-lockdown/|access-date=2022-01-01|website=Frontier Myanmar|language=en-US}}</ref>
+|2020-07-01<ref>{{Cite web|date=2020-06-30|title=Myanmar Lifts Last Stay-at-Home Restrictions at Its COVID-19 Epicenter|url=https://www.irrawaddy.com/specials/myanmar-covid-19/myanmar-lifts-last-stay-home-restrictions-covid-19-epicenter.html|access-date=2022-01-01|website=The Irrawaddy|language=en-US}}</ref>
+|74
+|2020-09-01<ref>{{Cite web|date=2020-09-19|title=Myanmar: COVID-19 Updates - New Stay-at-Home Orders and Mandatory Quarantine for Nay Pyi Taw|url=https://www.globalcompliancenews.com/2020/09/20/myanmar-covid-19-updates-new-stay-at-home-orders-and-mandatory-quarantine-for-nay-pyi-taw_104092020/|access-date=2022-01-01|website=Global Compliance News|language=en-US}}</ref>
+|2021-04-10<ref>{{Cite web|title=Myanmar reports 4 new COVID-19 infections - Xinhua {{!}} English.news.cn|url=http://www.xinhuanet.com/english/2021-04/10/c_139871726.htm|access-date=2022-01-01|website=www.xinhuanet.com}}</ref>
+|220
+|2021-07-08<ref>{{Cite web|title=Stay at Home order imposes at 10 townships in Yangon Region, 2 in Mon State and Gantgaw in Magway Region|url=https://elevenmyanmar.com/news/stay-at-home-order-imposes-at-10-townships-in-yangon-region-2-in-mon-state-and-gantgaw-in|access-date=2022-01-01|website=Eleven Media Group Co., Ltd|language=en}}</ref>
+|2021-10-27<ref>{{Cite web|title=Myanmar lifts stay-at-home order in 44 townships|url=http://www.news.cn/english/asiapacific/2021-10/27/c_1310273507.htm|access-date=2022-01-01|website=www.news.cn}}</ref>
+|111
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|405
+|City
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Namibia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Namibia|Namibia]]
+|2020-03-27{{efn|Lockdown was started in the regions of [[Erongo Region|Erongo]] and [[Khomas Region|Khomas]] but effectively enforced countrywide. On 14 April the lockdown was extended to 4 May and to all of Namibia.}}<ref name="lockdown">{{#invoke:cite news| | title=Partial lockdown in effect from Friday | last=Shikongo | first=Arlana | newspaper=[[The Namibian]] | date=25 March 2020 | page=1 | url=https://www.namibian.com.na/89582/read/Partial-lockdown-in-effect-from-Friday}}</ref>
+|2020-05-04<ref>{{#invoke:cite news| | title=Namibia to reopen economy ... moves to 'stage two', post-lockdown | last=Ngatjiheue | first=Charmaine | newspaper=[[The Namibian]] | date=30 April 2020 | page=1 | url=https://www.namibian.com.na/90737/read/Namibia-to-reopen-economy-…-moves-to-stage-two-post-lockdown}}</ref>
+|38
+| || ||
+| || ||
+| || ||
+| || ||
+| || ||
+| || ||
+| || ||
+|38
+|
+|-
+| rowspan="2" style="text-align:left;" |{{Flagicon|Nepal}} [[COVID-19 pandemic in Nepal|Nepal]]
+| Nationwide
+| 2020-03-24<ref name=":51111">{{#invoke:cite news|
+| date         = 24 March 2020
+| title        = Nepal locks down for a week to stem coronavirus spread
+| url          = https://www.thejakartapost.com/travel/2020/03/24/nepal-locks-down-for-a-week-to-stem-coronavirus-spread.html
+| work         = [[The Jakarta Post]]
+| access-date  = 25 March 2020
+}}</ref>
+|2020-07-21<ref name=":22222">{{#invoke:cite web||title=Nepal ends COVID-19 lockdown|url=https://www.nepalitimes.com/latest/nepal-ends-covid-19-lockdown/|access-date=2020-11-30|language=en-US|date=2020-07-21|newspaper=[[Nepali Times]]}}</ref>
+| rowspan="2" |120
+| || ||
+| || ||
+| || ||
+| || ||
+| || ||
+| || ||
+| || ||
+|120
+|
+|-
+|[[Kathmandu]]
+|
+|
+|2020-08-20<ref name=":33">{{#invoke:cite web||title=Lockdown extended in Kathmandu Valley with spike in COVID-19 cases|url=https://www.wionews.com/south-asia/lockdown-extended-in-kathmandu-valley-with-spike-in-covid-19-cases-324878|access-date=2020-11-30|website=WION|language=en}}</ref>
+|2020-09-09<ref name=":33" />
+|21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|141
+|City
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Netherlands.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Netherlands|Netherlands]] 
+|2020-03-15<ref name="auto14">{{Cite web|url=https://metro.co.uk/2020/03/15/netherlands-becomes-latest-country-go-lockdown-battle-coronavirus-12401825/|title=Netherlands becomes latest country to go into lockdown in battle against coronav|first=Jimmy|last=Nsubuga|date=March 15, 2020}}</ref>
+|2020-04-06<ref name="auto14"/>
+|22
+|2020-12-15<ref name="auto31">{{#invoke:cite web||url=https://www.euronews.com/2020/12/14/netherlands-set-to-declare-sweeping-immediate-covid-19-lockdown|title=Coronavirus: Netherlands begins imposing tough new five-week lockdown|first=Michael|last=Daventry|date=Dec 14, 2020|website=euronews|access-date=Jan 6, 2021}}</ref>
+|2021-06-05<ref>{{Cite web|title=Einde lockdown in zicht: kabinet versnelt met versoepelingen|url=https://www.volkskrant.nl/nieuws-achtergrond/einde-lockdown-in-zicht-kabinet-versnelt-met-versoepelingen~bd7f4b87/|website=GardaWorld}}</ref>
+|172
+|2021-12-19<ref>{{cite news|author-last1=Meijer|author-first1=Bart|author-last2=van den Berg|author-first2=Stephanie|url=https://www.reuters.com/business/healthcare-pharmaceuticals/netherlands-set-announce-strict-christmas-lockdown-media-2021-12-18/|title=Netherlands to go into strict Christmas lockdown|date=December 19, 2021|accessdate=December 19, 2021}}</ref>
+|2022-01-14<ref>{{cite news|url=https://www.euronews.com/2022/01/14/dutch-government-eases-lockdown-opening-shops-gyms-and-hairdressers|title=Dutch government eases lockdown, opening shops, gyms and hairdressers|date=January 14, 2022|accessdate=January 14, 2022}}</ref>
+|26
+| || || 
+| || || 
+| || || 
+|
+|
+|
+|
+|
+|
+|220
+|National
+|-
+| style="text-align:left;" rowspan="2" |[[File:Flag of New Zealand.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in New Zealand|New Zealand]]
+|Nationwide
+|2020-03-23<ref name="auto24">{{Cite web|url=https://covid19.govt.nz/alert-levels-and-updates/history-of-the-covid-19-alert-system/|title=History of the COVID-19 Alert System|website=Unite against COVID-19}}</ref><ref>{{#invoke:cite web||url=https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12319204|title=Covid-19 coronavirus: What the lockdown means for you and how it will be enforced|work=[[The New Zealand Herald]]|date=24 March 2020|access-date=24 March 2020}}</ref>
+|2020-05-13<ref>{{#invoke:cite news|
+| last         = Small
+| first        = Zane
+| date         = 11 May 2020
+| title        = Livestream: Prime Minister Jacinda Ardern reveals if New Zealand will shift to COVID-19 alert level 2
+| url          = https://www.newshub.co.nz/home/politics/2020/05/livestream-prime-minister-jacinda-ardern-reveals-if-new-zealand-will-shift-to-covid-19-alert-level-2.html
+| work         = [[Newshub]]
+| location     = [[New Zealand]]
+| access-date  = 11 May 2020
+}}</ref>
+| rowspan="2" |52
+|2021-08-18<ref name="auto24"/>
+|2021-09-07<ref name="auto24"/>
+|21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|73
+|National
+|-
+|[[Auckland]]
+|
+|
+|2020-08-12<ref>{{Cite web|url=https://www.bbc.co.uk/news/live/world-53733309|title=As it happened: France coronavirus fight going 'the wrong way', says PM|website=BBC News}}</ref>
+|2020-08-30<ref name="auto24"/>
+|19
+|2021-02-14<ref name="auto26">{{Cite web|url=https://www.lbc.co.uk/news/auckland-new-zealand-announces-three-day-covid-lockdown-jacinda-ardern/|title=New Zealand announces three-day Covid lockdown in Auckland|website=LBC}}</ref>
+|2021-02-17<ref name="auto26"/>
+|3
+|2021-02-28<ref name="auto24"/>
+|2021-03-07<ref name="auto24"/>
+|7
+|2021-08-18<ref name="auto24"/>
+|2021-11-29(TBC)<ref>{{Cite web|url=https://www.nzherald.co.nz/nz/politics/covid-19-delta-outbreak-how-new-traffic-light-system-will-work/FXMBMSTP77TR47A2EEMGCYUPVA/|title=Covid 19 Delta outbreak: How new traffic light system will work|website=NZ Herald}}</ref>
+|104
+| || || 
+| || || 
+| || || 
+|185
+|[[Regions of New Zealand|Region]]
+|-
+| rowspan="3" style="text-align:left" |[[File:Flag of Nigeria.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Nigeria|Nigeria]]
+| style="text-align:left" |[[Abuja]]
+| rowspan="3" |2020-03-30<ref name="Nigeria">{{#invoke:cite web||url=https://www.aljazeera.com/news/2020/03/nigeria-announces-lockdown-major-cities-curb-coronavirus-200330095100706.html|title=Nigeria announces lockdown of major cities to curb coronaviruss|publisher=[[Al Jazeera]]|author=Mbah, Fidelis|date=30 March 2020|access-date=30 March 2020}}</ref>
+| rowspan="3" |2020-04-12<ref name="Nigeria" />
+| rowspan="3" |13
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| rowspan="3" |13
+| rowspan="2" |City
+|-
+| style="text-align:left" |[[Lagos]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+| style="text-align:left" |[[Ogun State|Ogun]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|[[States of Nigeria|State]]
+|-
+| colspan="2" style="text-align:left;" |[[File:Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Northern Cyprus|''Northern Cyprus'']]
+|2020-03-30<ref>{{#invoke:cite web||url=https://www.hurriyet.com.tr/dunya/son-dakika-haberi-kktcde-sokaga-cikma-yasagi-karari-alindi-41482155|title=Son dakika haberi: KKTC'de sokağa çıkma yasağı kararı alındı|date=30 March 2020|access-date=1 April 2020}}</ref>
+|2020-05-04<ref>[https://knews.kathimerini.com.cy/en/news/the-four-phases-of-cyprus-lockdown-exit-roadmap The four phases of Cyprus' lockdown exit roadmap] ''knews.kathimerini.com.cy'', accessed 31 October 2020</ref>
+|35
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|35
+| rowspan="1" |National
+|-
+| rowspan="2" |[[File:Flag of North Korea.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in North Korea|North Korea]]
+|Nationwide
+|2022-05-12<ref>https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-officially-reports-first-covid-19-outbreak/articleshow/91505448.cms</ref>
+|not set
+|not set
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|National
+|-
+| style="text-align:left" |[[Kaesong]]
+|2020-07-25<ref>{{#invoke:cite news||last1=Cha|first1=Sangmi|last2=Smith|first2=Josh|date=July 25, 2020|title=North Korea declares emergency in border town over first suspected COVID-19 case|work=Reuters|url=https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-reports-first-suspected-case-of-covid-19-kcna-idUSKCN24Q0TC|access-date=October 21, 2020}}</ref>
+|2020-08-14<ref>Cha, Sangmi (August 14, 2020). [https://www.reuters.com/article/us-health-coronavirus-northkorea/north-korea-lifts-lockdown-in-border-town-after-suspected-covid-19-case-inconclusive-idUSKCN25A044 "North Korea lifts lockdown in border town after suspected COVID-19 case 'inconclusive'"] Reuters.</ref>
+|20
+| || ||
+| || ||
+| || ||
+| || ||
+| || ||
+| || ||
+| || ||
+|20
+| rowspan="1" |City
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Oman.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Oman|Oman]]
+| style="text-align:left" |[[Muscat Governorate|Muscat]]
+|2020-04-10<ref name="Muscat">{{#invoke:cite news|
+| date         = 8 April 2020
+| title        = Muscat lockdown from Friday
+| url          = https://www.omanobserver.om/lockdown/
+| work         = [[Oman Observer]]
+| access-date  = 8 April 2020
+}}</ref>
+|2020-05-29<ref>{{#invoke:cite web||url=https://www.omanobserver.om/muscat-governorate-lockdown-extended/|title=Muscat governorate lockdown extended|date=5 May 2020|website=Oman Observer|access-date=5 May 2020}}</ref>
+|49
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|49
+|[[Governorates of Oman|Governorate]]
+|-
+| style="text-align:left" |[[Jalan Bani Bu Ali]]
+|2020-04-16<ref name="oman2">{{#invoke:cite news|
+| date         = 16 April 2020
+| title        = Commercial market in Jaalan Bani Bu Ali locked down
+| url          = https://www.omanobserver.om/commercial-market-in-jaalan-bani-bu-ali-locked-down/
+| work         = [[Oman Observer]]
+| access-date  = 19 April 2020
+}}</ref>
+|2020-05-29<ref>{{#invoke:cite web||url=https://www.omanobserver.om/muscat-governorate-lockdown-extended/|title=Muscat governorate lockdown extended|date=5 May 2020|website=Oman Observer|access-date=2 September 2021}}</ref>
+|43
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|''{{DATEDIFF2|2020-04-16|2020-05-29}}''
+|[[Provinces of Oman|Province]]
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Pakistan.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Pakistan|Pakistan]]
+|2020-03-24<ref>{{#invoke:cite news||url=https://www.thestatesman.com/world/coronavirus-pandemic-pakistan-extend-lockdown-2-weeks-death-toll-reaches-31-1502872742.html|title=Coronavirus pandemic: Pakistan to extend lockdown for 2 more weeks as death toll reaches 31|date=2 April 2020|access-date=15 April 2020|work=The Statesman|language=en}}</ref>
+|2020-05-09<ref>{{#invoke:cite web||url=https://tribune.com.pk/story/2206167/1-countrywide-lockdown-stretched-till-may-9/|title=Countrywide lockdown stretched till May 9|last=Shehzad |first=Rizwan|work=The Express Tribune|language=en|date=24 April 2020|access-date=25 April 2020}}</ref>
+|46
+|2021-05-08<ref>{{Cite web|url=https://www.hindustantimes.com/world-news/pakistan-imposes-10-day-countrywide-lockdown-from-may-8-to-tackle-covid19-101620482424325.html|title=Pakistan imposes 10-day countrywide lockdown from May 8 to tackle Covid-19|date=May 8, 2021|website=Hindustan Times}}</ref>
+|2021-05-18
+|10
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|46
+| rowspan="5" |National
+|-
+| colspan="2" style="text-align:left;" |[[File:Flag of Panama.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Panama|Panama]]
+|2020-03-25<ref>{{#invoke:cite web||url=https://www.prensa.com/impresa/panorama/ejecutivo-decreta-cuarentena-total-de-manera-indefinida/|title=Ejecutivo decreta cuarentena total de manera indefinida &#124; La Prensa Panamá|date=25 March 2020|website=www.prensa.com}}</ref>
+|2020-05-31<br />(downgraded to a night and weekend curfew)<ref>{{cite web|url=https://www.gacetaoficial.gob.pa/pdfTemp/29035_B/78582.pdf|title=Decreto Ejecutivo 644 del 29 de mayo de 2020|date=29 May 2020|work=Gaceta Oficial de Panamá}}</ref>
+|67
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|67
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Papua New Guinea.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Papua New Guinea|Papua New Guinea]]
+|2020-03-24<ref name="PNGlockdown">{{#invoke:cite news| |title=Papua New Guinea in lockdown: what it means for you and your business |url=https://www.businessadvantagepng.com/png-in-lockdown-what-it-means-for-you-and-your-business/ | date=25 March 2020 |website=businessadvantagepng.com |access-date=30 March 2020 }}</ref>
+|2020-04-07<ref name="PNGlockdown" />
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|14
+|-
+| colspan="2" style="text-align:left;" |[[File:Flag of Paraguay.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Paraguay|Paraguay]]
+|2020-03-20<ref>{{#invoke:cite news||url=https://www.nytimes.com/reuters/2020/03/20/world/americas/20reuters-health-coronavirus-paraguay.html |title=Paraguay Confirms First Death Due to Coronavirus: Health Ministry |date=20 March 2020|work=NY Times |access-date=30 March 2020}}</ref>
+|2020-05-03<ref>{{#invoke:cite news||url=https://www.reuters.com/article/us-health-coronavirus-paraguay/paraguay-plans-switch-to-smart-quarantine-after-coronavirus-curve-flattens-idUSKCN2262XZ | title=Paraguay plans switch to 'smart' quarantine after coronavirus curve flattens |date=24 April 2020|website=Reuters}}</ref>
+|44
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|44
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Peru.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Peru|Peru]]
+|2020-03-16<ref>{{#invoke:cite news| |title=Coronavirus en Perú: Gobierno anuncia cuarentena obligatoria por 15 días por coronavirus |url=https://gestion.pe/peru/politica/coronavirus-en-peru-gobierno-anuncia-cuarentena-obligatorio-por-15-dias-por-coronavirus-noticia/ | date=15 March 2020 |work=Gestión |access-date=27 March 2020|lang=es}}</ref>
+|2020-06-30<ref>{{#invoke:cite news|
+| lang         = es
+| date         = 22 May 2020
+| title        = Perú extiende cuarentena hasta 30 de junio
+| url          = https://apnews.com/91c702c72dae80d3c8621844f4b01fc5
+| work         = [[Associated Press]]
+| access-date  = 22 May 2020
+}}</ref>
+|106
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|106
+|-
+| rowspan="4" style="text-align:left" |[[File:Flag of the Philippines.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in the Philippines|Philippines]]
+| style="text-align:left" |[[Cebu]]
+|2020-03-27<ref>{{#invoke:cite web||url=https://www.cnnphilippines.com/regional/2020/3/26/Cebu-Province-enhanced-community-quarantine.html|title=Cebu province placed under enhanced community quarantine due to COVID-19 threat|publisher=[[CNN Philippines]]|date=26 March 2020|access-date=31 March 2020}}</ref>
+|2020-05-15{{efn|Except in [[Cebu City]] only where it was extended to 16 days}}<ref name="VisMin_Lockdown">{{#invoke:cite web||url=https://www.rappler.com/nation/258863-cebu-davao-city-other-areas-visayas-mindanao-on-lockdown-until-may-15-2020|title=Cebu, Davao City, other areas in VisMin on lockdown until May 15|publisher=[[Rappler]]|author=Ranada, Pia|date=24 April 2020|access-date=24 April 2020}}</ref><br />to 2020-05-31{{efn|name=PHMECQ|Lockdown was extended to areas under high risk COVID-19 zones}}<ref name="PHMECQ">{{#invoke:cite web||url=https://news.abs-cbn.com/news/05/12/20/modified-lockdown-set-in-metro-manila-2-other-areas|title='Modified' lockdown set in Metro Manila, 2 other areas|publisher=[[ABS-CBN News]]|author=Merez, Arianne|date=12 May 2020|access-date=12 May 2020}}</ref>
+|49 to 65
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|49 to 65
+| [[Provinces of the Philippines|Province]]
+|-
+| style="text-align:left" |[[Davao Region]]
+|2020-03-19<ref name="Mindanao">{{#invoke:cite web||url=https://www.rappler.com/nation/255097-davao-region-coronavirus-lockdown-begins|title=Sara Duterte says no more localized quarantines as Davao Region lockdown begins|publisher=Rappler|date=19 March 2020|access-date=25 March 2020}}</ref>
+|2020-05-15<ref name="VisMin_Lockdown" />
+|57
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|57
+| [[Regions of the Philippines|Region]]
+|-
+| style="text-align:left" |[[Luzon]]
+| |[[Enhanced community quarantine in Luzon|2020-03-15]]{{efn|Lockdown was started in [[Metro Manila]], but expanded to the rest of Luzon two days later, 17 March 2020}}<ref name=":04">{{#invoke:cite web||url=https://www.philstar.com/headlines/2020/03/12/2000209/travel-and-manila-suspended-march-15-code-red-sublevel-2-raised-over-covid-19?fbclid=IwAR3AAILu_dcJdaSsjyrRDkaPvgc-djCiwGBgTc_13DWyg8E05B3vsxz02PE|title=Travel to and from Manila suspended from March 15 as Code Red Sublevel 2 raised over COVID-19|last=Luna|first=Franco|website=[[Philippine Star]]|access-date=12 March 2020}}</ref>
+|2020-04-30{{efn|In most Luzon areas only, except Metro Manila and selected areas of Luzon are on high risk COVID-19 zones}}<ref>{{#invoke:cite web||url=https://news.abs-cbn.com/news/04/07/20/philippines-extends-lockdown-of-millions-in-luzon-to-april-30|title=Philippines extends lockdown of millions in Luzon to April 30|publisher=[[ABS-CBN News]]|author=Merez, Arianne|date=7 April 2020|access-date=7 April 2020}}</ref><br />to 2020-05-15{{efn|Lockdown was extended to Metro Manila and remaining areas of Luzon}}<ref>{{#invoke:cite web||url=https://www.bloomberg.com/news/articles/2020-04-24/philippines-extends-lockdown-of-capital-nearby-areas-to-may-15|title=Philippines Extends Lockdown of Manila and Nearby Areas to May 15|publisher=[[Bloomberg L.P.]]|author=Calonzo, Andreo|date=24 April 2020|access-date=24 April 2020}}</ref><br />to 2020-05-31{{efn|name=PHMECQ}}<ref name="PHMECQ" />
+|46 to 61 to 77
+| 2020-08-04<ref name="PH_20200804">{{#invoke:cite web||url=https://www.reuters.com/article/us-health-coronavirus-philippines-idUSKBN24Y0KJ|title=Philippines to reimpose stricter coronavirus lockdown in capital as cases spike|publisher=[[Reuters]]|author=Dela Cruz, Enrico|date=3 August 2020|access-date=2 November 2020}}</ref>{{efn|name=PH_2ndlockdown|[[Metro Manila]], [[Bulacan]], [[Cavite]] and [[Rizal]] only.}}
+| 2020-08-18<ref name="PH_20200804" />{{efn|name=PH_2ndlockdown}}
+| 15
+| 2021-01-25|| 2021-02-15|| 21
+| 2021-03-29|| 2021-11-15|| 231
+| || || 
+| || || 
+| || || 
+| || || 
+|61 to 92
+|[[Island groups of the Philippines|Island group]]
+|-
+| style="text-align:left" |[[Soccsksargen]]
+|2020-03-23<ref name="Mindanao" />
+| 2020-05-15<ref>{{#invoke:cite news| |date=16 May 2020 |title=Metro Manila, Laguna, 7 other areas shift to modified ECQ |work=GMA News |url=https://www.gmanetwork.com/news/news/nation/738392/metro-manila-laguna-cebu-city-shift-to-modified-ecq/story/ |access-date=16 May 2020}}</ref>
+|53
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|53
+| Region
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Poland.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Poland|Poland]]
+|2020-03-13<ref>{{#invoke:cite news|
+| last         = Jones
+| first        = Ewan
+| date         = 13 March 2020
+| title        = Poland in COVID-19 LOCKDOWN! PM orders bars, restaurants, shopping centres and borders closed - and cancels ALL flights
+| url          = https://www.thefirstnews.com/article/poland-in-covid-19-lockdown-pm-orders-bars-restaurants-shopping-centres-and-borders-closed---and-cancels-all-flights-11142
+| work         = The First News
+| publisher    = [[Polish Press Agency]]
+| access-date  = 21 March 2020
+}}</ref>
+|2020-04-11<ref name="DWEuroLockdown1">{{#invoke:cite news|
+| title        = Coronavirus: What are the lockdown measures across Europe?
+| url          = https://www.dw.com/en/coronavirus-what-are-the-lockdown-measures-across-europe/a-52905137
+| work         = [[Deutsche Welle]]
+| access-date  = 8 April 2020
+}}</ref>
+|29
+|2020-12-28<ref name="auto11">{{#invoke:cite web||url=http://www.xinhuanet.com/english/2020-12/18/c_139598453.htm|title=Poland to impose nationwide lockdown from Dec. 28 to Jan. 17 - Xinhua &#124; English.news.cn|website=www.xinhuanet.com|access-date=Jan 6, 2021}}</ref>
+|2021-01-17<ref name="auto11"/>
+|20
+|2021-03-20<ref>{{Cite web|url=https://www.politico.eu/article/poland-goes-into-near-lockdown-as-covid-19-pandemic-accelerates/|title=Poland goes into near-lockdown as COVID-19 pandemic accelerates|date=March 17, 2021|website=POLITICO}}</ref>
+|2021-04-25<ref>{{Cite web|url=https://polandin.com/53296419/covid19-poland-prolongs-coronavirus-lockdown-till-april-25|title=COVID-19: Poland prolongs coronavirus lockdown till April 25|first=Telewizja Polska|last=S.A|website=polandin.com}}</ref>
+|36
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|85
+| rowspan="2" |National
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Portugal.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Portugal|Portugal]]
+|2020-03-19<ref>{{#invoke:cite news||url=https://www.theportugalnews.com/news/state-of-emergency-explained/53448|title=State of Emergency Explained|date=19 March 2020|work=Portugal News Newspaper|access-date=25 March 2020|language=en}}</ref>
+|2020-04-02<ref name="DWEuroLockdown1" />
+|14
+|2021-01-15<ref name="LockdownTemplate_Portugal">{{Cite web|url=https://www.aa.com.tr/en/europe/portugal-announces-month-long-lockdown/2109173|title=Portugal announces month-long lockdown|website=www.aa.com.tr}}</ref>
+|2021-03-15<ref>{{Cite web|url=https://covid19estamoson.gov.pt/lockdown-easing-plan-schedule-and-rules/|title=Lockdown Easing Plan: Schedule and Rules|website=Covid 19 estamos ON}}</ref>
+|59
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|73
+|-
+| style="text-align:left" |[[File:Flag of Qatar.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Qatar|Qatar]]
+| style="text-align:left" |[[Industrial Area (Doha)|Doha Industrial Area]]
+|2020-03-11<ref>{{#invoke:cite news|
+| last1         = Pattisson
+| first1        = Pete
+| last2         = Sedhai
+| first2        = Roshan
+| date         = 20 March 2020
+| title        = Covid-19 lockdown turns Qatar's largest migrant camp into 'virtual prison'
+| url          = https://www.theguardian.com/global-development/2020/mar/20/covid-19-lockdown-turns-qatars-largest-migrant-camp-into-virtual-prison
+| work         = [[The Guardian]]
+| access-date  = 3 April 2020
+}}</ref>
+|2020-06-15<ref>[https://www.reuters.com/article/us-health-coronavirus-qatar-idUSKBN23F2KD Qatar to lift lockdown in four phases from June 15] 8 June 2020 ''www.reuters.com'', accessed 6 November 2020</ref>
+|{{DATEDIFF2|2020-03-11|2020-06-15}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|96
+|[[Industrial park]]
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Romania.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Romania|Romania]]
+|2020-03-25<ref>{{#invoke:cite web||url=https://www.digi24.ro/stiri/actualitate/klaus-iohannis-anunta-carantina-totala-in-romania-tot-ce-era-pana-acum-recomandare-devine-obligatoriu-masurile-in-vigoare-de-maine-1280363|title=Klaus Iohannis anunță carantină totală în România: Tot ce era până acum recomandare, devine obligatoriu. Măsurile, în vigoare de mâine |work=[[Digi24]]|language=ro|date=24 March 2020|access-date=24 March 2020}}</ref>
+|2020-05-12<ref>{{#invoke:cite web|
+ |url=https://www.garda.com/crisis24/news-alerts/329636/romania-government-to-extend-covid-19-state-of-emergency-by-30-days-from-week-of-april-13-update-5
+ |title=Romania: Government to extend COVID-19 state of emergency by 30 days from week of April 13 /update 5
+ |date=6 April 2020
+ |publisher=[[GardaWorld]]
+ |access-date=8 April 2020
+ }}</ref>
+|48
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|48
+|National
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Russia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Russia|Russia]]
+| style="text-align:left" |[[Moscow metropolitan area|Moscow]]
+|2020-03-30<ref>{{#invoke:cite web||url=https://www.france24.com/en/20200330-moscow-goes-into-lockdown-urges-other-russian-regions-to-take-measures-to-curb-coronavirus-spread|title=Moscow goes into lockdown, urges other regions to take steps to slow coronavirus|publisher=[[France 24]]|date=30 March 2020|access-date=30 March 2020}}</ref>
+|2020-05-12<ref>{{#invoke:cite web||url=https://www.reuters.com/article/uk-health-coronavirus-russia-moscow/moscow-extends-partial-lockdown-over-coronavirus-until-may-1-idUKKBN21K2PI|title=Moscow extends partial lockdown over coronavirus until May 1|publisher=[[Reuters]]|date=3 April 2020|access-date=14 April 2020}}</ref><ref>{{#invoke:cite news||date=1 May 2020|title=Coronavirus in Russia: The Latest News {{!}} 1 May|work=Moscow Times|url=https://www.themoscowtimes.com/2020/05/01/coronavirus-in-russia-the-latest-news-may-1-a69117|access-date=2 May 2020}}</ref>
+|43
+| 2021-10-28<ref>{{Cite web|date=2021-10-21|title=Moscow announces one-week lockdown as Russia Covid deaths rise|url=https://www.theguardian.com/world/2021/oct/21/moscow-announces-one-week-lockdown-covid-deaths-rise-russia|access-date=2021-10-22|website=The Guardian|language=en}}</ref>|| 2021-11-04|| 7
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|50
+|Metropolitan area
+|-
+| style="text-align:left" |Rest of the country{{efn|Applies for mandatory holidays and further measures in each [[Subdivisions of Russia|Russian region]]}}
+|2020-03-28<ref name=":0">{{#invoke:cite web||title=COVID-19 Information|url=https://ru.usembassy.gov/covid-19-information/|date=30 April 2020|website=U.S. Embassy in Russia|access-date=2 May 2020}}</ref>
+|2020-04-30<ref name=":0" />
+|33
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|33
+| rowspan="4" |National
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Rwanda.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Rwanda|Rwanda]]
+|2020-03-21<ref>{{#invoke:cite news||url=https://www.dw.com/en/coronavirus-rwanda-imposes-africas-first-lockdown/a-52878787|title=Coronavirus: Rwanda imposes Africa's first lockdown|publisher=dw.com|date=22 March 2020|access-date=28 March 2020}}</ref>
+|2020-04-19<ref>{{#invoke:cite news|
+| last         = Tasamba
+| first        = James
+| date         = 2 April 2020
+| title        = Rwanda extends nationwide lockdown until April 19
+| url          = https://www.aa.com.tr/en/africa/rwanda-extends-nationwide-lockdown-until-april-19/1788857
+| work         = [[Anadolu Agency]]
+| access-date  = 8 April 2020
+}}</ref>
+|29
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|29
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Samoa.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Samoa|Samoa]]
+|2020-03-26<ref>{{#invoke:cite web||url=https://www.rnz.co.nz/international/pacific-news/412647/samoa-officially-on-lock-down|title=Samoa officially on lock down|publisher=[[Radio New Zealand]]|date=26 March 2020|access-date=26 March 2020}}</ref>
+|2020-04-08<ref>{{#invoke:cite news|
+| date         = 26 March 2020
+| title        = Samoa officially on lock down
+| url          = https://www.fbcnews.com.fj/world/pacific-islands/samoa-officially-on-lock-down/
+| work         = [[Fijian Broadcasting Corporation]]
+| access-date  = 8 April 2020
+}}</ref>
+|13
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|13
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of San Marino.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in San Marino|San Marino]]
+|2020-03-14<ref>{{#invoke:cite web||url=https://www.sanmarinortv.sm/news/politica-c2/nuovo-decreto-legge-in-vigore-fino-al-6-aprile-a185082|title=Nuovo decreto legge in vigore fino al 6 aprile|first=San Marino|last=Rtv|date=14 March 2020|website=San Marino Rtv}}</ref>
+| 2020-05-05<ref>{{#invoke:cite web||title=San Marino, lockdown fino al 5 maggio ma via libera alle vendite a domicilio|url=http://www.libertas.sm/notizie/2020/04/17/san-marino-lockdown-fino-al-5-maggio-ma-via-libera-alle-vendite-a-domicilio.html|date=17 April 2020|website=libertas SM|access-date=2 May 2020}}</ref>
+|52
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|52
+|-
+| rowspan="5" style="text-align:left" |[[File:Flag of Saudi Arabia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Saudi Arabia|Saudi Arabia]]
+| style="text-align:left" |[[Jeddah]]
+|2020-03-29<ref name="SaudiArabia29">{{#invoke:cite web||url=https://www.thestar.com.my/news/regional/2020/03/29/saudi-arabia-puts-fourth-city-on-lockdown-over-coronavirus|title=Saudi Arabia puts fourth city on lockdown over coronavirus | date=29 March 2020|website=thestar.com.my|access-date=30 March 2020}}</ref>
+| rowspan="5" |2020-06-21<ref>[https://www.arabnews.com/node/1680101/saudi-arabia Saudi Arabia eases coronavirus lockdown restrictions] ''www.arabnews.com'', accessed 2 November 2020</ref>
+|{{DATEDIFF2|2020-03-29|2020-06-21}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|84
+| rowspan="3" |City
+|-
+| style="text-align:left" |[[Mecca]]
+| rowspan="2" |2020-03-26<ref name="SaudiArabia29" />
+| rowspan="2" |{{DATEDIFF2|2020-03-26|2020-06-21}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| rowspan="2" |87
+|-
+| style="text-align:left" |[[Medina]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+| style="text-align:left" |[[Qatif]]
+|2020-03-09<ref name="SaudiArabia08">{{#invoke:cite web||url=https://www.aljazeera.com/news/2020/03/saudi-locks-qatif-coronavirus-surges-gulf-200308142809697.html|title=Saudi locks down Qatif as coronavirus surges in the Gulf | date=8 March 2020|website=aljazeera.com|access-date=30 March 2020}}</ref>
+|{{DATEDIFF2|2020-03-09|2020-06-21}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|104
+|Area
+|-
+| style="text-align:left" |[[Riyadh]]
+|2020-03-26<ref name="SaudiArabia29" />
+|{{DATEDIFF2|2020-03-26|2020-06-21}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|87
+|City
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Serbia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Serbia|Serbia]]
+|2020-03-15<ref name="DWEuroLockdown1" />
+|2020-04-21<ref>{{#invoke:cite news||date=20 April 2020|title=Serbia to let some businesses reopen in partial easing of coronavirus lockdown|work=Reuters|url=https://www.reuters.com/article/health-coronavirus-serbia-lockdown/serbia-to-let-some-businesses-reopen-in-partial-easing-of-coronavirus-lockdown-idUSL8N2C84CM|access-date=2 May 2020}}</ref><br />to 2020-05-04<ref>{{#invoke:cite news||date=29 April 2020|title=Cafes, restaurants to reopen as Serbia eases lockdown|work=New Straits Times|url=https://www.nst.com.my/world/world/2020/04/588448/cafes-restaurants-reopen-serbia-eases-lockdown|access-date=2 May 2020}}</ref>
+|37 to 50
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|37 to 50
+| rowspan="9" |National
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Singapore.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Singapore|Singapore]]
+|[[2020–21 Singapore circuit breaker measures|2020-04-07]]<ref>{{#invoke:cite news|
+| last         = Cheong
+| first        = Danson
+| date         = 3 April 2020
+| title        = Coronavirus: Most workplaces to close, schools will move to full home-based learning from next week, says PM Lee
+| url          = https://www.straitstimes.com/singapore/health/most-workplaces-to-close-schools-will-move-to-full-home-based-learning-from-next
+| work         = [[The Straits Times]]
+| location     = [[Singapore]]
+| access-date  = 3 April 2020
+}}</ref>
+|2020-06-01<ref>{{#invoke:cite news|
+| last         = Lai
+| first        = Linette
+| date         = 21 April 2020
+| title        = Covid-19 circuit breaker to be extended by one month to June 1: PM Lee
+| url          = https://www.straitstimes.com/politics/prime-minister-lee-hsien-loong-to-address-nation-on-covid-19-situation-at-5pm
+| work         = [[The Straits Times]]
+| location     = [[Singapore]]
+| access-date  = 21 April 2020
+}}</ref>
+|56
+|2021-05-16<ref>{{Cite web|url=https://theindianawaaz.com/singapore-returning-to-lockdown-like-conditions-as-covid-cases-rise/|title=Singapore returning to lockdown-like conditions as COVID cases rise &#124; The Indian Awaaz|date=May 15, 2021}}</ref>
+|2021-06-13
+|28
+|2021-07-22
+|2021-08-09
+|18
+|2021-09-27
+|2021-11-21
+<ref>{{Cite web |title=COVID-19 restrictions extended to Nov 21; more time needed to stabilise situation: MOH |url=https://www.channelnewsasia.com/singapore/stabilisation-phase-restrictions-extended-nov-21-dining-social-gatherings-2256766 |access-date=2022-04-17 |website=CNA |language=en}}</ref>
+|56
+| || || 
+| || || 
+| || || 
+| || || 
+|158
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of South Africa.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in South Africa|South Africa]]
+|2020-03-26<ref name="ZAlockdown">{{#invoke:cite web||url=https://www.theguardian.com/world/2020/mar/23/south-africa-to-go-into-21-day-lockdown-on-thursday-night|title=South Africa to go into 21-day lockdown on Thursday night|work=[[The Guardian]]|author=Burke, Jason|date=23 March 2020|access-date=24 March 2020}}</ref>
+|2020-04-30<ref>{{#invoke:cite web||url=https://businesstech.co.za/news/government/388743/south-africas-coronavirus-lockdown-extended-by-2-weeks/|title=South Africa's coronavirus lockdown extended by 2 weeks|first=Cyril|last=Ramaphosa|website=BusinessTechSA|access-date=16 April 2020}}</ref>
+|35
+|2020-12-28
+|2021-01-15
+|18
+|2021-06-28
+|2021-07-25
+|27
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|80
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Spain.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Spain|Spain]]
+|2020-03-14<ref>{{#invoke:cite web||url=https://www.elmundo.es/espana/2020/03/13/5e6b844e21efa0dd258b45a5.html|title=Pedro Sánchez anuncia el estado de alarma para frenar el coronavirus 24 horas antes de aprobarlo|date=13 March 2020|website=ELMUNDO|language=es|access-date=20 March 2020}}</ref>
+|2020-05-09<ref>{{#invoke:cite news| |title=Spain Extends Lockdown as Virus Cases Rise Again in Europe |url=https://www.bloomberg.com/news/articles/2020-04-22/spain-extends-lockdown-as-virus-cases-rise-again-in-europe |access-date=23 April 2020 |work=Bloomberg.com |date=23 April 2020}}</ref>
+|56
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|56
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Sri Lanka.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Sri Lanka|Sri Lanka]]
+|2020-03-18<ref>{{#invoke:cite web||url=https://www.newsfirst.lk/2020/03/18/police-curfew-for-puttlam/|title= Police Curfew for Puttalam|date=18 March 2020|website=Hiru News|language=es|access-date=10 June 2020}}</ref>
+|2020-06-21<ref>{{#invoke:cite news| |title=Spain Extends Lockdown as Virus Cases Rise Again in Europe |url=https://www.thehindu.com/news/international/curfew-lifted-in-colombo-after-2-months/article31681382.ece |access-date=10 June 2020}}</ref>
+|95
+|2021-08-20<ref>{{Cite web|url=https://www.trtworld.com/life/sri-lanka-enters-lockdown-as-covid-overwhelms-hospitals-latest-updates-49320|title=Sri Lanka enters lockdown as Covid overwhelms hospitals – latest updates|website=Sri Lanka enters lockdown as Covid overwhelms hospitals – latest updates}}</ref>
+|2021-10-01<ref>{{Cite web|url=https://timesofindia.indiatimes.com/world/south-asia/sri-lanka-to-end-covid-19-lockdown-on-october-1/articleshow/86615691.cms|title=Sri Lanka to end Covid-19 lockdown on October 1 - Times of India|website=The Times of India}}</ref>
+|42
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|137
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Switzerland.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Switzerland|Switzerland]]
+|2020-03-17<ref>{{#invoke:cite web||url=https://web.archive.org/web/20200317231248/https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-verordnung-2.pdf.download.pdf/COVID-19-Verordnung-2.pdf|title=Verordnung 2 über Massnahmen zur Bekämpfung des Coronavirus (COVID-19)|date=Mar 17, 2020|website=web.archive.org|access-date=Jan 6, 2021}}</ref>
+|2020-04-27<ref>{{#invoke:cite web||url=https://web.archive.org/web/20200415104635/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html|title=Measures, ordinance and explanations|date=Apr 15, 2020|website=web.archive.org|access-date=Jan 6, 2021}}</ref>
+|41
+|2021-01-18<ref>{{Cite web|url=https://www.swissinfo.ch/eng/business/switzerland-returns-to-lockdown-amid-concerns-over-more-contagious-virus-strain/46283172|title=Switzerland to enter new lockdown amid more contagious virus strains|first=swissinfo ch/jdp|last=urs|website=SWI swissinfo.ch}}</ref>
+|2021-03-01<ref>https://www.bloomberg.com/news/articles/2021-02-24/switzerland-eases-lockdown-by-reopening-shops-and-museums</ref>
+|42
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|83
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Thailand.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Thailand|Thailand]]
+|2020-03-25<ref>{{#invoke:cite news|
+| last         = Nortajuddin
+| first        = Athira
+| date         = 26 March 2020
+| title        = Surviving the virus lockdown
+| url          = https://theaseanpost.com/article/surviving-virus-lockdown
+| work         = The Asean Post
+| access-date  = 4 April 2020
+}}</ref>
+|2020-05-31<ref>{{#invoke:cite news|
+| author        = [[Reuters]]
+| date         = 27 April 2020
+| title        = Thailand to Extend Coronavirus Emergency Measures, Sees Improvement
+| url          = https://www.usnews.com/news/world/articles/2020-04-27/thailand-reports-nine-new-coronavirus-cases-one-new-death
+| work         = [[USNews]]
+| access-date  = 28 April 2020
+}}</ref>
+|67
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|67
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Trinidad and Tobago.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Trinidad and Tobago|Trinidad and Tobago]]
+|2020-03-17<ref name="TTLockdown">{{#invoke:cite web||url=https://www.nationnews.com/nationnews/news/244418/trinidad-lockdown|title=Trinidad on lockdown|publisher=Nation News|date=16 March 2020|access-date=23 April 2020}}</ref>
+|2020-03-31<ref name="TTLockdown" />
+|14
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|14
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Tunisia.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Tunisia|Tunisia]]
+|2020-03-22<ref>{{#invoke:cite web||url=https://www.reuters.com/article/us-health-coronavirus-tunisia-army-idUSKBN21A2EH|title=Tunisia orders army into streets to enforce coronavirus lockdown|publisher=[[Reuters]]|date=23 March 2020|access-date=23 March 2020}}</ref>
+|2020-04-19<ref>{{#invoke:cite news|
+| date         = 1 April 2020
+| title        = Tunisia extends lockdown by two weeks, releases prisoners
+| url          = https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+| work         = [[Al Jazeera]]
+| access-date  = 8 April 2020
+}}</ref>
+|28
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|28
+|-
+| rowspan="2" style="text-align:left" |[[File:Flag of Turkey.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Turkey|Turkey]] 
+|
+|2020-04-23<ref name="TurkLockdown2">{{#invoke:cite news|
+| date         = 20 April 2020
+| title        = Turkey to impose four-day lockdown
+| url          = https://www.hurriyetdailynews.com/turkey-to-impose-four-day-lockdown-154053
+| work         = [[Hürriyet]]
+| access-date  = 23 April 2020
+}}</ref>
+|2020-04-27<ref name="TurkLockdown2" />
+|4
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|4
+|Only in [[Metropolitan municipalities in Turkey|30 metropolitan cities]] and [[Zonguldak Province|Zonguldak]].
+|-
+|Nationwide
+|2021-04-29<ref name="auto15">{{Cite web|url=https://medicalxpress.com/news/2021-04-turkey-full-lockdown-april.html|title=Turkey to enter full lockdown April 29 to May 17|website=medicalxpress.com}}</ref>
+|2021-05-17<ref name="auto15"/>
+|18
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|18
+| rowspan="5" |National
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Ukraine.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Ukraine|Ukraine]]
+|2020-03-17<ref name="DWEuroLockdown1" />
+|2020-04-24<ref name="DWEuroLockdown1" />
+|38
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|38
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of the United Arab Emirates.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in the United Arab Emirates|United Arab Emirates]]
+|2020-03-26<ref>{{#invoke:cite news| |url=https://www.garda.com/crisis24/news-alerts/326651/uae-three-day-lockdown-scheduled-march-26-29-update-16 |title=UAE: Three-day lockdown scheduled March 26-29 /update 16 |website=garda.com |date=26 March 2020|access-date=30 March 2020}}</ref>
+|2020-04-17<ref>{{#invoke:cite news|
+| date         = 5 April 2020
+| title        = Dubai imposes two-week lockdown as Gulf states step up coronavirus fight
+| url          = https://www.reuters.com/article/us-health-coronavirus-emirates/dubai-imposes-two-week-lockdown-as-gulf-states-step-up-coronavirus-fight-idUSKBN21M0QO
+| work         = [[Reuters]]
+| access-date  = 8 April 2020
+}}</ref>
+|22
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|22
+|-
+| rowspan="26" style="text-align:left" |[[File:Flag of the United Kingdom.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in the United Kingdom|United Kingdom]]
+| style="text-align:left" |[[England]]
+| rowspan="4" |2020-03-23<ref>{{#invoke:cite web||url=https://www.theguardian.com/world/2020/mar/23/boris-johnson-orders-uk-lockdown-to-be-enforced-by-police|title=Boris Johnson orders UK lockdown to be enforced by police|website=The Guardian|language=en|date=23 March 2020|access-date=19 April 2020}}</ref>
+|2020-07-04<ref>[https://www.theguardian.com/money/2020/jun/24/coronavirus-lockdown-eased-4-july-england-pub-hairdresser-gym Coronavirus lockdown eased: what you can and can't do from 4 July] ''www.theguardian.com'', accessed 31 October 2020</ref>
+|103
+|2020-11-05<ref name="Indy201031">[https://www.independent.co.uk/news/health/uk-lockdown-boris-johnson-coronavirus-winter-death-latest-update-b1473886.html uk-lockdown-boris-johnson-coronavirus-winter-death-latest-update] ''www.independent.co.uk'', accessed 31 October 2020</ref>
+|2020-12-02<ref name="Indy201031" />
+|27
+|2021-01-05<ref name="auto10">{{#invoke:cite web||url=https://www.bbc.com/news/uk-55534999|title=Covid: Boris Johnson set to announce new England lockdown|date=Jan 4, 2021|access-date=Jan 6, 2021|via=www.bbc.co.uk}}</ref>
+|2021-03-28<ref>{{#invoke:cite news| |title=Timeline of UK government coronavirus lockdowns |url=https://www.instituteforgovernment.org.uk/charts/uk-government-coronavirus-lockdowns|access-date=2 September 2021}}</ref>{{Efn|England has followed an incremental easing of restrictions since 8 March 2021. Most lockdown restrictions were lifted between March and June, July 19 is the date set for the expiry of most legal restrictions in England. Although some sources describe this date as the "end" of lockdown, March 28 was the date in which the "stay at home orders" were ended. This fits the most internationally accepted definition of what constitutes a lockdown.|name=England-caveat}}
+|83
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|213
+|-
+| style="text-align:left" |[[Scotland]]
+|2020-06-29<ref>[https://www.bbc.co.uk/news/uk-scotland-53083995 Coronavirus: Shops in Scotland to reopen from 29 June] 18 June 2020 ''www.bbc.co.uk'', accessed 31 October 2020</ref>
+|98
+|2020-12-26<ref>[https://www.bbc.co.uk/news/uk-scotland-55379632 Scotland tightens Covid rules at Christmas] 19 December 2020 ''www.bbc.co.uk'', accessed 19 December 2020</ref>
+|2021-04-02<ref>{{#invoke:cite news| |title=Hairdressers to reopen on 5 April as rules ease |url=https://www.bbc.co.uk/news/uk-scotland-56416538 |access-date=16 March 2021 |date=16 March 2021}}</ref>
+|97
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|195
+|-
+| style="text-align:left" |[[Northern Ireland]]
+|2020-07-03<ref>[https://www.bbc.co.uk/news/uk-northern-ireland-53048414 Coronavirus: NI's hotels and bars can reopen from 3 July] 15 June 2020 ''www.bbc.co.uk'', accessed 1 November 2020</ref>
+|102
+|2020-11-27<ref name="auto9">{{#invoke:cite web||url=https://www.bbc.com/news/uk-northern-ireland-55004210|title=Coronavirus: NI to face new lockdown measures from next Friday|date=Nov 19, 2020|access-date=Jan 6, 2021|via=www.bbc.co.uk}}</ref>
+|2020-12-11<ref name="auto9"/>
+|14
+|2020-12-26<ref name="auto12">{{#invoke:cite web||url=https://www.bbc.com/news/uk-northern-ireland-55349545|title=Coronavirus: NI facing six-week lockdown from 26 December|date=Dec 17, 2020|access-date=Jan 6, 2021|via=www.bbc.co.uk}}</ref>
+|2021-04-12<ref>{{#invoke:cite web| |title=Stay-at-home order lifted as restrictions ease |url=https://www.bbc.co.uk/news/uk-northern-ireland-56689203 |access-date=12 April 2021}}</ref>
+|107
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|223
+| rowspan="2" |[[Countries of the United Kingdom|Country]]
+|-
+| style="text-align:left" |[[Wales]]
+|2020-07-13<ref>[https://www.bbc.co.uk/news/uk-wales-politics-53247660 Coronavirus in Wales: Pubs and restaurants can open outdoors from 13 July] 2 July 2020 ''www.bbc.co.uk'', accessed 1 November 2020</ref>
+|112
+|2020-10-23<ref name="FirebreakLockdown">{{#invoke:cite web||url=https://www.bbc.com/news/uk-wales-54598136|publisher=BBC News|title=Covid: Wales to go into 'firebreak' lockdown from Friday|language=en|date=19 October 2020|access-date=20 October 2020}}</ref>
+|2020-11-09<ref name="FirebreakLockdown" />
+|17
+|2020-12-20<ref>{{#invoke:cite news||date=2020-12-16|title=Covid: Two household limit at Christmas to be made law in Wales|language=en-GB|work=BBC News|url=https://www.bbc.com/news/uk-wales-55336452|access-date=2020-12-16}}</ref>
+|2021-03-13<ref>{{Cite web|url=https://www.bbc.com/news/uk-wales-58102007|title=Covid: Most of Wales' coronavirus rules to end Saturday|date=August 6, 2021|via=www.bbc.co.uk}}</ref><ref>{{Cite web|url=https://gov.wales/stay-local-wales-takes-first-steps-out-of-lockdown|title=Stay local – Wales takes first steps out of lockdown|website=GOV.WALES}}</ref>{{Efn|Most lockdown restrictions were lifted between March and June. March 13 was the date in which the "stay at home orders" were ended. This fits the most internationally accepted definition of what constitutes a lockdown.|name=Wales-caveat}}
+|''{{DATEDIFF2|2020-12-20|2021-03-13}}''
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|212
+|-
+|North West
+|2020-12-31<ref name="auto3b">{{Cite web|url=https://www.bbc.com/news/uk-england-lancashire-55497524|title=Coronavirus: Businesses 'devastated' by New Year's Eve tier 4 move|date=December 31, 2020|via=www.bbc.co.uk}}</ref>
+|2021-03-29
+|{{DATEDIFF2|2020-12-31|2021-03-29}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|88
+| rowspan="4" |[[Regions of England|Region]]
+|-
+|North East
+|2020-12-31<ref name="auto3b"/>
+|2021-03-29
+|{{DATEDIFF2|2020-12-31|2021-03-29}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|88
+|-
+|East Midlands
+|2020-12-31<ref name="auto3b"/>
+|2021-03-29
+|{{DATEDIFF2|2020-12-31|2021-03-29}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|88
+|-
+|West Midlands
+|2020-12-31<ref name="auto3b"/>
+|2021-03-29
+|{{DATEDIFF2|2020-12-31|2021-03-29}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|88
+|-
+|Norfolk
+|2020-12-26<ref>{{Cite web|url=https://www.bbc.com/news/uk-england-norfolk-55424767|title=Covid-19 tiers: Norfolk moves to tier 4 from 26 December|date=December 23, 2020|via=www.bbc.co.uk}}</ref>
+|2021-03-29
+|{{DATEDIFF2|2020-12-26|2021-03-29}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|93
+| rowspan="4" |[[Counties of England|County]]
+|-
+|Suffolk
+|2020-12-26<ref>{{Cite web|url=https://www.bbc.com/news/uk-england-suffolk-55424755|title=Covid-19 tiers: Suffolk moves to tier 4 from 26 December|date=December 23, 2020|via=www.bbc.co.uk}}</ref>
+|2021-03-29
+|{{DATEDIFF2|2020-12-26|2021-03-29}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|93
+|-
+|Cambridgeshire 
+|2020-12-26<ref>{{Cite web|url=https://www.bbc.com/news/uk-england-cambridgeshire-55422386|title=Covid-19 tier 4: Cambridgeshire moves to tougher restrictions|date=December 23, 2020|via=www.bbc.co.uk}}</ref>
+|2021-03-29
+|{{DATEDIFF2|2020-12-26|2021-03-29}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|93
+|-
+|Essex
+|2020-12-26<ref>{{Cite web|url=https://www.bbc.com/news/uk-england-essex-55424855|title=Covid-19: Essex moves to highest tier 4 restrictions|date=December 23, 2020|via=www.bbc.co.uk}}</ref>
+|2021-03-29
+|{{DATEDIFF2|2020-12-26|2021-03-29}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|93
+|-
+|London area
+|2020-12-20<ref name="auto2">{{#invoke:cite news||date=2020-12-19|title=London Put in Emergency Lockdown as U.K. Fights New Strain|language=en|work=Bloomberg.com|url=https://www.bloomberg.com/news/articles/2020-12-19/london-put-in-emergency-lockdown-as-u-k-fights-new-virus-strain|access-date=2020-12-19}}</ref>
+|2021-03-29
+|{{DATEDIFF2|2020-12-20|2021-03-29}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|99
+|City
+|-
+|Kent & South East
+|2020-12-20<ref name="auto2"/>
+|2021-03-29
+|{{DATEDIFF2|2020-12-20|2021-03-29}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|99
+|Region
+|-
+|[[Leicester]]
+|2020-06-30<ref>{{#invoke:cite web||url=https://www.bbc.com/news/uk-england-leicestershire-53229371|title=Leicester lockdown tightened as coronavirus cases rise|date=Jun 30, 2020|access-date=Jan 6, 2021|via=www.bbc.co.uk}}</ref>
+|2020-07-24<ref>{{#invoke:cite web||url=https://www.bbc.com/news/uk-england-leicestershire-53516633|title=Coronavirus: Reopening shops during Leicester lockdown 'pointless'|date=Jul 24, 2020|access-date=Jan 6, 2021|via=www.bbc.co.uk}}</ref>
+|24
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|24
+| rowspan="12" |County
+|-
+|[[Glasgow]]
+| || || 
+| rowspan="11" |2020-11-20<ref name="L4_11CA">[https://www.bbc.co.uk/news/uk-scotland-54974855 Covid in Scotland: Level 4 lockdown to be imposed in 11 council areas] 18 November 2020 ''www.bbc.co.uk'' accessed 19 November 2020</ref>
+| rowspan="11" |2020-12-11<ref name="L4_11CA" />
+| rowspan="11" |21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| rowspan="11" |21
+|-
+|[[East Renfrewshire]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+|[[Renfrewshire]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+|[[East Dunbartonshire]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+|[[West Dunbartonshire]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+|[[North Lanarkshire]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+|[[South Lanarkshire]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+|[[East Ayrshire]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+|[[South Ayrshire]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+|[[West Lothian]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+|[[Stirling (council area)|Stirling]]
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|-
+| rowspan="9" style="text-align:left" |[[File:Flag of the United States.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in the United States|United States]]
+| style="text-align:left" |[[COVID-19 pandemic in California|California]]
+|2020-03-19<ref>{{#invoke:cite news||last=Yap|first=Jennifer Calfas, Margherita Stancati and Chuin-Wei|url=https://www.wsj.com/articles/china-reports-no-new-domestic-coronavirus-infections-for-the-first-time-since-outbreak-started-11584611233|title=California Orders Lockdown for State's 40 Million Residents|date=20 March 2020|work=Wall Street Journal|access-date=20 March 2020|language=en-US|issn=0099-9660}}</ref>
+|2021-06-15<ref>{{Cite web|date=2021-06-11|title=As California Fully Reopens, Governor Newsom Announces Plans to Lift Pandemic Executive Orders|url=https://www.gov.ca.gov/2021/06/11/as-california-fully-reopens-governor-newsom-announces-plans-to-lift-pandemic-executive-orders/|access-date=2021-10-12|website=California Governor|language=en}}</ref>
+|453
+|
+|
+|
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|110
+|[[U.S. state|State]]
+|-
+| style="text-align:left" |[[COVID-19 pandemic in Connecticut|Connecticut]]
+|2020-03-23<ref>{{#invoke:cite news|
+| author1      = [[Associated Press]]
+| author2      = [[NBC]]
+| date         = 20 March 2020
+| title        = Coronavirus Outbreak Latest: No New Cases in Wuhan; US States Order Lockdowns
+| url          = https://www.nbcconnecticut.com/news/coronavirus/coronavirus-outbreak-latest-updates/2242154/
+| work         = [[NBC Connecticut]]
+| access-date  = 21 March 2020
+}}</ref>
+|2020-04-22<ref name="lockdownUSABusinessInsider">{{#invoke:cite news|
+| last1         = Perper
+| first1        = Rosle
+| last2         = Al-Arshani
+| first2        = Sarah
+| last3         = Secon
+| first3        = Holly
+| date         = 27 March 2020
+| title        = Nearly a third of Americans are now under orders to stay home — here's a running list of coronavirus lockdowns in US states and cities
+| url          = https://www.businessinsider.my/states-cities-shutting-down-bars-restaurants-concerts-curfew-2020-3?r=US&IR=T
+| work         = [[Business Insider]]
+| access-date  = 10 April 2020
+}}</ref>
+|30
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|30
+| rowspan="2" |State
+|-
+| style="text-align:left" |[[COVID-19 pandemic in Illinois|Illinois]]
+|2020-03-21<ref>{{#invoke:cite news|
+| last1         = Petrella
+| first1        = Dan
+| last2         = St. Clair
+| first2        = Stacy
+| last3         = Johnson
+| first3        = Steve
+| last4         = Pratt
+| first4        = Gregory
+| date         = 20 March 2020
+| title        = Gov. J.B. Pritzker issues order requiring residents to 'stay at home' starting Saturday
+| url          = https://www.chicagotribune.com/coronavirus/ct-coronavirus-illinois-shelter-in-place-lockdown-order-20200320-teedakbfw5gvdgmnaxlel54hau-story.html
+| work         = [[Chicago Tribune]]
+| location     = [[Chicago]]
+| access-date  = 21 March 2020
+}}</ref>
+|2020-05-30<ref>{{#invoke:cite web||first=Mary Ann|last=Ahern|url=https://www.nbcchicago.com/news/coronavirus/pritzker-expected-to-extend-illinois-stay-at-home-order-thursday-sources/2260588/|title=Illinois' Stay-at-Home Order Modified, Extended Through May, Pritzker Announces|date=23 April 2020|website=NBC 5 Chicago|archive-url=https://web.archive.org/web/20200424150511/https://www.nbcchicago.com/news/coronavirus/pritzker-expected-to-extend-illinois-stay-at-home-order-thursday-sources/2260588/|archive-date=24 April 2020|url-status=live|access-date=24 April 2020}}</ref>
+|70
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|70
+|-
+| style="text-align:left" |[[Kansas City, Kansas|Kansas City]] in [[COVID-19 pandemic in Kansas|Kansas]]
+|2020-03-24<ref>{{#invoke:cite web||url=https://www.cjonline.com/news/20200321/kansas-coronavirus-update-30-day-quarantine-ordered-for-kc-state-records-second-death-55-cases|title=Kansas coronavirus update: 30-day quarantine ordered for KC; state records second death, 55 cases|work=[[The Topeka Capital-Journal]]|last1=Carpenter|first1=Tim|last2=Smith|first2=Sherman|date=21 March 2020|access-date=24 March 2020}}</ref>
+|2020-04-19<ref name="USAtodayUSALockdownList">{{#invoke:cite news|
+| last1         = Hauck
+| first1        = Grace
+| last2         = Reyes
+| first2        = Lorenzo
+| last3         = L. Ortiz
+| first3        = Jorge
+| date         = 21 March 2020
+| title        = 'Stay Home, Stay Healthy': These states have ordered residents to avoid nonessential travel amid coronavirus
+| url          = https://www.usatoday.com/story/news/nation/2020/03/21/coronavirus-lockdown-orders-shelter-place-stay-home-state-list/2891193001/
+| work         = [[USA Today]]
+| access-date  = 10 April 2020
+}}</ref>
+|26
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|26
+|City
+|-
+| style="text-align:left" |[[COVID-19 pandemic in Massachusetts|Massachusetts]]
+|2020-03-24<ref name="MassachusettsLockdown">{{#invoke:cite web||url=https://www.newsweek.com/which-state-lockdowns-us-have-been-extended-1497162|title=Which State Lockdowns in the U.S. Have Been Extended?|publisher=[[Newsweek]]|author=Impelli, Matthew|date=9 April 2020|archive-url=https://web.archive.org/web/20200426180417/https://www.newsweek.com/which-state-lockdowns-us-have-been-extended-1497162|archive-date=26 April 2020|url-status=live|access-date=26 April 2020}}</ref>
+|2020-05-04<ref name="MassachusettsLockdown" />
+|41
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|41
+| rowspan="5" |State
+|-
+| style="text-align:left" |[[COVID-19 pandemic in Michigan|Michigan]]
+|2020-03-24<ref>{{#invoke:cite web||url=https://www.clickondetroit.com/news/local/2020/03/23/watch-live-michigan-gov-whitmer-to-provide-update-on-states-covid-19-response-efforts/|title=Michigan governor issues 'stay-at-home' order as COVID-19 cases increase|publisher=[[WDIV-TV]]|date=23 March 2020|access-date=23 March 2020}}</ref>
+|2020-04-13<ref name="lockdownUSABusinessInsider" />
+|20
+| || || 
+| || || 
+| || || 
+| || || 
+| || ||
+| || || 
+| || || 
+|20
+|-
+| style="text-align:left" |[[COVID-19 pandemic in New York (state)|New York]]
+|2020-03-22<ref>{{#invoke:cite web||url=https://edition.cnn.com/2020/03/20/politics/new-york-workforce-stay-home/index.html|title=Cuomo orders all nonessential New York workers to stay home|publisher=CNN|last=Stracqualursi|first=Veronica|date=20 March 2020|access-date=21 March 2020}}</ref>
+|2020-06-13<ref>{{#invoke:cite news|
+| last         = Lardieri
+| first        = Alexa
+| date         = 15 May 2020
+| title        = Lockdown extended for most of coronavirus-battered New York
+| url          = https://www.cbsnews.com/news/new-york-stay-at-home-extended-coronavirus-lockdown/
+| work         = [[CBS News]]
+| publisher    = [[Agence France-Presse]]
+| access-date  = 17 May 2020
+}}</ref>
+|83
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|83
+|-
+| style="text-align:left" |[[COVID-19 pandemic in Oregon|Oregon]]
+|2020-03-24<ref>{{#invoke:cite web||url=https://www.oregonlive.com/business/2020/03/oregon-governor-issues-stay-at-home-order-to-enforce-coronavirus-restrictions.html|title=Oregon governor issues 'stay home' order to enforce coronavirus restrictions|publisher=[[The Oregonian]]|last=Rogoway|first=Mike|date=23 March 2020|access-date=23 March 2020}}</ref>
+|2020-05-15<ref>{{#invoke:cite web||url=https://www.oregonlive.com/coronavirus/2020/05/coronavirus-in-oregon-governor-kate-brown-lays-out-the-road-to-reopening-public-life.html|title=Oregon reopening starts May 15 under governor’s coronavirus plan|first=Ted Sickinger&#124; The|last=Oregonian/OregonLive|date=May 7, 2020|website=oregonlive|access-date=Jan 6, 2021}}</ref>
+|53
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|53
+|-
+| style="text-align:left" |[[COVID-19 pandemic in Wisconsin|Wisconsin]]
+|2020-03-24<ref>{{#invoke:cite web||url=https://www.nbcchicago.com/news/coronavirus/wisconsin-governor-issues-order-closing-businesses/2243503/|title=Wisconsin Governor Issues Order Closing Businesses|website=NBC Chicago|language=en-US|access-date=24 March 2020}}</ref>
+|2020-05-13<ref>{{#invoke:cite web||url=https://www.npr.org/sections/coronavirus-live-updates/2020/05/13/855782006/wisconsin-supreme-court-overturns-the-states-stay-at-home-order|title=Wisconsin Supreme Court Overturns The State's Stay-At-Home Orders|date=13 May 2020|publisher=[[NPR]]}}</ref>
+|{{DATEDIFF2|2020-03-24|2020-05-13}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|50
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Venezuela.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Venezuela|Venezuela]]
+|2020-03-17<ref>{{#invoke:cite news| |url= https://www.reuters.com/article/us-health-coronavirus-venezuela-maduro/venezuelas-to-implement-nationwide-quarantine-as-coronavirus-cases-rise-to-33-idUSKBN214015 |title= Venezuela's to implement nationwide quarantine as coronavirus cases rise to 33 |agency= Reuters |date= 16 March 2020|access-date=24 March 2020}}</ref>
+|2020-05-13
+|57
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|57
+| rowspan="2" |National
+|-
+| rowspan="5" style="text-align:left" |[[File:Flag of Vietnam.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Vietnam|Vietnam]]
+|Nationwide
+|2020-04-01<ref>{{#invoke:cite web||url=https://www.garda.com/crisis24/news-alerts/328596/vietnam-borders-closed-with-laos-and-cambodia-as-nationwide-lockdown-implemented-april-1-update-20|title=Vietnam: Borders closed with Laos and Cambodia as nationwide lockdown implemented April 1|work=GardaWorld|date=2 April 2020|access-date=31 May 2020|archive-url=https://web.archive.org/web/20200531054442/https://www.garda.com/crisis24/news-alerts/328596/vietnam-borders-closed-with-laos-and-cambodia-as-nationwide-lockdown-implemented-april-1-update-20|archive-date=31 May 2020|url-status=live}}</ref>
+|2020-04-22<ref>{{#invoke:cite web||url=https://www.weforum.org/agenda/2020/05/vietnam-control-covid-19|title=Here are 4 ways Viet Nam has managed to control COVID-19|last=Fages|first=Véronique Maeva|work=World Economic Forum|date=29 May 2020|access-date=31 May 2020|quote=Vietnam relied on four relatively cost-effective solutions to combat the virus, including strategic testing, contact tracing through apps and effective public communication campaigns. As well as these, it implemented a national lockdown between 1st and 22nd April.|archive-url=https://web.archive.org/web/20200531055239/https://www.weforum.org/agenda/2020/05/vietnam-control-covid-19|archive-date=31 May 2020|url-status=live}}</ref>
+| rowspan="5" |21
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|21
+|-
+|[[Da Nang]]
+|
+|
+|2020-07-28<ref>{{#invoke:cite web||title=Da Nang to introduce social distancing measures from 0:00 hour on July 28 |url=https://en.qdnd.vn/social-affairs/news/da-nang-to-introduce-social-distancing-measures-from-0-00-hour-on-july-28-520853|access-date=2021-02-15|website=People's Army Newspaper|language=en}}</ref>
+|2020-09-05<ref>{{#invoke:cite web||title=Crawl back to normalcy: Da Nang after social distancing eased |url=https://e.vnexpress.net/news/life/trend/crawl-back-to-normalcy-da-nang-after-social-distancing-eased-4160771.html |access-date=2021-02-15|website=VnExpress|language=en}}</ref>
+|{{DATEDIFF2|2020-07-28|2020-09-05}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|60
+|City
+|-
+|[[Hai Duong province|Hai Duong]]
+|
+|
+|2021-02-16<ref name="Hai Duong">{{#invoke:cite web||title=Hai Duong urged to implement COVID-19 combat measures on wider scale|url=https://en.vietnamplus.vn/hai-duong-urged-to-implement-covid19-combat-measures-on-wider-scale/196293.vnp|access-date=2021-02-15|website=Vietnamplus|language=en}}</ref>
+|2021-03-02
+|{{DATEDIFF2|2021-02-16|2021-03-02}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|35
+|Province, [[Chi Linh]] city lockdown began from 28 January. 
+|-
+|[[Bac Ninh province|Bac Ninh]]
+|
+|
+|2021-05-18<ref name="Bac Ninh">{{#invoke:cite web||title=TP Bắc Ninh cách ly xã hội 220.000 người từ 6h ngày 18-5|url=https://tuoitre.vn/tp-bac-ninh-cach-ly-xa-hoi-220000-nguoi-tu-6h-ngay-18-5-20210518093558405.htm|access-date=2021-06-10|website=Tuoitre|language=vi}}</ref><ref>{{#invoke:cite web||title=Đến 15h ngày 20/5, Bắc Ninh cách ly xã hội 4 huyện, thành phố  |url=https://ncov.moh.gov.vn/web/guest/-/6847426-3744|website=moh.gov.vn|language=vi}}</ref> 
+|
+|{{DATEDIFF2|2021-05-18|2021-06-10}}
+|
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || rowspan="2"| 23
+|4 districts and 1 city 
+|-
+|[[Bac Giang province|Bac Giang]]
+|
+|
+|2021-05-18<ref name="Bac Giang">{{#invoke:cite web||title=Bắc Giang: Tạm dừng hoạt động 4 KCN, cách ly xã hội huyện Việt Yên|url=http://baochinhphu.vn/Hoat-dong-dia-phuong/Bac-Giang-Tam-dung-hoat-dong-4-KCN-cach-ly-xa-hoi-huyen-Viet-Yen/431576.vgp|access-date=2021-06-10|website=Bacgiang|language=vi}}</ref><ref>{{#invoke:cite web||title=Bắc Giang cách ly xã hội thêm huyện Lạng Giang, Lục Nam và Yên Dũng  |url=http://baobacgiang.com.vn/bg/dich-viem-duong-ho-hap-cap-do-ncov/359324/bac-giang-cach-ly-xa-hoi-them-huyen-lang-giang-luc-nam-va-yen-dung.html|website=Bacgiang|language=vi}}</ref> 
+|
+|{{DATEDIFF2|2021-05-18|2021-06-10}}
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|6 districts 
+|-
+| colspan="2" style="text-align:left" |[[File:Flag of Zimbabwe.svg|23x15px|border|alt=|link=]] [[COVID-19 pandemic in Zimbabwe|Zimbabwe]]
+|2020-03-30<ref name="ZWlockdown">{{#invoke:cite news| |url=https://www.voanews.com/science-health/coronavirus-outbreak/zimbabwe-begins-lockdown-fight-covid19 |title=Zimbabwe Begins Lockdown to Fight COVID19|date=30 March 2020 |website=voanews.com|access-date=30 March 2020}}</ref>
+|2020-05-02<ref>{{#invoke:cite news|
+| author      = [[Reuters]]
+| date         = 19 April 2020
+| title        = Zimbabwe president extends coronavirus lockdown by two more weeks
+| url          = https://news.yahoo.com/zimbabwe-president-extends-coronavirus-lockdown-144235421.html
+| work         = [[Reuters]]
+| access-date  = 20 April 2020
+}}</ref>
+|33
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+| || || 
+|33
+|National
+|-
+| colspan="28" style="font-size:85%" |Outbreak ongoing: Lockdown data as of {{date|2=dmy}}
+'''Notes'''
+{{Notelist|2}}
+|}</div>
+<noinclude>
+
+{{clear}}
+
+{{COVID-19 pandemic|state=expanded}}
+
+[[Category:COVID-19 pandemic templates]]
+[[Category:Templates that generate named references]]
+</noinclude>
